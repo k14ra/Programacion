@@ -1,4 +1,4 @@
-package utils;
+package world;
 
 import java.util.Scanner;
 import java.util.Set;
@@ -8,6 +8,7 @@ import org.apache.logging.log4j.Logger;
 
 import model.City;
 import service.CityService;
+import utils.DBConnection;
 
 public class Init {
 
