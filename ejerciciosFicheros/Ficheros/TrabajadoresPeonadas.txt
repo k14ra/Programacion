@@ -1,0 +1,5 @@
+Nombre: Juan. Peonadas: 2
+Nombre: Pedro. Peonadas: 4
+Nombre: Daniel. Peonadas: 2
+Nombre: Carlos. Peonadas: 3
+Nombre: Luis. Peonadas: 2
