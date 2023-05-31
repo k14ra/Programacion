@@ -1,0 +1,15 @@
+Gestion [nombre=Manuel, apellidos=López Arguello, curso=Access, nota=1, observaciones=
+Gestion [nombre=Manuel, apellidos=López Arguello, curso=Excel, nota=4, observaciones=Trabaja poco
+Gestion [nombre=Nicolás, apellidos=Solano Mora, curso=Access, nota=6, observaciones=Es un buen alumno
+Gestion [nombre=Nicolás, apellidos=Solano Mora, curso=Excel, nota=6, observaciones=
+Gestion [nombre=Nicolás, apellidos=Solano Mora, curso=Excel, nota=6, observaciones=Regular
+Gestion [nombre=Luisa, apellidos=Arrollo Paniagua, curso=Access, nota=1, observaciones=
+Gestion [nombre=Luisa, apellidos=Arrollo Paniagua, curso=PowerPoint, nota=8, observaciones=Estudia bastante
+Gestion [nombre=Luisa, apellidos=Arrollo Paniagua, curso=Excel, nota=7, observaciones=Regular alto
+Gestion [nombre=Luisa, apellidos=Arrollo Paniagua, curso=Microsoft Office, nota=10, observaciones=
+Gestion [nombre=Andrea, apellidos=Quirós Solano, curso=Excel, nota=5, observaciones=No parece tener interés
+Gestion [nombre=Andrea, apellidos=Quirós Solano, curso=Access, nota=10, observaciones=Muy buen estudiante
+Gestion [nombre=Carlos, apellidos=Fernández Murillo, curso=Access, nota=8, observaciones=Estudia mucho
+Gestion [nombre=Carlos, apellidos=Fernández Murillo, curso=Contabilidad, nota=7, observaciones=Va bien
+Gestion [nombre=Armando, apellidos=Mora Jiménez, curso=Contabilidad, nota=1, observaciones=No estudia nada
+Gestion [nombre=Armando, apellidos=Mora Jiménez, curso=Excel, nota=4, observaciones=Estudia poco

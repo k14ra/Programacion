@@ -1,0 +1,6 @@
+Alumnos [idAlumno=1, nombre=Manuel, Apellidos=López Arguello, tlf=683518785, fechaNac=1984-11-24
+Alumnos [idAlumno=2, nombre=Nicolás, Apellidos=Solano Mora, tlf=624535487, fechaNac=1994-01-11
+Alumnos [idAlumno=3, nombre=Luisa, Apellidos=Arrollo Paniagua, tlf=622224898, fechaNac=1990-04-08
+Alumnos [idAlumno=4, nombre=Andrea, Apellidos=Quirós Solano, tlf=626488786, fechaNac=1975-07-09
+Alumnos [idAlumno=5, nombre=Carlos, Apellidos=Fernández Murillo, tlf=684878611, fechaNac=1991-12-25
+Alumnos [idAlumno=6, nombre=Armando, Apellidos=Mora Jiménez, tlf=683797458, fechaNac=1989-04-03
