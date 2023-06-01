@@ -31,12 +31,13 @@ public class Init {
 			do {
 				System.out.println("Introduzca la opcion deseada: ");
 				opc = sc.nextInt();
-				
+				AlumnosService as = new AlumnosService();
+				GestionService gs = new GestionService();
+
 				switch (opc) {
 				case 1:
-					AlumnosService as1 = new AlumnosService();
 					ArrayList<Alumnos> listado = new ArrayList<>();
-					listado = as1.listarAlumnos();
+					listado = as.listarAlumnos();
 					for (Alumnos lisst : listado) {
 						System.out.println(lisst);
 					}
@@ -50,35 +51,29 @@ public class Init {
 					}
 					break;
 				case 3:
-					GestionService gs1 = new GestionService();
 					ArrayList<Gestion> lista3 = new ArrayList<>();
-					lista3 = gs1.AlumnosNotas();
+					lista3 = gs.AlumnosNotas();
 					for (Gestion gestion : lista3) {
 						System.out.println(gestion);
 					}
 					break;
 				case 4:
-					AlumnosService as = new AlumnosService();
 					as.volcarAlumnosFichero();
 					break;
 				case 5:
-					GestionService gs = new GestionService();
 					gs.AlumnosNotasFichero();
 					gs.LeerAlumnosNotas();
 					break;
 				case 6:
-					AlumnosService as2 = new AlumnosService();
 					//Tendria que modificar los modelos y por tanto todo lo demas a LocalDate.
 					//as2.addAlumno(81, "Lara", "Lopez", "677736372",  LocalDate.of(2016, 8, 19));
-					as2.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
+					as.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
 					break;
 				case 7:
-					AlumnosService as3 = new AlumnosService();
-					as3.modifyNombreAlumno("Laia", "Armando");
+					as.modifyNombreAlumno("Laia", "Armando");
 					break;
 				case 8:
-					AlumnosService as4 = new AlumnosService();
-					as4.deleteAlumno(82);
+					as.deleteAlumno(82);
 					break;
 				case 9:
 					DBConnection.getInstance().destroyConnection();
