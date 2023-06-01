@@ -13,7 +13,9 @@ public class AlumnosDAOMysql implements AlumnosDAO {
 
 	private final static String GET_STUDENTS = "SELECT codigoalumno, nombre, apellidos, telefono, fechanacimiento FROM alumnos";
 	private final static String INSERT_STUDENT = "INSERT INTO alumnos VALUES(?,?,?,?,?)";
-	
+	public static final String MODIFY_STUDENT = "update alumnos set nombre = ? where nombre = ?";
+	public static final String DELETE_STUDENT = "delete from alumnos where CodigoAlumno = ?";
+
 	@Override
 	public ArrayList<Alumnos> getAll() {
 		ArrayList<Alumnos> listaAlumnos = new ArrayList<>();
@@ -32,7 +34,6 @@ public class AlumnosDAOMysql implements AlumnosDAO {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-
 		return listaAlumnos;
 	}
 
@@ -46,7 +47,33 @@ public class AlumnosDAOMysql implements AlumnosDAO {
 			stmt.setDate(5, fechaNac);
 			
 			stmt.executeUpdate();
+			System.out.println("Alumno añadido correctamente.");
 
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	@Override
+	public void modifyNombreAlumno(String nombreOriginal, String nombreNuevo) {
+		try (PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(MODIFY_STUDENT);){
+			stmt.setString(1, nombreNuevo);
+			stmt.setString(2, nombreOriginal);
+			
+			stmt.executeUpdate();
+			System.out.println("Nombre del alumno modificado");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public void deleteAlumno(int id) {
+		try (PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(DELETE_STUDENT);){
+			stmt.setInt(1, id);
+			
+			stmt.executeUpdate();
+			System.out.println("Alumno eliminado correctamente.");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}

@@ -1,16 +1,13 @@
 package cursos;
 
-import java.sql.Date;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import dao.AlumnosDAOMysql;
-import dao.CursosDAOMysql;
-import dao.GestionDAOMysql;
 import model.Alumnos;
 import model.Cursos;
 import model.Gestion;
 import service.AlumnosService;
+import service.CursosService;
 import service.GestionService;
 import utils.DBConnection;
 
@@ -37,28 +34,25 @@ public class Init {
 				
 				switch (opc) {
 				case 1:
-					AlumnosDAOMysql dao = new AlumnosDAOMysql();
-					ArrayList<Alumnos> lista = new ArrayList<Alumnos>();
-					lista = dao.getAll();
-					
-					for (Alumnos alumnos : lista) {
-						System.out.println(alumnos);
+					AlumnosService as1 = new AlumnosService();
+					ArrayList<Alumnos> listado = new ArrayList<>();
+					listado = as1.listarAlumnos();
+					for (Alumnos lisst : listado) {
+						System.out.println(lisst);
 					}
 					break;
 				case 2:
-					CursosDAOMysql dao2 = new CursosDAOMysql();
+					CursosService cs = new CursosService();
 					ArrayList<Cursos> lista2 = new ArrayList<Cursos>();
-					lista2 = dao2.getAll();
-					
+					lista2 = cs.getAll();
 					for (Cursos cursos : lista2) {
 						System.out.println(cursos);
 					}
 					break;
 				case 3:
-					GestionDAOMysql dao3 = new GestionDAOMysql();
+					GestionService gs1 = new GestionService();
 					ArrayList<Gestion> lista3 = new ArrayList<>();
-					lista3 = dao3.getGestion();
-					
+					lista3 = gs1.AlumnosNotas();
 					for (Gestion gestion : lista3) {
 						System.out.println(gestion);
 					}
@@ -73,14 +67,18 @@ public class Init {
 					gs.LeerAlumnosNotas();
 					break;
 				case 6:
-					AlumnosDAOMysql al = new AlumnosDAOMysql();
-					al.addAlumno(80, "Sara", "Lopez", "677736372", null);
+					AlumnosService as2 = new AlumnosService();
+					//Tendria que modificar los modelos y por tanto todo lo demas a LocalDate.
+					//as2.addAlumno(81, "Lara", "Lopez", "677736372",  LocalDate.of(2016, 8, 19));
+					as2.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
 					break;
 				case 7:
-					
+					AlumnosService as3 = new AlumnosService();
+					as3.modifyNombreAlumno("Laia", "Armando");
 					break;
 				case 8:
-					
+					AlumnosService as4 = new AlumnosService();
+					as4.deleteAlumno(82);
 					break;
 				case 9:
 					DBConnection.getInstance().destroyConnection();
@@ -93,17 +91,5 @@ public class Init {
 		} while (opc != 9);
 		
 		sc.close();
-		
-		
-		
-		
-		
-		
-
-		
-
-		
-		
-
 	}
 }

@@ -6,6 +6,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.sql.Date;
 import java.util.ArrayList;
 
 import model.Alumnos;
@@ -17,6 +18,19 @@ public class AlumnosService {
 		return AlumnosRepository.getInstance().getAll();
 	}
 	
+	
+	public void addAlumno(int id, String nombre, String apellidos, String tlfn, Date fechaNac) {
+		AlumnosRepository.getInstance().addAlumno(id, nombre, apellidos, tlfn, fechaNac);
+	}
+	
+	public void modifyNombreAlumno(String nombreOriginal, String nombreNuevo) {
+		AlumnosRepository.getInstance().modifyNombreAlumno(nombreOriginal, nombreNuevo);
+	}
+
+	public void deleteAlumno(int id) {
+		AlumnosRepository.getInstance().deleteAlumno(id);
+	}
+
 	/**
 	 * Vuelca todos los alumnos en un fichero .txt
 	 */
