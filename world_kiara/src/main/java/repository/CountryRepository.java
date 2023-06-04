@@ -4,20 +4,21 @@ import java.util.ArrayList;
 
 import dao.CountryDAO;
 import dao.CountryDAOMysql;
+import model.City;
 import model.Country;
 
-public class CountryRespository {
+public class CountryRepository {
 
 	private CountryDAO dao;
-	private static CountryRespository instance;
+	private static CountryRepository instance;
 	
-	public static CountryRespository getInstance() {
+	public static CountryRepository getInstance() {
 		if(instance == null) {
-			instance = new CountryRespository();
+			instance = new CountryRepository();
 		} return instance;
 	}
 	
-	private CountryRespository() {
+	private CountryRepository() {
 		dao = new CountryDAOMysql();
 	}
 	
@@ -27,6 +28,10 @@ public class CountryRespository {
 
 	public boolean existePais(String name) {
 		return dao.existePais(name);
+	}
+
+	public Country encontrarPais(String codigoPais) {
+		return dao.encontrarPais(codigoPais);
 	}
 
 }

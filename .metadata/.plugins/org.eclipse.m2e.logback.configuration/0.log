@@ -1692,3 +1692,53 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2023-05-31 17:15:13,427 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\grana\Documents\GitHub\Programacion\cursos\src\main\resources
 2023-05-31 17:15:13,428 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-05-31 17:15:13,428 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\grana\Documents\GitHub\Programacion\cursos\src\test\resources
+2023-06-04 17:12:24,476 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-04 17:12:57,977 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tema9:cursos:0.0.1-SNAPSHOT @ C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\cursos\pom.xml.
+2023-06-04 17:12:58,252 [Worker-21: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-04 17:12:58,442 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursos/src/main/java
+2023-06-04 17:12:58,443 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cursos/src/test/java
+2023-06-04 17:12:58,487 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-06-04 17:12:58,717 [Worker-5: Auto share git projects] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2023-06-04 17:13:00,335 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:00,336 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\cursos\src\main\resources
+2023-06-04 17:13:00,341 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:00,341 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\cursos\src\test\resources
+2023-06-04 17:13:15,243 [Worker-36: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tema8:ejerciciosFicheros:0.0.1-SNAPSHOT @ C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\pom.xml.
+2023-06-04 17:13:15,269 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejerciciosFicheros/src/main/java
+2023-06-04 17:13:15,269 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejerciciosFicheros/src/test/java
+2023-06-04 17:13:15,288 [Worker-36: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-06-04 17:13:15,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:15,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\main\resources
+2023-06-04 17:13:15,578 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:15,579 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\test\resources
+2023-06-04 17:13:16,673 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:16,674 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\main\resources
+2023-06-04 17:13:16,677 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:16,677 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\test\resources
+2023-06-04 17:13:26,607 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.alonso.kiara.tema9:world:0.0.1-SNAPSHOT @ C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\pom.xml.
+2023-06-04 17:13:26,654 [Worker-5: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-04 17:13:26,687 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema9_World/src/main/java
+2023-06-04 17:13:26,689 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tema9_World/src/test/java
+2023-06-04 17:13:26,714 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-06-04 17:13:27,011 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:27,012 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\main\resources
+2023-06-04 17:13:27,015 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:27,016 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\test\resources
+2023-06-04 17:13:28,155 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:28,155 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\main\resources
+2023-06-04 17:13:28,158 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:28,158 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\test\resources
+2023-06-04 17:13:33,638 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,638 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\main\resources
+2023-06-04 17:13:33,640 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,640 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\Tema9_World\src\test\resources
+2023-06-04 17:13:33,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\cursos\src\main\resources
+2023-06-04 17:13:33,648 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,648 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\cursos\src\test\resources
+2023-06-04 17:13:33,655 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,655 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\main\resources
+2023-06-04 17:13:33,659 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-04 17:13:33,659 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiara\git\repository\ejerciciosT1\Programacion\ejerciciosFicheros\src\test\resources
+2023-06-04 17:28:16,130 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-04 17:28:16,684 [Worker-9: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null

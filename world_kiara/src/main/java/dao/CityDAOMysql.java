@@ -11,6 +11,7 @@ import utils.DBConnection;
 public class CityDAOMysql implements CityDAO{
 
 	private final String SELECT_CITIES = "SELECT id, name, countrycode, district, population FROM CITY";
+	private final String INFO_CITY = "SELECT id, name, countrycode, district, population FROM CITY WHERE id = ?";
 	
 	@Override
 	public ArrayList<City> getAll() {
@@ -48,6 +49,34 @@ public class CityDAOMysql implements CityDAO{
 			}
 		}
 		return false;
+	}
+
+	//devuelve un objeto de tipo City con información de la ciudad con código codigoCiudad.
+	@Override
+	public City getCity(int codigoCiudad) {
+		City c = null;
+		try(PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(INFO_CITY);){
+			stmt.setInt(1, codigoCiudad);
+			ResultSet rs = stmt.executeQuery();
+
+			while(rs.next()) {
+				if (rs.getInt("id") == codigoCiudad) {
+					c = new City(
+							rs.getInt("id"),
+							rs.getString("name"),
+							rs.getString("countrycode"),
+							rs.getString("district"),
+							rs.getInt("population")
+						);
+					return c;
+				} else {
+					System.out.println("Ciudad no encontrada.");
+				}
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return c;
 	}
 
 }

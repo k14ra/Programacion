@@ -29,4 +29,8 @@ public class CityRepository {
 		return dao.existeCiudad(id);
 	}
 		
+	public City getCity(int codigoCiudad) {
+		return dao.getCity(codigoCiudad);
+	}
+
 }

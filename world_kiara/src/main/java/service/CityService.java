@@ -15,4 +15,8 @@ public class CityService {
 		return CityRepository.getInstance().existeCiudad(id);
 	}
 
+	public City getCity(int codigoCiudad) {
+		return CityRepository.getInstance().getCity(codigoCiudad);
+	}
+
 }

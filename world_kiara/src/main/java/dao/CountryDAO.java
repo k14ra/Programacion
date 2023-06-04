@@ -19,4 +19,12 @@ public interface CountryDAO {
 	 * @return T si el pais esta registrado, F si no lo esta
 	 */
 	public boolean existePais(String name);	
+	
+	/**
+	 * devuelve un objeto de tipo Country con información 
+	 * del país con código codigoPais.
+	 * @param codigoPais
+	 * @return
+	 */
+	public Country encontrarPais(String codigoPais);
 }

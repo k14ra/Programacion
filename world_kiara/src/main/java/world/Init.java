@@ -21,7 +21,9 @@ public class Init {
 			System.out.println("2 Listar paises");
 			System.out.println("3 Existe ciudad ? por id");
 			System.out.println("4 Existe pais ? por nombre");
-			System.out.println("5 Salir");
+			System.out.println("5 Buscar ciudad");
+			System.out.println("6 Buscar pais");
+			System.out.println("7 Salir");
 			
 			do {
 				System.out.println("Introduce la opcion deseada: ");
@@ -41,15 +43,20 @@ public class Init {
 					System.out.println(cos.existePais("Spain"));
 					break;
 				case 5:
+					System.out.println(cs.getCity(4046));
+					break;
+				case 6:
+					System.out.println(cos.devolverPais("United States"));
+					break;
+				case 7:
 					DBConnection.getInstance().destroyConnection();
 					System.out.println("Conexion cerrada con exito.");
 					break;
-
 				}
 				
-			}while(opc > 0 || opc < 6);
+			}while(opc > 0 || opc < 8);
 			
-		} while(opc != 5);
+		} while(opc != 7);
 		
 		sc.close();
 	}

@@ -11,6 +11,7 @@ import utils.DBConnection;
 public class CountryDAOMysql implements CountryDAO{
 
 	private final String SELECT_COUNTRIES = "SELECT code, name, continent, region, population FROM COUNTRY";
+	private final String SELECT_COUNTRY = "SELECT code, name, continent, region, population FROM COUNTRY WHERE code = ?";
 
 	@Override
 	public ArrayList<Country> getAll() {
@@ -48,5 +49,33 @@ public class CountryDAOMysql implements CountryDAO{
 		}
 		return false;
 	}
-	
+
+	@Override
+	public Country encontrarPais(String codigoPais) {
+		Country c = null;
+		
+		try(PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(SELECT_COUNTRY);){
+			stmt.setString(1, codigoPais);
+			ResultSet rs = stmt.executeQuery();
+			
+			while(rs.next()) {
+				if(rs.getString("code") == codigoPais) {
+					c = new Country(
+							rs.getString("code"),
+							rs.getString("name"),
+							rs.getString("continent"),
+							rs.getString("region"),
+							rs.getInt("population")
+						);
+					return c;
+				}else {
+					System.out.println("Pais no encontrado.");
+				}
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return c;
+	}
 }
+

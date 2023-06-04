@@ -19,6 +19,12 @@ public interface CityDAO {
 	 */
 	public boolean existeCiudad(int id);
 	
-	
+	/**
+	 * devuelve un objeto de tipo City con 
+	 información de la ciudad con código codigoCiudad.
+	 * @param codigoCiudad
+	 * @return city object 
+	 */
+	public City getCity(int codigoCiudad);
 	
 }
