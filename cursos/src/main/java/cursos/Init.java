@@ -17,6 +17,7 @@ public class Init {
 		int opc = 0;
 		Scanner sc = new Scanner(System.in);
 		
+		
 		do {
 			System.out.println("1.- Mostrar alumnos");
 			System.out.println("2.- Mostrar cursos");
