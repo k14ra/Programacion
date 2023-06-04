@@ -65,7 +65,6 @@ public class Init {
 					gs.LeerAlumnosNotas();
 					break;
 				case 6:
-					//Tendria que modificar los modelos y por tanto todo lo demas a LocalDate.
 					//as2.addAlumno(81, "Lara", "Lopez", "677736372",  LocalDate.of(2016, 8, 19));
 					as.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
 					break;
