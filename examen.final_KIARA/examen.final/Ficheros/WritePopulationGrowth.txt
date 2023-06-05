@@ -1,0 +1,7 @@
+Nombre del continente: Asia - Poblacion: 14820102800 Nombre de la ciudad: null
+Nombre del continente: Europe - Poblacion: -4380447600 Nombre de la ciudad: null
+Nombre del continente: North America - Poblacion: 2897958000 Nombre de la ciudad: null
+Nombre del continente: Africa - Poblacion: 4706850000 Nombre de la ciudad: null
+Nombre del continente: Oceania - Poblacion: 60802300 Nombre de la ciudad: null
+Nombre del continente: Antarctica - Poblacion: 0 Nombre de la ciudad: null
+Nombre del continente: South America - Poblacion: 345780000 Nombre de la ciudad: null
