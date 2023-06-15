@@ -1,4 +1,4 @@
-package model;
+  package model;
 
 import java.util.Objects;
 
@@ -58,7 +58,7 @@ public class City {
 
 	@Override
 	public String toString() {
-		return "City [cityName=" + cityName + ", countryName=" + countryName + ", cityPopulation=" + cityPopulation
+		return "Nombre de la ciudad: " + cityName + ", nombre del pais: " + countryName + ", Poblacion ciudad: " + cityPopulation
 				+ "\n";
 	}
 	

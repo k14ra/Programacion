@@ -2,12 +2,12 @@ package model;
 
 import java.util.Objects;
 
-public class Country {
+public class Continent {
 
 	private String name;
 	private long population;
 	
-	public Country(String name, long population) {
+	public Continent(String name, long population) {
 		this.name = name;
 		this.population = population;
 	}
@@ -41,12 +41,12 @@ public class Country {
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		Country other = (Country) obj;
+		Continent other = (Continent) obj;
 		return Objects.equals(name, other.name) && population == other.population;
 	}
 
 	@Override
 	public String toString() {
-		return "Country [name=" + name + ", population=" + population + "\n";
+		return "Pais: " + name + ", poblacion: " + population + "\n";
 	}
 }

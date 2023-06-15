@@ -1,0 +1,1766 @@
+Nombre de la ciudad: Kabul, nombre del pais: Afghanistan, Poblacion ciudad: 1851912
+Nombre de la ciudad: Qandahar, nombre del pais: Afghanistan, Poblacion ciudad: 247095
+Nombre de la ciudad: Herat, nombre del pais: Afghanistan, Poblacion ciudad: 194346
+Nombre de la ciudad: Mazar-e-Sharif, nombre del pais: Afghanistan, Poblacion ciudad: 132963
+Nombre de la ciudad: Dubai, nombre del pais: United Arab Emirates, Poblacion ciudad: 696215
+Nombre de la ciudad: Abu Dhabi, nombre del pais: United Arab Emirates, Poblacion ciudad: 414801
+Nombre de la ciudad: Sharja, nombre del pais: United Arab Emirates, Poblacion ciudad: 333025
+Nombre de la ciudad: al-Ayn, nombre del pais: United Arab Emirates, Poblacion ciudad: 235098
+Nombre de la ciudad: Ajman, nombre del pais: United Arab Emirates, Poblacion ciudad: 119015
+Nombre de la ciudad: Yerevan, nombre del pais: Armenia, Poblacion ciudad: 1299147
+Nombre de la ciudad: Gjumri, nombre del pais: Armenia, Poblacion ciudad: 220252
+Nombre de la ciudad: Vanadzor, nombre del pais: Armenia, Poblacion ciudad: 179677
+Nombre de la ciudad: Baku, nombre del pais: Azerbaijan, Poblacion ciudad: 1860027
+Nombre de la ciudad: Gäncä, nombre del pais: Azerbaijan, Poblacion ciudad: 311391
+Nombre de la ciudad: Sumqayit, nombre del pais: Azerbaijan, Poblacion ciudad: 294433
+Nombre de la ciudad: Mingäçevir, nombre del pais: Azerbaijan, Poblacion ciudad: 97693
+Nombre de la ciudad: Dhaka, nombre del pais: Bangladesh, Poblacion ciudad: 3758809
+Nombre de la ciudad: Chittagong, nombre del pais: Bangladesh, Poblacion ciudad: 1449131
+Nombre de la ciudad: Khulna, nombre del pais: Bangladesh, Poblacion ciudad: 690138
+Nombre de la ciudad: Rajshahi, nombre del pais: Bangladesh, Poblacion ciudad: 305935
+Nombre de la ciudad: Narayanganj, nombre del pais: Bangladesh, Poblacion ciudad: 210299
+Nombre de la ciudad: Rangpur, nombre del pais: Bangladesh, Poblacion ciudad: 199129
+Nombre de la ciudad: Mymensingh, nombre del pais: Bangladesh, Poblacion ciudad: 196336
+Nombre de la ciudad: Barisal, nombre del pais: Bangladesh, Poblacion ciudad: 177108
+Nombre de la ciudad: Tungi, nombre del pais: Bangladesh, Poblacion ciudad: 175517
+Nombre de la ciudad: Jessore, nombre del pais: Bangladesh, Poblacion ciudad: 145354
+Nombre de la ciudad: Comilla, nombre del pais: Bangladesh, Poblacion ciudad: 140779
+Nombre de la ciudad: Nawabganj, nombre del pais: Bangladesh, Poblacion ciudad: 135851
+Nombre de la ciudad: Dinajpur, nombre del pais: Bangladesh, Poblacion ciudad: 132978
+Nombre de la ciudad: Bogra, nombre del pais: Bangladesh, Poblacion ciudad: 125024
+Nombre de la ciudad: Sylhet, nombre del pais: Bangladesh, Poblacion ciudad: 122137
+Nombre de la ciudad: Brahmanbaria, nombre del pais: Bangladesh, Poblacion ciudad: 113436
+Nombre de la ciudad: Tangail, nombre del pais: Bangladesh, Poblacion ciudad: 110286
+Nombre de la ciudad: Jamalpur, nombre del pais: Bangladesh, Poblacion ciudad: 107739
+Nombre de la ciudad: Pabna, nombre del pais: Bangladesh, Poblacion ciudad: 107448
+Nombre de la ciudad: Naogaon, nombre del pais: Bangladesh, Poblacion ciudad: 105356
+Nombre de la ciudad: Sirajganj, nombre del pais: Bangladesh, Poblacion ciudad: 103695
+Nombre de la ciudad: Narsinghdi, nombre del pais: Bangladesh, Poblacion ciudad: 102314
+Nombre de la ciudad: Saidpur, nombre del pais: Bangladesh, Poblacion ciudad: 100686
+Nombre de la ciudad: Gazipur, nombre del pais: Bangladesh, Poblacion ciudad: 100624
+Nombre de la ciudad: al-Manama, nombre del pais: Bahrain, Poblacion ciudad: 153979
+Nombre de la ciudad: Bandar Seri Begawan, nombre del pais: Brunei, Poblacion ciudad: 22351
+Nombre de la ciudad: Thimphu, nombre del pais: Bhutan, Poblacion ciudad: 22888
+Nombre de la ciudad: Shanghai, nombre del pais: China, Poblacion ciudad: 10088030
+Nombre de la ciudad: Peking, nombre del pais: China, Poblacion ciudad: 7773868
+Nombre de la ciudad: Chongqing, nombre del pais: China, Poblacion ciudad: 6608204
+Nombre de la ciudad: Tianjin, nombre del pais: China, Poblacion ciudad: 5500386
+Nombre de la ciudad: Wuhan, nombre del pais: China, Poblacion ciudad: 4520121
+Nombre de la ciudad: Harbin, nombre del pais: China, Poblacion ciudad: 4463107
+Nombre de la ciudad: Shenyang, nombre del pais: China, Poblacion ciudad: 4437514
+Nombre de la ciudad: Kanton [Guangzhou], nombre del pais: China, Poblacion ciudad: 4428254
+Nombre de la ciudad: Chengdu, nombre del pais: China, Poblacion ciudad: 3497304
+Nombre de la ciudad: Nanking [Nanjing], nombre del pais: China, Poblacion ciudad: 2986260
+Nombre de la ciudad: Changchun, nombre del pais: China, Poblacion ciudad: 2925604
+Nombre de la ciudad: Xi´an, nombre del pais: China, Poblacion ciudad: 2872960
+Nombre de la ciudad: Dalian, nombre del pais: China, Poblacion ciudad: 2805958
+Nombre de la ciudad: Qingdao, nombre del pais: China, Poblacion ciudad: 2700878
+Nombre de la ciudad: Jinan, nombre del pais: China, Poblacion ciudad: 2370135
+Nombre de la ciudad: Hangzhou, nombre del pais: China, Poblacion ciudad: 2278996
+Nombre de la ciudad: Zhengzhou, nombre del pais: China, Poblacion ciudad: 2192330
+Nombre de la ciudad: Shijiazhuang, nombre del pais: China, Poblacion ciudad: 2123976
+Nombre de la ciudad: Taiyuan, nombre del pais: China, Poblacion ciudad: 2047923
+Nombre de la ciudad: Kunming, nombre del pais: China, Poblacion ciudad: 1903411
+Nombre de la ciudad: Changsha, nombre del pais: China, Poblacion ciudad: 1882915
+Nombre de la ciudad: Nanchang, nombre del pais: China, Poblacion ciudad: 1759940
+Nombre de la ciudad: Fuzhou, nombre del pais: China, Poblacion ciudad: 1658189
+Nombre de la ciudad: Lanzhou, nombre del pais: China, Poblacion ciudad: 1629058
+Nombre de la ciudad: Guiyang, nombre del pais: China, Poblacion ciudad: 1524394
+Nombre de la ciudad: Ningbo, nombre del pais: China, Poblacion ciudad: 1426596
+Nombre de la ciudad: Hefei, nombre del pais: China, Poblacion ciudad: 1424411
+Nombre de la ciudad: Urumtši [Ürümqi], nombre del pais: China, Poblacion ciudad: 1363028
+Nombre de la ciudad: Anshan, nombre del pais: China, Poblacion ciudad: 1248480
+Nombre de la ciudad: Fushun, nombre del pais: China, Poblacion ciudad: 1248480
+Nombre de la ciudad: Nanning, nombre del pais: China, Poblacion ciudad: 1208736
+Nombre de la ciudad: Zibo, nombre del pais: China, Poblacion ciudad: 1186056
+Nombre de la ciudad: Qiqihar, nombre del pais: China, Poblacion ciudad: 1113228
+Nombre de la ciudad: Jilin, nombre del pais: China, Poblacion ciudad: 1082016
+Nombre de la ciudad: Tangshan, nombre del pais: China, Poblacion ciudad: 1082016
+Nombre de la ciudad: Baotou, nombre del pais: China, Poblacion ciudad: 1019592
+Nombre de la ciudad: Shenzhen, nombre del pais: China, Poblacion ciudad: 988900
+Nombre de la ciudad: Hohhot, nombre del pais: China, Poblacion ciudad: 953734
+Nombre de la ciudad: Handan, nombre del pais: China, Poblacion ciudad: 873936
+Nombre de la ciudad: Wuxi, nombre del pais: China, Poblacion ciudad: 863532
+Nombre de la ciudad: Xuzhou, nombre del pais: China, Poblacion ciudad: 842724
+Nombre de la ciudad: Datong, nombre del pais: China, Poblacion ciudad: 832320
+Nombre de la ciudad: Yichun, nombre del pais: China, Poblacion ciudad: 832320
+Nombre de la ciudad: Benxi, nombre del pais: China, Poblacion ciudad: 801108
+Nombre de la ciudad: Luoyang, nombre del pais: China, Poblacion ciudad: 790704
+Nombre de la ciudad: Suzhou, nombre del pais: China, Poblacion ciudad: 738684
+Nombre de la ciudad: Xining, nombre del pais: China, Poblacion ciudad: 728488
+Nombre de la ciudad: Huainan, nombre del pais: China, Poblacion ciudad: 728280
+Nombre de la ciudad: Jixi, nombre del pais: China, Poblacion ciudad: 711513
+Nombre de la ciudad: Daqing, nombre del pais: China, Poblacion ciudad: 686664
+Nombre de la ciudad: Fuxin, nombre del pais: China, Poblacion ciudad: 665856
+Nombre de la ciudad: Amoy [Xiamen], nombre del pais: China, Poblacion ciudad: 652851
+Nombre de la ciudad: Liuzhou, nombre del pais: China, Poblacion ciudad: 634644
+Nombre de la ciudad: Shantou, nombre del pais: China, Poblacion ciudad: 603432
+Nombre de la ciudad: Jinzhou, nombre del pais: China, Poblacion ciudad: 593028
+Nombre de la ciudad: Mudanjiang, nombre del pais: China, Poblacion ciudad: 593028
+Nombre de la ciudad: Yinchuan, nombre del pais: China, Poblacion ciudad: 566497
+Nombre de la ciudad: Changzhou, nombre del pais: China, Poblacion ciudad: 551412
+Nombre de la ciudad: Zhangjiakou, nombre del pais: China, Poblacion ciudad: 551412
+Nombre de la ciudad: Dandong, nombre del pais: China, Poblacion ciudad: 541008
+Nombre de la ciudad: Hegang, nombre del pais: China, Poblacion ciudad: 541008
+Nombre de la ciudad: Kaifeng, nombre del pais: China, Poblacion ciudad: 530604
+Nombre de la ciudad: Jiamusi, nombre del pais: China, Poblacion ciudad: 513342
+Nombre de la ciudad: Liaoyang, nombre del pais: China, Poblacion ciudad: 512458
+Nombre de la ciudad: Hengyang, nombre del pais: China, Poblacion ciudad: 506827
+Nombre de la ciudad: Baoding, nombre del pais: China, Poblacion ciudad: 502674
+Nombre de la ciudad: Hunjiang, nombre del pais: China, Poblacion ciudad: 501516
+Nombre de la ciudad: Xinxiang, nombre del pais: China, Poblacion ciudad: 492901
+Nombre de la ciudad: Huangshi, nombre del pais: China, Poblacion ciudad: 476088
+Nombre de la ciudad: Haikou, nombre del pais: China, Poblacion ciudad: 472653
+Nombre de la ciudad: Yantai, nombre del pais: China, Poblacion ciudad: 470392
+Nombre de la ciudad: Bengbu, nombre del pais: China, Poblacion ciudad: 467393
+Nombre de la ciudad: Xiangtan, nombre del pais: China, Poblacion ciudad: 459823
+Nombre de la ciudad: Weifang, nombre del pais: China, Poblacion ciudad: 445833
+Nombre de la ciudad: Wuhu, nombre del pais: China, Poblacion ciudad: 442939
+Nombre de la ciudad: Pingxiang, nombre del pais: China, Poblacion ciudad: 442771
+Nombre de la ciudad: Yingkou, nombre del pais: China, Poblacion ciudad: 438620
+Nombre de la ciudad: Anyang, nombre del pais: China, Poblacion ciudad: 437312
+Nombre de la ciudad: Panzhihua, nombre del pais: China, Poblacion ciudad: 432250
+Nombre de la ciudad: Pingdingshan, nombre del pais: China, Poblacion ciudad: 427369
+Nombre de la ciudad: Xiangfan, nombre del pais: China, Poblacion ciudad: 426987
+Nombre de la ciudad: Zhuzhou, nombre del pais: China, Poblacion ciudad: 426484
+Nombre de la ciudad: Jiaozuo, nombre del pais: China, Poblacion ciudad: 425627
+Nombre de la ciudad: Wenzhou, nombre del pais: China, Poblacion ciudad: 418106
+Nombre de la ciudad: Zhangjiang, nombre del pais: China, Poblacion ciudad: 417196
+Nombre de la ciudad: Zigong, nombre del pais: China, Poblacion ciudad: 409067
+Nombre de la ciudad: Shuangyashan, nombre del pais: China, Poblacion ciudad: 401678
+Nombre de la ciudad: Zaozhuang, nombre del pais: China, Poblacion ciudad: 396231
+Nombre de la ciudad: Yakeshi, nombre del pais: China, Poblacion ciudad: 393134
+Nombre de la ciudad: Yichang, nombre del pais: China, Poblacion ciudad: 386613
+Nombre de la ciudad: Zhenjiang, nombre del pais: China, Poblacion ciudad: 383195
+Nombre de la ciudad: Huaibei, nombre del pais: China, Poblacion ciudad: 381356
+Nombre de la ciudad: Qinhuangdao, nombre del pais: China, Poblacion ciudad: 379716
+Nombre de la ciudad: Guilin, nombre del pais: China, Poblacion ciudad: 378840
+Nombre de la ciudad: Liupanshui, nombre del pais: China, Poblacion ciudad: 378657
+Nombre de la ciudad: Panjin, nombre del pais: China, Poblacion ciudad: 377428
+Nombre de la ciudad: Yangquan, nombre del pais: China, Poblacion ciudad: 376903
+Nombre de la ciudad: Jinxi, nombre del pais: China, Poblacion ciudad: 371476
+Nombre de la ciudad: Liaoyuan, nombre del pais: China, Poblacion ciudad: 368447
+Nombre de la ciudad: Lianyungang, nombre del pais: China, Poblacion ciudad: 368445
+Nombre de la ciudad: Xianyang, nombre del pais: China, Poblacion ciudad: 366350
+Nombre de la ciudad: Tai´an, nombre del pais: China, Poblacion ciudad: 364863
+Nombre de la ciudad: Chifeng, nombre del pais: China, Poblacion ciudad: 364219
+Nombre de la ciudad: Shaoguan, nombre del pais: China, Poblacion ciudad: 364183
+Nombre de la ciudad: Nantong, nombre del pais: China, Poblacion ciudad: 357211
+Nombre de la ciudad: Leshan, nombre del pais: China, Poblacion ciudad: 354909
+Nombre de la ciudad: Baoji, nombre del pais: China, Poblacion ciudad: 351410
+Nombre de la ciudad: Linyi, nombre del pais: China, Poblacion ciudad: 337838
+Nombre de la ciudad: Tonghua, nombre del pais: China, Poblacion ciudad: 337713
+Nombre de la ciudad: Siping, nombre del pais: China, Poblacion ciudad: 330038
+Nombre de la ciudad: Changzhi, nombre del pais: China, Poblacion ciudad: 329955
+Nombre de la ciudad: Tengzhou, nombre del pais: China, Poblacion ciudad: 327811
+Nombre de la ciudad: Chaozhou, nombre del pais: China, Poblacion ciudad: 326132
+Nombre de la ciudad: Yangzhou, nombre del pais: China, Poblacion ciudad: 325531
+Nombre de la ciudad: Dongwan, nombre del pais: China, Poblacion ciudad: 321138
+Nombre de la ciudad: Ma´anshan, nombre del pais: China, Poblacion ciudad: 317759
+Nombre de la ciudad: Foshan, nombre del pais: China, Poblacion ciudad: 315407
+Nombre de la ciudad: Yueyang, nombre del pais: China, Poblacion ciudad: 315033
+Nombre de la ciudad: Xingtai, nombre del pais: China, Poblacion ciudad: 315020
+Nombre de la ciudad: Changde, nombre del pais: China, Poblacion ciudad: 313447
+Nombre de la ciudad: Shihezi, nombre del pais: China, Poblacion ciudad: 311782
+Nombre de la ciudad: Yancheng, nombre del pais: China, Poblacion ciudad: 308822
+Nombre de la ciudad: Jiujiang, nombre del pais: China, Poblacion ciudad: 302950
+Nombre de la ciudad: Dongying, nombre del pais: China, Poblacion ciudad: 293109
+Nombre de la ciudad: Shashi, nombre del pais: China, Poblacion ciudad: 292718
+Nombre de la ciudad: Xintai, nombre del pais: China, Poblacion ciudad: 292609
+Nombre de la ciudad: Jingdezhen, nombre del pais: China, Poblacion ciudad: 292542
+Nombre de la ciudad: Tongchuan, nombre del pais: China, Poblacion ciudad: 291995
+Nombre de la ciudad: Zhongshan, nombre del pais: China, Poblacion ciudad: 290093
+Nombre de la ciudad: Shiyan, nombre del pais: China, Poblacion ciudad: 284846
+Nombre de la ciudad: Tieli, nombre del pais: China, Poblacion ciudad: 276415
+Nombre de la ciudad: Jining, nombre del pais: China, Poblacion ciudad: 275963
+Nombre de la ciudad: Wuhai, nombre del pais: China, Poblacion ciudad: 274749
+Nombre de la ciudad: Mianyang, nombre del pais: China, Poblacion ciudad: 273569
+Nombre de la ciudad: Luzhou, nombre del pais: China, Poblacion ciudad: 273511
+Nombre de la ciudad: Zunyi, nombre del pais: China, Poblacion ciudad: 272440
+Nombre de la ciudad: Shizuishan, nombre del pais: China, Poblacion ciudad: 268279
+Nombre de la ciudad: Neijiang, nombre del pais: China, Poblacion ciudad: 266354
+Nombre de la ciudad: Tongliao, nombre del pais: China, Poblacion ciudad: 265435
+Nombre de la ciudad: Tieling, nombre del pais: China, Poblacion ciudad: 265136
+Nombre de la ciudad: Wafangdian, nombre del pais: China, Poblacion ciudad: 261902
+Nombre de la ciudad: Anqing, nombre del pais: China, Poblacion ciudad: 260846
+Nombre de la ciudad: Shaoyang, nombre del pais: China, Poblacion ciudad: 257214
+Nombre de la ciudad: Laiwu, nombre del pais: China, Poblacion ciudad: 256804
+Nombre de la ciudad: Chengde, nombre del pais: China, Poblacion ciudad: 256768
+Nombre de la ciudad: Tianshui, nombre del pais: China, Poblacion ciudad: 254870
+Nombre de la ciudad: Nanyang, nombre del pais: China, Poblacion ciudad: 253132
+Nombre de la ciudad: Cangzhou, nombre del pais: China, Poblacion ciudad: 252513
+Nombre de la ciudad: Yibin, nombre del pais: China, Poblacion ciudad: 250755
+Nombre de la ciudad: Huaiyin, nombre del pais: China, Poblacion ciudad: 249357
+Nombre de la ciudad: Dunhua, nombre del pais: China, Poblacion ciudad: 244598
+Nombre de la ciudad: Yanji, nombre del pais: China, Poblacion ciudad: 240219
+Nombre de la ciudad: Jiangmen, nombre del pais: China, Poblacion ciudad: 239901
+Nombre de la ciudad: Tongling, nombre del pais: China, Poblacion ciudad: 237228
+Nombre de la ciudad: Suihua, nombre del pais: China, Poblacion ciudad: 237086
+Nombre de la ciudad: Gongziling, nombre del pais: China, Poblacion ciudad: 235722
+Nombre de la ciudad: Xiantao, nombre del pais: China, Poblacion ciudad: 231887
+Nombre de la ciudad: Chaoyang, nombre del pais: China, Poblacion ciudad: 231377
+Nombre de la ciudad: Ganzhou, nombre del pais: China, Poblacion ciudad: 229021
+Nombre de la ciudad: Huzhou, nombre del pais: China, Poblacion ciudad: 226880
+Nombre de la ciudad: Baicheng, nombre del pais: China, Poblacion ciudad: 226792
+Nombre de la ciudad: Shangzi, nombre del pais: China, Poblacion ciudad: 224073
+Nombre de la ciudad: Yangjiang, nombre del pais: China, Poblacion ciudad: 223888
+Nombre de la ciudad: Qitaihe, nombre del pais: China, Poblacion ciudad: 223641
+Nombre de la ciudad: Gejiu, nombre del pais: China, Poblacion ciudad: 222950
+Nombre de la ciudad: Jiangyin, nombre del pais: China, Poblacion ciudad: 222290
+Nombre de la ciudad: Hebi, nombre del pais: China, Poblacion ciudad: 221579
+Nombre de la ciudad: Jiaxing, nombre del pais: China, Poblacion ciudad: 220071
+Nombre de la ciudad: Wuzhou, nombre del pais: China, Poblacion ciudad: 218954
+Nombre de la ciudad: Meihekou, nombre del pais: China, Poblacion ciudad: 217482
+Nombre de la ciudad: Xuchang, nombre del pais: China, Poblacion ciudad: 217250
+Nombre de la ciudad: Liaocheng, nombre del pais: China, Poblacion ciudad: 216240
+Nombre de la ciudad: Haicheng, nombre del pais: China, Poblacion ciudad: 213864
+Nombre de la ciudad: Qianjiang, nombre del pais: China, Poblacion ciudad: 213806
+Nombre de la ciudad: Baiyin, nombre del pais: China, Poblacion ciudad: 213250
+Nombre de la ciudad: Bei´an, nombre del pais: China, Poblacion ciudad: 213175
+Nombre de la ciudad: Yixing, nombre del pais: China, Poblacion ciudad: 208936
+Nombre de la ciudad: Laizhou, nombre del pais: China, Poblacion ciudad: 206689
+Nombre de la ciudad: Qaramay, nombre del pais: China, Poblacion ciudad: 205585
+Nombre de la ciudad: Acheng, nombre del pais: China, Poblacion ciudad: 205576
+Nombre de la ciudad: Dezhou, nombre del pais: China, Poblacion ciudad: 203381
+Nombre de la ciudad: Nanping, nombre del pais: China, Poblacion ciudad: 202944
+Nombre de la ciudad: Zhaoqing, nombre del pais: China, Poblacion ciudad: 202652
+Nombre de la ciudad: Beipiao, nombre del pais: China, Poblacion ciudad: 202150
+Nombre de la ciudad: Fengcheng, nombre del pais: China, Poblacion ciudad: 201612
+Nombre de la ciudad: Fuyu, nombre del pais: China, Poblacion ciudad: 200776
+Nombre de la ciudad: Xinyang, nombre del pais: China, Poblacion ciudad: 200286
+Nombre de la ciudad: Dongtai, nombre del pais: China, Poblacion ciudad: 200012
+Nombre de la ciudad: Yuci, nombre del pais: China, Poblacion ciudad: 199086
+Nombre de la ciudad: Honghu, nombre del pais: China, Poblacion ciudad: 198478
+Nombre de la ciudad: Ezhou, nombre del pais: China, Poblacion ciudad: 197803
+Nombre de la ciudad: Heze, nombre del pais: China, Poblacion ciudad: 196939
+Nombre de la ciudad: Daxian, nombre del pais: China, Poblacion ciudad: 195700
+Nombre de la ciudad: Linfen, nombre del pais: China, Poblacion ciudad: 194876
+Nombre de la ciudad: Tianmen, nombre del pais: China, Poblacion ciudad: 193859
+Nombre de la ciudad: Yiyang, nombre del pais: China, Poblacion ciudad: 193324
+Nombre de la ciudad: Quanzhou, nombre del pais: China, Poblacion ciudad: 192634
+Nombre de la ciudad: Rizhao, nombre del pais: China, Poblacion ciudad: 192522
+Nombre de la ciudad: Deyang, nombre del pais: China, Poblacion ciudad: 189859
+Nombre de la ciudad: Guangyuan, nombre del pais: China, Poblacion ciudad: 189602
+Nombre de la ciudad: Changshu, nombre del pais: China, Poblacion ciudad: 189149
+Nombre de la ciudad: Zhangzhou, nombre del pais: China, Poblacion ciudad: 188753
+Nombre de la ciudad: Hailar, nombre del pais: China, Poblacion ciudad: 187948
+Nombre de la ciudad: Nanchong, nombre del pais: China, Poblacion ciudad: 187555
+Nombre de la ciudad: Jiutai, nombre del pais: China, Poblacion ciudad: 187406
+Nombre de la ciudad: Zhaodong, nombre del pais: China, Poblacion ciudad: 187246
+Nombre de la ciudad: Shaoxing, nombre del pais: China, Poblacion ciudad: 187082
+Nombre de la ciudad: Fuyang, nombre del pais: China, Poblacion ciudad: 186826
+Nombre de la ciudad: Maoming, nombre del pais: China, Poblacion ciudad: 185901
+Nombre de la ciudad: Qujing, nombre del pais: China, Poblacion ciudad: 185886
+Nombre de la ciudad: Ghulja, nombre del pais: China, Poblacion ciudad: 184350
+Nombre de la ciudad: Jiaohe, nombre del pais: China, Poblacion ciudad: 183491
+Nombre de la ciudad: Puyang, nombre del pais: China, Poblacion ciudad: 183097
+Nombre de la ciudad: Huadian, nombre del pais: China, Poblacion ciudad: 182977
+Nombre de la ciudad: Jiangyou, nombre del pais: China, Poblacion ciudad: 182853
+Nombre de la ciudad: Qashqar, nombre del pais: China, Poblacion ciudad: 181622
+Nombre de la ciudad: Anshun, nombre del pais: China, Poblacion ciudad: 181176
+Nombre de la ciudad: Fuling, nombre del pais: China, Poblacion ciudad: 180902
+Nombre de la ciudad: Xinyu, nombre del pais: China, Poblacion ciudad: 180533
+Nombre de la ciudad: Hanzhong, nombre del pais: China, Poblacion ciudad: 176794
+Nombre de la ciudad: Danyang, nombre del pais: China, Poblacion ciudad: 176454
+Nombre de la ciudad: Chenzhou, nombre del pais: China, Poblacion ciudad: 176243
+Nombre de la ciudad: Xiaogan, nombre del pais: China, Poblacion ciudad: 172997
+Nombre de la ciudad: Shangqiu, nombre del pais: China, Poblacion ciudad: 171540
+Nombre de la ciudad: Zhuhai, nombre del pais: China, Poblacion ciudad: 171401
+Nombre de la ciudad: Qingyuan, nombre del pais: China, Poblacion ciudad: 171291
+Nombre de la ciudad: Aqsu, nombre del pais: China, Poblacion ciudad: 170720
+Nombre de la ciudad: Jining, nombre del pais: China, Poblacion ciudad: 170159
+Nombre de la ciudad: Xiaoshan, nombre del pais: China, Poblacion ciudad: 169511
+Nombre de la ciudad: Zaoyang, nombre del pais: China, Poblacion ciudad: 168749
+Nombre de la ciudad: Xinghua, nombre del pais: China, Poblacion ciudad: 168450
+Nombre de la ciudad: Hami, nombre del pais: China, Poblacion ciudad: 167831
+Nombre de la ciudad: Huizhou, nombre del pais: China, Poblacion ciudad: 167527
+Nombre de la ciudad: Jinmen, nombre del pais: China, Poblacion ciudad: 167289
+Nombre de la ciudad: Sanming, nombre del pais: China, Poblacion ciudad: 167182
+Nombre de la ciudad: Ulanhot, nombre del pais: China, Poblacion ciudad: 165982
+Nombre de la ciudad: Korla, nombre del pais: China, Poblacion ciudad: 165780
+Nombre de la ciudad: Wanxian, nombre del pais: China, Poblacion ciudad: 163158
+Nombre de la ciudad: Rui´an, nombre del pais: China, Poblacion ciudad: 162788
+Nombre de la ciudad: Zhoushan, nombre del pais: China, Poblacion ciudad: 162631
+Nombre de la ciudad: Liangcheng, nombre del pais: China, Poblacion ciudad: 162621
+Nombre de la ciudad: Jiaozhou, nombre del pais: China, Poblacion ciudad: 159559
+Nombre de la ciudad: Taizhou, nombre del pais: China, Poblacion ciudad: 158599
+Nombre de la ciudad: Suzhou, nombre del pais: China, Poblacion ciudad: 157996
+Nombre de la ciudad: Yichun, nombre del pais: China, Poblacion ciudad: 157708
+Nombre de la ciudad: Taonan, nombre del pais: China, Poblacion ciudad: 156234
+Nombre de la ciudad: Pingdu, nombre del pais: China, Poblacion ciudad: 156187
+Nombre de la ciudad: Ji´an, nombre del pais: China, Poblacion ciudad: 154585
+Nombre de la ciudad: Longkou, nombre del pais: China, Poblacion ciudad: 154355
+Nombre de la ciudad: Langfang, nombre del pais: China, Poblacion ciudad: 154088
+Nombre de la ciudad: Zhoukou, nombre del pais: China, Poblacion ciudad: 152197
+Nombre de la ciudad: Suining, nombre del pais: China, Poblacion ciudad: 151987
+Nombre de la ciudad: Yulin, nombre del pais: China, Poblacion ciudad: 150303
+Nombre de la ciudad: Jinhua, nombre del pais: China, Poblacion ciudad: 150108
+Nombre de la ciudad: Liu´an, nombre del pais: China, Poblacion ciudad: 150074
+Nombre de la ciudad: Shuangcheng, nombre del pais: China, Poblacion ciudad: 148422
+Nombre de la ciudad: Suizhou, nombre del pais: China, Poblacion ciudad: 148050
+Nombre de la ciudad: Ankang, nombre del pais: China, Poblacion ciudad: 147913
+Nombre de la ciudad: Weinan, nombre del pais: China, Poblacion ciudad: 145831
+Nombre de la ciudad: Longjing, nombre del pais: China, Poblacion ciudad: 145049
+Nombre de la ciudad: Da´an, nombre del pais: China, Poblacion ciudad: 144576
+Nombre de la ciudad: Lengshuijiang, nombre del pais: China, Poblacion ciudad: 143568
+Nombre de la ciudad: Laiyang, nombre del pais: China, Poblacion ciudad: 142617
+Nombre de la ciudad: Xianning, nombre del pais: China, Poblacion ciudad: 142337
+Nombre de la ciudad: Dali, nombre del pais: China, Poblacion ciudad: 142070
+Nombre de la ciudad: Anda, nombre del pais: China, Poblacion ciudad: 141957
+Nombre de la ciudad: Jincheng, nombre del pais: China, Poblacion ciudad: 141905
+Nombre de la ciudad: Longyan, nombre del pais: China, Poblacion ciudad: 139913
+Nombre de la ciudad: Xichang, nombre del pais: China, Poblacion ciudad: 139849
+Nombre de la ciudad: Wendeng, nombre del pais: China, Poblacion ciudad: 139319
+Nombre de la ciudad: Hailun, nombre del pais: China, Poblacion ciudad: 138960
+Nombre de la ciudad: Binzhou, nombre del pais: China, Poblacion ciudad: 138950
+Nombre de la ciudad: Linhe, nombre del pais: China, Poblacion ciudad: 138562
+Nombre de la ciudad: Wuwei, nombre del pais: China, Poblacion ciudad: 138478
+Nombre de la ciudad: Duyun, nombre del pais: China, Poblacion ciudad: 138342
+Nombre de la ciudad: Mishan, nombre del pais: China, Poblacion ciudad: 138105
+Nombre de la ciudad: Shangrao, nombre del pais: China, Poblacion ciudad: 137806
+Nombre de la ciudad: Changji, nombre del pais: China, Poblacion ciudad: 137603
+Nombre de la ciudad: Meixian, nombre del pais: China, Poblacion ciudad: 137494
+Nombre de la ciudad: Yushu, nombre del pais: China, Poblacion ciudad: 137187
+Nombre de la ciudad: Tiefa, nombre del pais: China, Poblacion ciudad: 137131
+Nombre de la ciudad: Huai´an, nombre del pais: China, Poblacion ciudad: 136446
+Nombre de la ciudad: Leiyang, nombre del pais: China, Poblacion ciudad: 135371
+Nombre de la ciudad: Zalantun, nombre del pais: China, Poblacion ciudad: 135283
+Nombre de la ciudad: Weihai, nombre del pais: China, Poblacion ciudad: 134094
+Nombre de la ciudad: Loudi, nombre del pais: China, Poblacion ciudad: 133605
+Nombre de la ciudad: Qingzhou, nombre del pais: China, Poblacion ciudad: 133439
+Nombre de la ciudad: Qidong, nombre del pais: China, Poblacion ciudad: 131997
+Nombre de la ciudad: Huaihua, nombre del pais: China, Poblacion ciudad: 131906
+Nombre de la ciudad: Luohe, nombre del pais: China, Poblacion ciudad: 131545
+Nombre de la ciudad: Chuzhou, nombre del pais: China, Poblacion ciudad: 130403
+Nombre de la ciudad: Kaiyuan, nombre del pais: China, Poblacion ciudad: 129237
+Nombre de la ciudad: Linqing, nombre del pais: China, Poblacion ciudad: 128965
+Nombre de la ciudad: Chaohu, nombre del pais: China, Poblacion ciudad: 128671
+Nombre de la ciudad: Laohekou, nombre del pais: China, Poblacion ciudad: 128349
+Nombre de la ciudad: Dujiangyan, nombre del pais: China, Poblacion ciudad: 128340
+Nombre de la ciudad: Zhumadian, nombre del pais: China, Poblacion ciudad: 128209
+Nombre de la ciudad: Linchuan, nombre del pais: China, Poblacion ciudad: 126874
+Nombre de la ciudad: Jiaonan, nombre del pais: China, Poblacion ciudad: 126300
+Nombre de la ciudad: Sanmenxia, nombre del pais: China, Poblacion ciudad: 125391
+Nombre de la ciudad: Heyuan, nombre del pais: China, Poblacion ciudad: 124953
+Nombre de la ciudad: Manzhouli, nombre del pais: China, Poblacion ciudad: 124871
+Nombre de la ciudad: Lhasa, nombre del pais: China, Poblacion ciudad: 124848
+Nombre de la ciudad: Lianyuan, nombre del pais: China, Poblacion ciudad: 123659
+Nombre de la ciudad: Kuytun, nombre del pais: China, Poblacion ciudad: 123342
+Nombre de la ciudad: Puqi, nombre del pais: China, Poblacion ciudad: 122001
+Nombre de la ciudad: Hongjiang, nombre del pais: China, Poblacion ciudad: 120881
+Nombre de la ciudad: Qinzhou, nombre del pais: China, Poblacion ciudad: 119214
+Nombre de la ciudad: Renqiu, nombre del pais: China, Poblacion ciudad: 118871
+Nombre de la ciudad: Yuyao, nombre del pais: China, Poblacion ciudad: 118672
+Nombre de la ciudad: Guigang, nombre del pais: China, Poblacion ciudad: 118631
+Nombre de la ciudad: Kaili, nombre del pais: China, Poblacion ciudad: 118561
+Nombre de la ciudad: Yan´an, nombre del pais: China, Poblacion ciudad: 117852
+Nombre de la ciudad: Beihai, nombre del pais: China, Poblacion ciudad: 117224
+Nombre de la ciudad: Xuangzhou, nombre del pais: China, Poblacion ciudad: 117224
+Nombre de la ciudad: Quzhou, nombre del pais: China, Poblacion ciudad: 116912
+Nombre de la ciudad: Yong´an, nombre del pais: China, Poblacion ciudad: 116276
+Nombre de la ciudad: Zixing, nombre del pais: China, Poblacion ciudad: 114492
+Nombre de la ciudad: Liyang, nombre del pais: China, Poblacion ciudad: 113944
+Nombre de la ciudad: Yizheng, nombre del pais: China, Poblacion ciudad: 113682
+Nombre de la ciudad: Yumen, nombre del pais: China, Poblacion ciudad: 113646
+Nombre de la ciudad: Liling, nombre del pais: China, Poblacion ciudad: 112887
+Nombre de la ciudad: Yuncheng, nombre del pais: China, Poblacion ciudad: 112736
+Nombre de la ciudad: Shanwei, nombre del pais: China, Poblacion ciudad: 112203
+Nombre de la ciudad: Cixi, nombre del pais: China, Poblacion ciudad: 111664
+Nombre de la ciudad: Yuanjiang, nombre del pais: China, Poblacion ciudad: 111326
+Nombre de la ciudad: Bozhou, nombre del pais: China, Poblacion ciudad: 110641
+Nombre de la ciudad: Jinchang, nombre del pais: China, Poblacion ciudad: 109539
+Nombre de la ciudad: Fu´an, nombre del pais: China, Poblacion ciudad: 109517
+Nombre de la ciudad: Suqian, nombre del pais: China, Poblacion ciudad: 109263
+Nombre de la ciudad: Shishou, nombre del pais: China, Poblacion ciudad: 108795
+Nombre de la ciudad: Hengshui, nombre del pais: China, Poblacion ciudad: 108481
+Nombre de la ciudad: Danjiangkou, nombre del pais: China, Poblacion ciudad: 107380
+Nombre de la ciudad: Fujin, nombre del pais: China, Poblacion ciudad: 107269
+Nombre de la ciudad: Sanya, nombre del pais: China, Poblacion ciudad: 106973
+Nombre de la ciudad: Guangshui, nombre del pais: China, Poblacion ciudad: 106921
+Nombre de la ciudad: Huangshan, nombre del pais: China, Poblacion ciudad: 106773
+Nombre de la ciudad: Xingcheng, nombre del pais: China, Poblacion ciudad: 106519
+Nombre de la ciudad: Zhucheng, nombre del pais: China, Poblacion ciudad: 106259
+Nombre de la ciudad: Kunshan, nombre del pais: China, Poblacion ciudad: 106174
+Nombre de la ciudad: Haining, nombre del pais: China, Poblacion ciudad: 104536
+Nombre de la ciudad: Pingliang, nombre del pais: China, Poblacion ciudad: 103275
+Nombre de la ciudad: Fuqing, nombre del pais: China, Poblacion ciudad: 103199
+Nombre de la ciudad: Xinzhou, nombre del pais: China, Poblacion ciudad: 102652
+Nombre de la ciudad: Jieyang, nombre del pais: China, Poblacion ciudad: 102511
+Nombre de la ciudad: Zhangjiagang, nombre del pais: China, Poblacion ciudad: 101952
+Nombre de la ciudad: Tong Xian, nombre del pais: China, Poblacion ciudad: 101093
+Nombre de la ciudad: Ya´an, nombre del pais: China, Poblacion ciudad: 99774
+Nombre de la ciudad: Jinzhou, nombre del pais: China, Poblacion ciudad: 99629
+Nombre de la ciudad: Emeishan, nombre del pais: China, Poblacion ciudad: 97797
+Nombre de la ciudad: Enshi, nombre del pais: China, Poblacion ciudad: 96815
+Nombre de la ciudad: Bose, nombre del pais: China, Poblacion ciudad: 96766
+Nombre de la ciudad: Yuzhou, nombre del pais: China, Poblacion ciudad: 96640
+Nombre de la ciudad: Kaiyuan, nombre del pais: China, Poblacion ciudad: 95714
+Nombre de la ciudad: Tumen, nombre del pais: China, Poblacion ciudad: 95166
+Nombre de la ciudad: Putian, nombre del pais: China, Poblacion ciudad: 94707
+Nombre de la ciudad: Linhai, nombre del pais: China, Poblacion ciudad: 94540
+Nombre de la ciudad: Xilin Hot, nombre del pais: China, Poblacion ciudad: 94307
+Nombre de la ciudad: Shaowu, nombre del pais: China, Poblacion ciudad: 93932
+Nombre de la ciudad: Junan, nombre del pais: China, Poblacion ciudad: 93866
+Nombre de la ciudad: Huaying, nombre del pais: China, Poblacion ciudad: 93011
+Nombre de la ciudad: Pingyi, nombre del pais: China, Poblacion ciudad: 92983
+Nombre de la ciudad: Huangyan, nombre del pais: China, Poblacion ciudad: 92894
+Nombre de la ciudad: Nicosia, nombre del pais: Cyprus, Poblacion ciudad: 202878
+Nombre de la ciudad: Limassol, nombre del pais: Cyprus, Poblacion ciudad: 160637
+Nombre de la ciudad: Tbilisi, nombre del pais: Georgia, Poblacion ciudad: 1285102
+Nombre de la ciudad: Kutaisi, nombre del pais: Georgia, Poblacion ciudad: 250632
+Nombre de la ciudad: Rustavi, nombre del pais: Georgia, Poblacion ciudad: 161678
+Nombre de la ciudad: Batumi, nombre del pais: Georgia, Poblacion ciudad: 143263
+Nombre de la ciudad: Sohumi, nombre del pais: Georgia, Poblacion ciudad: 116212
+Nombre de la ciudad: Kowloon and New Kowloon, nombre del pais: Hong Kong, Poblacion ciudad: 2068310
+Nombre de la ciudad: Victoria, nombre del pais: Hong Kong, Poblacion ciudad: 1365666
+Nombre de la ciudad: Jakarta, nombre del pais: Indonesia, Poblacion ciudad: 9992937
+Nombre de la ciudad: Surabaya, nombre del pais: Indonesia, Poblacion ciudad: 2771437
+Nombre de la ciudad: Bandung, nombre del pais: Indonesia, Poblacion ciudad: 2527131
+Nombre de la ciudad: Medan, nombre del pais: Indonesia, Poblacion ciudad: 1918412
+Nombre de la ciudad: Palembang, nombre del pais: Indonesia, Poblacion ciudad: 1272163
+Nombre de la ciudad: Tangerang, nombre del pais: Indonesia, Poblacion ciudad: 1246711
+Nombre de la ciudad: Semarang, nombre del pais: Indonesia, Poblacion ciudad: 1149022
+Nombre de la ciudad: Ujung Pandang, nombre del pais: Indonesia, Poblacion ciudad: 1103091
+Nombre de la ciudad: Malang, nombre del pais: Indonesia, Poblacion ciudad: 745822
+Nombre de la ciudad: Bandar Lampung, nombre del pais: Indonesia, Poblacion ciudad: 707816
+Nombre de la ciudad: Bekasi, nombre del pais: Indonesia, Poblacion ciudad: 670329
+Nombre de la ciudad: Padang, nombre del pais: Indonesia, Poblacion ciudad: 556066
+Nombre de la ciudad: Surakarta, nombre del pais: Indonesia, Poblacion ciudad: 539551
+Nombre de la ciudad: Banjarmasin, nombre del pais: Indonesia, Poblacion ciudad: 502440
+Nombre de la ciudad: Pekan Baru, nombre del pais: Indonesia, Poblacion ciudad: 456358
+Nombre de la ciudad: Denpasar, nombre del pais: Indonesia, Poblacion ciudad: 452574
+Nombre de la ciudad: Yogyakarta, nombre del pais: Indonesia, Poblacion ciudad: 435868
+Nombre de la ciudad: Pontianak, nombre del pais: Indonesia, Poblacion ciudad: 426180
+Nombre de la ciudad: Samarinda, nombre del pais: Indonesia, Poblacion ciudad: 415301
+Nombre de la ciudad: Jambi, nombre del pais: Indonesia, Poblacion ciudad: 400763
+Nombre de la ciudad: Depok, nombre del pais: Indonesia, Poblacion ciudad: 379954
+Nombre de la ciudad: Cimahi, nombre del pais: Indonesia, Poblacion ciudad: 358521
+Nombre de la ciudad: Balikpapan, nombre del pais: Indonesia, Poblacion ciudad: 352437
+Nombre de la ciudad: Manado, nombre del pais: Indonesia, Poblacion ciudad: 345711
+Nombre de la ciudad: Mataram, nombre del pais: Indonesia, Poblacion ciudad: 318986
+Nombre de la ciudad: Pekalongan, nombre del pais: Indonesia, Poblacion ciudad: 313684
+Nombre de la ciudad: Tegal, nombre del pais: Indonesia, Poblacion ciudad: 301448
+Nombre de la ciudad: Bogor, nombre del pais: Indonesia, Poblacion ciudad: 296632
+Nombre de la ciudad: Ciputat, nombre del pais: Indonesia, Poblacion ciudad: 281740
+Nombre de la ciudad: Pondokgede, nombre del pais: Indonesia, Poblacion ciudad: 273833
+Nombre de la ciudad: Cirebon, nombre del pais: Indonesia, Poblacion ciudad: 264683
+Nombre de la ciudad: Kediri, nombre del pais: Indonesia, Poblacion ciudad: 264011
+Nombre de la ciudad: Ambon, nombre del pais: Indonesia, Poblacion ciudad: 259383
+Nombre de la ciudad: Jember, nombre del pais: Indonesia, Poblacion ciudad: 227327
+Nombre de la ciudad: Cilacap, nombre del pais: Indonesia, Poblacion ciudad: 215258
+Nombre de la ciudad: Cimanggis, nombre del pais: Indonesia, Poblacion ciudad: 213386
+Nombre de la ciudad: Pematang Siantar, nombre del pais: Indonesia, Poblacion ciudad: 211259
+Nombre de la ciudad: Purwokerto, nombre del pais: Indonesia, Poblacion ciudad: 210681
+Nombre de la ciudad: Ciomas, nombre del pais: Indonesia, Poblacion ciudad: 194970
+Nombre de la ciudad: Tasikmalaya, nombre del pais: Indonesia, Poblacion ciudad: 187063
+Nombre de la ciudad: Madiun, nombre del pais: Indonesia, Poblacion ciudad: 178461
+Nombre de la ciudad: Bengkulu, nombre del pais: Indonesia, Poblacion ciudad: 152354
+Nombre de la ciudad: Karawang, nombre del pais: Indonesia, Poblacion ciudad: 150858
+Nombre de la ciudad: Banda Aceh, nombre del pais: Indonesia, Poblacion ciudad: 149202
+Nombre de la ciudad: Palu, nombre del pais: Indonesia, Poblacion ciudad: 148569
+Nombre de la ciudad: Pasuruan, nombre del pais: Indonesia, Poblacion ciudad: 139432
+Nombre de la ciudad: Kupang, nombre del pais: Indonesia, Poblacion ciudad: 134523
+Nombre de la ciudad: Tebing Tinggi, nombre del pais: Indonesia, Poblacion ciudad: 134523
+Nombre de la ciudad: Percut Sei Tuan, nombre del pais: Indonesia, Poblacion ciudad: 134211
+Nombre de la ciudad: Binjai, nombre del pais: Indonesia, Poblacion ciudad: 132361
+Nombre de la ciudad: Sukabumi, nombre del pais: Indonesia, Poblacion ciudad: 130846
+Nombre de la ciudad: Waru, nombre del pais: Indonesia, Poblacion ciudad: 129321
+Nombre de la ciudad: Pangkal Pinang, nombre del pais: Indonesia, Poblacion ciudad: 129009
+Nombre de la ciudad: Magelang, nombre del pais: Indonesia, Poblacion ciudad: 128801
+Nombre de la ciudad: Blitar, nombre del pais: Indonesia, Poblacion ciudad: 127553
+Nombre de la ciudad: Serang, nombre del pais: Indonesia, Poblacion ciudad: 127344
+Nombre de la ciudad: Probolinggo, nombre del pais: Indonesia, Poblacion ciudad: 125648
+Nombre de la ciudad: Cilegon, nombre del pais: Indonesia, Poblacion ciudad: 121726
+Nombre de la ciudad: Cianjur, nombre del pais: Indonesia, Poblacion ciudad: 118917
+Nombre de la ciudad: Ciparay, nombre del pais: Indonesia, Poblacion ciudad: 116004
+Nombre de la ciudad: Lhokseumawe, nombre del pais: Indonesia, Poblacion ciudad: 114027
+Nombre de la ciudad: Taman, nombre del pais: Indonesia, Poblacion ciudad: 111322
+Nombre de la ciudad: Depok, nombre del pais: Indonesia, Poblacion ciudad: 111114
+Nombre de la ciudad: Citeureup, nombre del pais: Indonesia, Poblacion ciudad: 109346
+Nombre de la ciudad: Pemalang, nombre del pais: Indonesia, Poblacion ciudad: 107681
+Nombre de la ciudad: Klaten, nombre del pais: Indonesia, Poblacion ciudad: 107473
+Nombre de la ciudad: Salatiga, nombre del pais: Indonesia, Poblacion ciudad: 107161
+Nombre de la ciudad: Cibinong, nombre del pais: Indonesia, Poblacion ciudad: 105392
+Nombre de la ciudad: Palangka Raya, nombre del pais: Indonesia, Poblacion ciudad: 103719
+Nombre de la ciudad: Mojokerto, nombre del pais: Indonesia, Poblacion ciudad: 100529
+Nombre de la ciudad: Purwakarta, nombre del pais: Indonesia, Poblacion ciudad: 99774
+Nombre de la ciudad: Garut, nombre del pais: Indonesia, Poblacion ciudad: 99670
+Nombre de la ciudad: Kudus, nombre del pais: Indonesia, Poblacion ciudad: 99150
+Nombre de la ciudad: Kendari, nombre del pais: Indonesia, Poblacion ciudad: 98629
+Nombre de la ciudad: Jaya Pura, nombre del pais: Indonesia, Poblacion ciudad: 98525
+Nombre de la ciudad: Gorontalo, nombre del pais: Indonesia, Poblacion ciudad: 97857
+Nombre de la ciudad: Majalaya, nombre del pais: Indonesia, Poblacion ciudad: 96965
+Nombre de la ciudad: Pondok Aren, nombre del pais: Indonesia, Poblacion ciudad: 96445
+Nombre de la ciudad: Jombang, nombre del pais: Indonesia, Poblacion ciudad: 96341
+Nombre de la ciudad: Sunggal, nombre del pais: Indonesia, Poblacion ciudad: 96028
+Nombre de la ciudad: Batam, nombre del pais: Indonesia, Poblacion ciudad: 95582
+Nombre de la ciudad: Padang Sidempuan, nombre del pais: Indonesia, Poblacion ciudad: 94884
+Nombre de la ciudad: Sawangan, nombre del pais: Indonesia, Poblacion ciudad: 94780
+Nombre de la ciudad: Banyuwangi, nombre del pais: Indonesia, Poblacion ciudad: 93531
+Nombre de la ciudad: Tanjung Pinang, nombre del pais: Indonesia, Poblacion ciudad: 93531
+Nombre de la ciudad: Mumbai (Bombay), nombre del pais: India, Poblacion ciudad: 10924200
+Nombre de la ciudad: Delhi, nombre del pais: India, Poblacion ciudad: 7497854
+Nombre de la ciudad: Calcutta [Kolkata], nombre del pais: India, Poblacion ciudad: 4577571
+Nombre de la ciudad: Chennai (Madras), nombre del pais: India, Poblacion ciudad: 3996587
+Nombre de la ciudad: Hyderabad, nombre del pais: India, Poblacion ciudad: 3084408
+Nombre de la ciudad: Ahmedabad, nombre del pais: India, Poblacion ciudad: 2992928
+Nombre de la ciudad: Bangalore, nombre del pais: India, Poblacion ciudad: 2767554
+Nombre de la ciudad: Kanpur, nombre del pais: India, Poblacion ciudad: 1950134
+Nombre de la ciudad: Nagpur, nombre del pais: India, Poblacion ciudad: 1690391
+Nombre de la ciudad: Lucknow, nombre del pais: India, Poblacion ciudad: 1684526
+Nombre de la ciudad: Pune, nombre del pais: India, Poblacion ciudad: 1629943
+Nombre de la ciudad: Surat, nombre del pais: India, Poblacion ciudad: 1559368
+Nombre de la ciudad: Jaipur, nombre del pais: India, Poblacion ciudad: 1517405
+Nombre de la ciudad: Indore, nombre del pais: India, Poblacion ciudad: 1135777
+Nombre de la ciudad: Bhopal, nombre del pais: India, Poblacion ciudad: 1105706
+Nombre de la ciudad: Ludhiana, nombre del pais: India, Poblacion ciudad: 1084865
+Nombre de la ciudad: Vadodara (Baroda), nombre del pais: India, Poblacion ciudad: 1073011
+Nombre de la ciudad: Kalyan, nombre del pais: India, Poblacion ciudad: 1055544
+Nombre de la ciudad: Madurai, nombre del pais: India, Poblacion ciudad: 1017361
+Nombre de la ciudad: Haora (Howrah), nombre del pais: India, Poblacion ciudad: 988831
+Nombre de la ciudad: Varanasi (Benares), nombre del pais: India, Poblacion ciudad: 966812
+Nombre de la ciudad: Patna, nombre del pais: India, Poblacion ciudad: 954298
+Nombre de la ciudad: Srinagar, nombre del pais: India, Poblacion ciudad: 928563
+Nombre de la ciudad: Agra, nombre del pais: India, Poblacion ciudad: 927817
+Nombre de la ciudad: Coimbatore, nombre del pais: India, Poblacion ciudad: 849299
+Nombre de la ciudad: Thane (Thana), nombre del pais: India, Poblacion ciudad: 835845
+Nombre de la ciudad: Allahabad, nombre del pais: India, Poblacion ciudad: 824889
+Nombre de la ciudad: Meerut, nombre del pais: India, Poblacion ciudad: 784230
+Nombre de la ciudad: Vishakhapatnam, nombre del pais: India, Poblacion ciudad: 782418
+Nombre de la ciudad: Jabalpur, nombre del pais: India, Poblacion ciudad: 771900
+Nombre de la ciudad: Amritsar, nombre del pais: India, Poblacion ciudad: 737471
+Nombre de la ciudad: Faridabad, nombre del pais: India, Poblacion ciudad: 732016
+Nombre de la ciudad: Vijayawada, nombre del pais: India, Poblacion ciudad: 730180
+Nombre de la ciudad: Gwalior, nombre del pais: India, Poblacion ciudad: 718671
+Nombre de la ciudad: Jodhpur, nombre del pais: India, Poblacion ciudad: 693196
+Nombre de la ciudad: Nashik (Nasik), nombre del pais: India, Poblacion ciudad: 683464
+Nombre de la ciudad: Hubli-Dharwad, nombre del pais: India, Poblacion ciudad: 674488
+Nombre de la ciudad: Solapur (Sholapur), nombre del pais: India, Poblacion ciudad: 628624
+Nombre de la ciudad: Ranchi, nombre del pais: India, Poblacion ciudad: 623517
+Nombre de la ciudad: Bareilly, nombre del pais: India, Poblacion ciudad: 610934
+Nombre de la ciudad: Guwahati (Gauhati), nombre del pais: India, Poblacion ciudad: 607948
+Nombre de la ciudad: Shambajinagar (Aurangabad), nombre del pais: India, Poblacion ciudad: 596431
+Nombre de la ciudad: Cochin (Kochi), nombre del pais: India, Poblacion ciudad: 587397
+Nombre de la ciudad: Rajkot, nombre del pais: India, Poblacion ciudad: 582006
+Nombre de la ciudad: Kota, nombre del pais: India, Poblacion ciudad: 559080
+Nombre de la ciudad: Thiruvananthapuram (Trivandrum, nombre del pais: India, Poblacion ciudad: 545175
+Nombre de la ciudad: Pimpri-Chinchwad, nombre del pais: India, Poblacion ciudad: 537972
+Nombre de la ciudad: Jalandhar (Jullundur), nombre del pais: India, Poblacion ciudad: 530094
+Nombre de la ciudad: Gorakhpur, nombre del pais: India, Poblacion ciudad: 525990
+Nombre de la ciudad: Chandigarh, nombre del pais: India, Poblacion ciudad: 524458
+Nombre de la ciudad: Mysore, nombre del pais: India, Poblacion ciudad: 500111
+Nombre de la ciudad: Aligarh, nombre del pais: India, Poblacion ciudad: 499932
+Nombre de la ciudad: Guntur, nombre del pais: India, Poblacion ciudad: 490081
+Nombre de la ciudad: Jamshedpur, nombre del pais: India, Poblacion ciudad: 479183
+Nombre de la ciudad: Ghaziabad, nombre del pais: India, Poblacion ciudad: 472503
+Nombre de la ciudad: Warangal, nombre del pais: India, Poblacion ciudad: 465742
+Nombre de la ciudad: Raipur, nombre del pais: India, Poblacion ciudad: 456359
+Nombre de la ciudad: Moradabad, nombre del pais: India, Poblacion ciudad: 446553
+Nombre de la ciudad: Durgapur, nombre del pais: India, Poblacion ciudad: 443039
+Nombre de la ciudad: Amravati, nombre del pais: India, Poblacion ciudad: 438607
+Nombre de la ciudad: Calicut (Kozhikode), nombre del pais: India, Poblacion ciudad: 436791
+Nombre de la ciudad: Bikaner, nombre del pais: India, Poblacion ciudad: 433106
+Nombre de la ciudad: Bhubaneswar, nombre del pais: India, Poblacion ciudad: 428167
+Nombre de la ciudad: Kolhapur, nombre del pais: India, Poblacion ciudad: 422786
+Nombre de la ciudad: Kataka (Cuttack), nombre del pais: India, Poblacion ciudad: 419715
+Nombre de la ciudad: Ajmer, nombre del pais: India, Poblacion ciudad: 418969
+Nombre de la ciudad: Bhavnagar, nombre del pais: India, Poblacion ciudad: 418591
+Nombre de la ciudad: Tiruchirapalli, nombre del pais: India, Poblacion ciudad: 402866
+Nombre de la ciudad: Bhilai, nombre del pais: India, Poblacion ciudad: 401759
+Nombre de la ciudad: Bhiwandi, nombre del pais: India, Poblacion ciudad: 394384
+Nombre de la ciudad: Saharanpur, nombre del pais: India, Poblacion ciudad: 390091
+Nombre de la ciudad: Ulhasnagar, nombre del pais: India, Poblacion ciudad: 383987
+Nombre de la ciudad: Salem, nombre del pais: India, Poblacion ciudad: 381526
+Nombre de la ciudad: Ujjain, nombre del pais: India, Poblacion ciudad: 376901
+Nombre de la ciudad: Malegaon, nombre del pais: India, Poblacion ciudad: 356434
+Nombre de la ciudad: Jamnagar, nombre del pais: India, Poblacion ciudad: 355438
+Nombre de la ciudad: Bokaro Steel City, nombre del pais: India, Poblacion ciudad: 347163
+Nombre de la ciudad: Akola, nombre del pais: India, Poblacion ciudad: 341285
+Nombre de la ciudad: Belgaum, nombre del pais: India, Poblacion ciudad: 339584
+Nombre de la ciudad: Rajahmundry, nombre del pais: India, Poblacion ciudad: 337974
+Nombre de la ciudad: Nellore, nombre del pais: India, Poblacion ciudad: 329396
+Nombre de la ciudad: Udaipur, nombre del pais: India, Poblacion ciudad: 321036
+Nombre de la ciudad: New Bombay, nombre del pais: India, Poblacion ciudad: 319710
+Nombre de la ciudad: Bhatpara, nombre del pais: India, Poblacion ciudad: 317272
+Nombre de la ciudad: Gulbarga, nombre del pais: India, Poblacion ciudad: 316383
+Nombre de la ciudad: New Delhi, nombre del pais: India, Poblacion ciudad: 313468
+Nombre de la ciudad: Jhansi, nombre del pais: India, Poblacion ciudad: 313004
+Nombre de la ciudad: Gaya, nombre del pais: India, Poblacion ciudad: 303458
+Nombre de la ciudad: Kakinada, nombre del pais: India, Poblacion ciudad: 291290
+Nombre de la ciudad: Dhule (Dhulia), nombre del pais: India, Poblacion ciudad: 289560
+Nombre de la ciudad: Panihati, nombre del pais: India, Poblacion ciudad: 287139
+Nombre de la ciudad: Nanded (Nander), nombre del pais: India, Poblacion ciudad: 286195
+Nombre de la ciudad: Mangalore, nombre del pais: India, Poblacion ciudad: 284345
+Nombre de la ciudad: Dehra Dun, nombre del pais: India, Poblacion ciudad: 281073
+Nombre de la ciudad: Kamarhati, nombre del pais: India, Poblacion ciudad: 277670
+Nombre de la ciudad: Davangere, nombre del pais: India, Poblacion ciudad: 276831
+Nombre de la ciudad: Asansol, nombre del pais: India, Poblacion ciudad: 272779
+Nombre de la ciudad: Bhagalpur, nombre del pais: India, Poblacion ciudad: 263454
+Nombre de la ciudad: Bellary, nombre del pais: India, Poblacion ciudad: 255303
+Nombre de la ciudad: Barddhaman (Burdwan), nombre del pais: India, Poblacion ciudad: 254979
+Nombre de la ciudad: Rampur, nombre del pais: India, Poblacion ciudad: 253588
+Nombre de la ciudad: Jalgaon, nombre del pais: India, Poblacion ciudad: 251976
+Nombre de la ciudad: Muzaffarpur, nombre del pais: India, Poblacion ciudad: 250847
+Nombre de la ciudad: Nizamabad, nombre del pais: India, Poblacion ciudad: 250771
+Nombre de la ciudad: Muzaffarnagar, nombre del pais: India, Poblacion ciudad: 250329
+Nombre de la ciudad: Patiala, nombre del pais: India, Poblacion ciudad: 247997
+Nombre de la ciudad: Shahjahanpur, nombre del pais: India, Poblacion ciudad: 247316
+Nombre de la ciudad: Kurnool, nombre del pais: India, Poblacion ciudad: 246366
+Nombre de la ciudad: Tiruppur (Tirupper), nombre del pais: India, Poblacion ciudad: 245181
+Nombre de la ciudad: Rohtak, nombre del pais: India, Poblacion ciudad: 242829
+Nombre de la ciudad: South Dum Dum, nombre del pais: India, Poblacion ciudad: 242216
+Nombre de la ciudad: Mathura, nombre del pais: India, Poblacion ciudad: 235848
+Nombre de la ciudad: Chandrapur, nombre del pais: India, Poblacion ciudad: 235239
+Nombre de la ciudad: Barahanagar (Baranagar), nombre del pais: India, Poblacion ciudad: 233903
+Nombre de la ciudad: Darbhanga, nombre del pais: India, Poblacion ciudad: 227213
+Nombre de la ciudad: Siliguri (Shiliguri), nombre del pais: India, Poblacion ciudad: 225714
+Nombre de la ciudad: Raurkela, nombre del pais: India, Poblacion ciudad: 224193
+Nombre de la ciudad: Ambattur, nombre del pais: India, Poblacion ciudad: 224126
+Nombre de la ciudad: Panipat, nombre del pais: India, Poblacion ciudad: 223912
+Nombre de la ciudad: Firozabad, nombre del pais: India, Poblacion ciudad: 223818
+Nombre de la ciudad: Ichalkaranji, nombre del pais: India, Poblacion ciudad: 223633
+Nombre de la ciudad: Jammu, nombre del pais: India, Poblacion ciudad: 223411
+Nombre de la ciudad: Ramagundam, nombre del pais: India, Poblacion ciudad: 223044
+Nombre de la ciudad: Eluru, nombre del pais: India, Poblacion ciudad: 221465
+Nombre de la ciudad: Brahmapur, nombre del pais: India, Poblacion ciudad: 218918
+Nombre de la ciudad: Alwar, nombre del pais: India, Poblacion ciudad: 213370
+Nombre de la ciudad: Pondicherry, nombre del pais: India, Poblacion ciudad: 211268
+Nombre de la ciudad: Thanjavur, nombre del pais: India, Poblacion ciudad: 210174
+Nombre de la ciudad: Bihar Sharif, nombre del pais: India, Poblacion ciudad: 209455
+Nombre de la ciudad: Tuticorin, nombre del pais: India, Poblacion ciudad: 207928
+Nombre de la ciudad: Imphal, nombre del pais: India, Poblacion ciudad: 206555
+Nombre de la ciudad: Latur, nombre del pais: India, Poblacion ciudad: 205383
+Nombre de la ciudad: Sagar, nombre del pais: India, Poblacion ciudad: 203237
+Nombre de la ciudad: Farrukhabad-cum-Fatehgarh, nombre del pais: India, Poblacion ciudad: 202427
+Nombre de la ciudad: Sangli, nombre del pais: India, Poblacion ciudad: 201001
+Nombre de la ciudad: Parbhani, nombre del pais: India, Poblacion ciudad: 197941
+Nombre de la ciudad: Nagar Coil, nombre del pais: India, Poblacion ciudad: 197762
+Nombre de la ciudad: Bijapur, nombre del pais: India, Poblacion ciudad: 194490
+Nombre de la ciudad: Kukatpalle, nombre del pais: India, Poblacion ciudad: 192866
+Nombre de la ciudad: Bally, nombre del pais: India, Poblacion ciudad: 191926
+Nombre de la ciudad: Bhilwara, nombre del pais: India, Poblacion ciudad: 191396
+Nombre de la ciudad: Ratlam, nombre del pais: India, Poblacion ciudad: 190782
+Nombre de la ciudad: Avadi, nombre del pais: India, Poblacion ciudad: 190616
+Nombre de la ciudad: Dindigul, nombre del pais: India, Poblacion ciudad: 189848
+Nombre de la ciudad: Ahmadnagar, nombre del pais: India, Poblacion ciudad: 188664
+Nombre de la ciudad: Bilaspur, nombre del pais: India, Poblacion ciudad: 187097
+Nombre de la ciudad: Shimoga, nombre del pais: India, Poblacion ciudad: 186499
+Nombre de la ciudad: Kharagpur, nombre del pais: India, Poblacion ciudad: 185178
+Nombre de la ciudad: Mira Bhayandar, nombre del pais: India, Poblacion ciudad: 182456
+Nombre de la ciudad: Vellore, nombre del pais: India, Poblacion ciudad: 182133
+Nombre de la ciudad: Jalna, nombre del pais: India, Poblacion ciudad: 182053
+Nombre de la ciudad: Burnpur, nombre del pais: India, Poblacion ciudad: 181999
+Nombre de la ciudad: Anantapur, nombre del pais: India, Poblacion ciudad: 181990
+Nombre de la ciudad: Allappuzha (Alleppey), nombre del pais: India, Poblacion ciudad: 181722
+Nombre de la ciudad: Tirupati, nombre del pais: India, Poblacion ciudad: 181413
+Nombre de la ciudad: Karnal, nombre del pais: India, Poblacion ciudad: 180770
+Nombre de la ciudad: Burhanpur, nombre del pais: India, Poblacion ciudad: 179687
+Nombre de la ciudad: Hisar (Hissar), nombre del pais: India, Poblacion ciudad: 179652
+Nombre de la ciudad: Tiruvottiyur, nombre del pais: India, Poblacion ciudad: 179533
+Nombre de la ciudad: Mirzapur-cum-Vindhyachal, nombre del pais: India, Poblacion ciudad: 176176
+Nombre de la ciudad: Secunderabad, nombre del pais: India, Poblacion ciudad: 174226
+Nombre de la ciudad: Nadiad, nombre del pais: India, Poblacion ciudad: 173799
+Nombre de la ciudad: Dewas, nombre del pais: India, Poblacion ciudad: 171004
+Nombre de la ciudad: Murwara (Katni), nombre del pais: India, Poblacion ciudad: 170032
+Nombre de la ciudad: Ganganagar, nombre del pais: India, Poblacion ciudad: 168005
+Nombre de la ciudad: Vizianagaram, nombre del pais: India, Poblacion ciudad: 166837
+Nombre de la ciudad: Erode, nombre del pais: India, Poblacion ciudad: 165664
+Nombre de la ciudad: Machilipatnam (Masulipatam), nombre del pais: India, Poblacion ciudad: 165537
+Nombre de la ciudad: Bhatinda (Bathinda), nombre del pais: India, Poblacion ciudad: 165466
+Nombre de la ciudad: Raichur, nombre del pais: India, Poblacion ciudad: 163916
+Nombre de la ciudad: Agartala, nombre del pais: India, Poblacion ciudad: 163715
+Nombre de la ciudad: Arrah (Ara), nombre del pais: India, Poblacion ciudad: 163427
+Nombre de la ciudad: Satna, nombre del pais: India, Poblacion ciudad: 162957
+Nombre de la ciudad: Lalbahadur Nagar, nombre del pais: India, Poblacion ciudad: 161782
+Nombre de la ciudad: Aizawl, nombre del pais: India, Poblacion ciudad: 161510
+Nombre de la ciudad: Uluberia, nombre del pais: India, Poblacion ciudad: 161440
+Nombre de la ciudad: Katihar, nombre del pais: India, Poblacion ciudad: 160603
+Nombre de la ciudad: Cuddalore, nombre del pais: India, Poblacion ciudad: 159269
+Nombre de la ciudad: Hugli-Chinsurah, nombre del pais: India, Poblacion ciudad: 157938
+Nombre de la ciudad: Dhanbad, nombre del pais: India, Poblacion ciudad: 157920
+Nombre de la ciudad: Raiganj, nombre del pais: India, Poblacion ciudad: 157146
+Nombre de la ciudad: Sambhal, nombre del pais: India, Poblacion ciudad: 156963
+Nombre de la ciudad: Durg, nombre del pais: India, Poblacion ciudad: 156730
+Nombre de la ciudad: Munger (Monghyr), nombre del pais: India, Poblacion ciudad: 156176
+Nombre de la ciudad: Kanchipuram, nombre del pais: India, Poblacion ciudad: 156164
+Nombre de la ciudad: North Dum Dum, nombre del pais: India, Poblacion ciudad: 156023
+Nombre de la ciudad: Karimnagar, nombre del pais: India, Poblacion ciudad: 154585
+Nombre de la ciudad: Bharatpur, nombre del pais: India, Poblacion ciudad: 154518
+Nombre de la ciudad: Sikar, nombre del pais: India, Poblacion ciudad: 154261
+Nombre de la ciudad: Hardwar (Haridwar), nombre del pais: India, Poblacion ciudad: 153256
+Nombre de la ciudad: Dabgram, nombre del pais: India, Poblacion ciudad: 153164
+Nombre de la ciudad: Morena, nombre del pais: India, Poblacion ciudad: 153067
+Nombre de la ciudad: Noida, nombre del pais: India, Poblacion ciudad: 152432
+Nombre de la ciudad: Hapur, nombre del pais: India, Poblacion ciudad: 152170
+Nombre de la ciudad: Bhusawal, nombre del pais: India, Poblacion ciudad: 151005
+Nombre de la ciudad: Khandwa, nombre del pais: India, Poblacion ciudad: 150995
+Nombre de la ciudad: Yamuna Nagar, nombre del pais: India, Poblacion ciudad: 150176
+Nombre de la ciudad: Sonipat (Sonepat), nombre del pais: India, Poblacion ciudad: 149736
+Nombre de la ciudad: Tenali, nombre del pais: India, Poblacion ciudad: 149532
+Nombre de la ciudad: Raurkela Civil Township, nombre del pais: India, Poblacion ciudad: 146080
+Nombre de la ciudad: Kollam (Quilon), nombre del pais: India, Poblacion ciudad: 145501
+Nombre de la ciudad: Kumbakonam, nombre del pais: India, Poblacion ciudad: 145117
+Nombre de la ciudad: Ingraj Bazar (English Bazar), nombre del pais: India, Poblacion ciudad: 144827
+Nombre de la ciudad: Timkur, nombre del pais: India, Poblacion ciudad: 144514
+Nombre de la ciudad: Amroha, nombre del pais: India, Poblacion ciudad: 142598
+Nombre de la ciudad: Serampore, nombre del pais: India, Poblacion ciudad: 142563
+Nombre de la ciudad: Chapra, nombre del pais: India, Poblacion ciudad: 142406
+Nombre de la ciudad: Pali, nombre del pais: India, Poblacion ciudad: 142369
+Nombre de la ciudad: Maunath Bhanjan, nombre del pais: India, Poblacion ciudad: 142218
+Nombre de la ciudad: Adoni, nombre del pais: India, Poblacion ciudad: 141683
+Nombre de la ciudad: Jaunpur, nombre del pais: India, Poblacion ciudad: 141558
+Nombre de la ciudad: Tirunelveli, nombre del pais: India, Poblacion ciudad: 141311
+Nombre de la ciudad: Bahraich, nombre del pais: India, Poblacion ciudad: 140870
+Nombre de la ciudad: Gadag Betigeri, nombre del pais: India, Poblacion ciudad: 139466
+Nombre de la ciudad: Proddatur, nombre del pais: India, Poblacion ciudad: 139323
+Nombre de la ciudad: Chittoor, nombre del pais: India, Poblacion ciudad: 138853
+Nombre de la ciudad: Barrackpur, nombre del pais: India, Poblacion ciudad: 138648
+Nombre de la ciudad: Bharuch (Broach), nombre del pais: India, Poblacion ciudad: 138479
+Nombre de la ciudad: Naihati, nombre del pais: India, Poblacion ciudad: 138062
+Nombre de la ciudad: Shillong, nombre del pais: India, Poblacion ciudad: 137040
+Nombre de la ciudad: Sambalpur, nombre del pais: India, Poblacion ciudad: 136435
+Nombre de la ciudad: Junagadh, nombre del pais: India, Poblacion ciudad: 135754
+Nombre de la ciudad: Rae Bareli, nombre del pais: India, Poblacion ciudad: 135152
+Nombre de la ciudad: Rewa, nombre del pais: India, Poblacion ciudad: 134191
+Nombre de la ciudad: Gurgaon, nombre del pais: India, Poblacion ciudad: 133803
+Nombre de la ciudad: Khammam, nombre del pais: India, Poblacion ciudad: 133162
+Nombre de la ciudad: Bulandshahr, nombre del pais: India, Poblacion ciudad: 132339
+Nombre de la ciudad: Navsari, nombre del pais: India, Poblacion ciudad: 131182
+Nombre de la ciudad: Malkajgiri, nombre del pais: India, Poblacion ciudad: 131158
+Nombre de la ciudad: Midnapore (Medinipur), nombre del pais: India, Poblacion ciudad: 130567
+Nombre de la ciudad: Miraj, nombre del pais: India, Poblacion ciudad: 130473
+Nombre de la ciudad: Raj Nandgaon, nombre del pais: India, Poblacion ciudad: 130435
+Nombre de la ciudad: Alandur, nombre del pais: India, Poblacion ciudad: 130302
+Nombre de la ciudad: Puri, nombre del pais: India, Poblacion ciudad: 130256
+Nombre de la ciudad: Navadwip, nombre del pais: India, Poblacion ciudad: 130087
+Nombre de la ciudad: Sirsa, nombre del pais: India, Poblacion ciudad: 130050
+Nombre de la ciudad: Korba, nombre del pais: India, Poblacion ciudad: 129530
+Nombre de la ciudad: Faizabad, nombre del pais: India, Poblacion ciudad: 129463
+Nombre de la ciudad: Etawah, nombre del pais: India, Poblacion ciudad: 129084
+Nombre de la ciudad: Pathankot, nombre del pais: India, Poblacion ciudad: 128936
+Nombre de la ciudad: Gandhinagar, nombre del pais: India, Poblacion ciudad: 128342
+Nombre de la ciudad: Palghat (Palakkad), nombre del pais: India, Poblacion ciudad: 128269
+Nombre de la ciudad: Veraval, nombre del pais: India, Poblacion ciudad: 127969
+Nombre de la ciudad: Hoshiarpur, nombre del pais: India, Poblacion ciudad: 127662
+Nombre de la ciudad: Ambala, nombre del pais: India, Poblacion ciudad: 127547
+Nombre de la ciudad: Sitapur, nombre del pais: India, Poblacion ciudad: 126763
+Nombre de la ciudad: Bhiwani, nombre del pais: India, Poblacion ciudad: 126542
+Nombre de la ciudad: Cuddapah, nombre del pais: India, Poblacion ciudad: 126369
+Nombre de la ciudad: Bhimavaram, nombre del pais: India, Poblacion ciudad: 126214
+Nombre de la ciudad: Krishnanagar, nombre del pais: India, Poblacion ciudad: 126002
+Nombre de la ciudad: Chandannagar, nombre del pais: India, Poblacion ciudad: 125240
+Nombre de la ciudad: Mandya, nombre del pais: India, Poblacion ciudad: 125123
+Nombre de la ciudad: Dibrugarh, nombre del pais: India, Poblacion ciudad: 124979
+Nombre de la ciudad: Nandyal, nombre del pais: India, Poblacion ciudad: 124653
+Nombre de la ciudad: Balurghat, nombre del pais: India, Poblacion ciudad: 124634
+Nombre de la ciudad: Neyveli, nombre del pais: India, Poblacion ciudad: 122849
+Nombre de la ciudad: Fatehpur, nombre del pais: India, Poblacion ciudad: 122428
+Nombre de la ciudad: Mahbubnagar, nombre del pais: India, Poblacion ciudad: 121552
+Nombre de la ciudad: Budaun, nombre del pais: India, Poblacion ciudad: 121408
+Nombre de la ciudad: Porbandar, nombre del pais: India, Poblacion ciudad: 121384
+Nombre de la ciudad: Silchar, nombre del pais: India, Poblacion ciudad: 120147
+Nombre de la ciudad: Berhampore (Baharampur), nombre del pais: India, Poblacion ciudad: 119794
+Nombre de la ciudad: Purnea (Purnia), nombre del pais: India, Poblacion ciudad: 119554
+Nombre de la ciudad: Bankura, nombre del pais: India, Poblacion ciudad: 119516
+Nombre de la ciudad: Rajapalaiyam, nombre del pais: India, Poblacion ciudad: 118815
+Nombre de la ciudad: Titagarh, nombre del pais: India, Poblacion ciudad: 118693
+Nombre de la ciudad: Halisahar, nombre del pais: India, Poblacion ciudad: 118634
+Nombre de la ciudad: Hathras, nombre del pais: India, Poblacion ciudad: 117861
+Nombre de la ciudad: Bhir (Bid), nombre del pais: India, Poblacion ciudad: 116975
+Nombre de la ciudad: Pallavaram, nombre del pais: India, Poblacion ciudad: 116385
+Nombre de la ciudad: Anand, nombre del pais: India, Poblacion ciudad: 114720
+Nombre de la ciudad: Mango, nombre del pais: India, Poblacion ciudad: 114468
+Nombre de la ciudad: Santipur, nombre del pais: India, Poblacion ciudad: 114398
+Nombre de la ciudad: Bhind, nombre del pais: India, Poblacion ciudad: 114189
+Nombre de la ciudad: Gondiya, nombre del pais: India, Poblacion ciudad: 113892
+Nombre de la ciudad: Tiruvannamalai, nombre del pais: India, Poblacion ciudad: 113606
+Nombre de la ciudad: Yeotmal (Yavatmal), nombre del pais: India, Poblacion ciudad: 112963
+Nombre de la ciudad: Kulti-Barakar, nombre del pais: India, Poblacion ciudad: 112901
+Nombre de la ciudad: Moga, nombre del pais: India, Poblacion ciudad: 112679
+Nombre de la ciudad: Shivapuri, nombre del pais: India, Poblacion ciudad: 112650
+Nombre de la ciudad: Bidar, nombre del pais: India, Poblacion ciudad: 112379
+Nombre de la ciudad: Guntakal, nombre del pais: India, Poblacion ciudad: 111937
+Nombre de la ciudad: Unnao, nombre del pais: India, Poblacion ciudad: 111764
+Nombre de la ciudad: Barasat, nombre del pais: India, Poblacion ciudad: 111702
+Nombre de la ciudad: Tambaram, nombre del pais: India, Poblacion ciudad: 111516
+Nombre de la ciudad: Abohar, nombre del pais: India, Poblacion ciudad: 111492
+Nombre de la ciudad: Pilibhit, nombre del pais: India, Poblacion ciudad: 110911
+Nombre de la ciudad: Valparai, nombre del pais: India, Poblacion ciudad: 110826
+Nombre de la ciudad: Gonda, nombre del pais: India, Poblacion ciudad: 110362
+Nombre de la ciudad: Surendranagar, nombre del pais: India, Poblacion ciudad: 110253
+Nombre de la ciudad: Qutubullapur, nombre del pais: India, Poblacion ciudad: 109636
+Nombre de la ciudad: Beawar, nombre del pais: India, Poblacion ciudad: 109619
+Nombre de la ciudad: Hindupur, nombre del pais: India, Poblacion ciudad: 108878
+Nombre de la ciudad: Gandhidham, nombre del pais: India, Poblacion ciudad: 108809
+Nombre de la ciudad: Haldwani-cum-Kathgodam, nombre del pais: India, Poblacion ciudad: 108403
+Nombre de la ciudad: Tellicherry (Thalassery), nombre del pais: India, Poblacion ciudad: 107763
+Nombre de la ciudad: Wardha, nombre del pais: India, Poblacion ciudad: 107144
+Nombre de la ciudad: Rishra, nombre del pais: India, Poblacion ciudad: 106795
+Nombre de la ciudad: Bhuj, nombre del pais: India, Poblacion ciudad: 106303
+Nombre de la ciudad: Modinagar, nombre del pais: India, Poblacion ciudad: 105766
+Nombre de la ciudad: Gudivada, nombre del pais: India, Poblacion ciudad: 105762
+Nombre de la ciudad: Basirhat, nombre del pais: India, Poblacion ciudad: 105505
+Nombre de la ciudad: Uttarpara-Kotrung, nombre del pais: India, Poblacion ciudad: 104941
+Nombre de la ciudad: Ongole, nombre del pais: India, Poblacion ciudad: 104909
+Nombre de la ciudad: North Barrackpur, nombre del pais: India, Poblacion ciudad: 104573
+Nombre de la ciudad: Guna, nombre del pais: India, Poblacion ciudad: 104548
+Nombre de la ciudad: Haldia, nombre del pais: India, Poblacion ciudad: 104400
+Nombre de la ciudad: Habra, nombre del pais: India, Poblacion ciudad: 104271
+Nombre de la ciudad: Kanchrapara, nombre del pais: India, Poblacion ciudad: 104240
+Nombre de la ciudad: Tonk, nombre del pais: India, Poblacion ciudad: 104121
+Nombre de la ciudad: Champdani, nombre del pais: India, Poblacion ciudad: 102809
+Nombre de la ciudad: Orai, nombre del pais: India, Poblacion ciudad: 102624
+Nombre de la ciudad: Pudukkottai, nombre del pais: India, Poblacion ciudad: 102602
+Nombre de la ciudad: Sasaram, nombre del pais: India, Poblacion ciudad: 102187
+Nombre de la ciudad: Hazaribag, nombre del pais: India, Poblacion ciudad: 101659
+Nombre de la ciudad: Palayankottai, nombre del pais: India, Poblacion ciudad: 101607
+Nombre de la ciudad: Banda, nombre del pais: India, Poblacion ciudad: 101154
+Nombre de la ciudad: Godhra, nombre del pais: India, Poblacion ciudad: 100723
+Nombre de la ciudad: Hospet, nombre del pais: India, Poblacion ciudad: 100212
+Nombre de la ciudad: Ashoknagar-Kalyangarh, nombre del pais: India, Poblacion ciudad: 100205
+Nombre de la ciudad: Achalpur, nombre del pais: India, Poblacion ciudad: 100102
+Nombre de la ciudad: Patan, nombre del pais: India, Poblacion ciudad: 99991
+Nombre de la ciudad: Mandasor, nombre del pais: India, Poblacion ciudad: 99626
+Nombre de la ciudad: Damoh, nombre del pais: India, Poblacion ciudad: 99525
+Nombre de la ciudad: Satara, nombre del pais: India, Poblacion ciudad: 98975
+Nombre de la ciudad: Meerut Cantonment, nombre del pais: India, Poblacion ciudad: 98708
+Nombre de la ciudad: Dehri, nombre del pais: India, Poblacion ciudad: 98344
+Nombre de la ciudad: Delhi Cantonment, nombre del pais: India, Poblacion ciudad: 98136
+Nombre de la ciudad: Chhindwara, nombre del pais: India, Poblacion ciudad: 97517
+Nombre de la ciudad: Bansberia, nombre del pais: India, Poblacion ciudad: 97221
+Nombre de la ciudad: Nagaon, nombre del pais: India, Poblacion ciudad: 97121
+Nombre de la ciudad: Kanpur Cantonment, nombre del pais: India, Poblacion ciudad: 96870
+Nombre de la ciudad: Vidisha, nombre del pais: India, Poblacion ciudad: 96670
+Nombre de la ciudad: Bettiah, nombre del pais: India, Poblacion ciudad: 96322
+Nombre de la ciudad: Purulia, nombre del pais: India, Poblacion ciudad: 96313
+Nombre de la ciudad: Hassan, nombre del pais: India, Poblacion ciudad: 94471
+Nombre de la ciudad: Ambala Sadar, nombre del pais: India, Poblacion ciudad: 94376
+Nombre de la ciudad: Baidyabati, nombre del pais: India, Poblacion ciudad: 94261
+Nombre de la ciudad: Morvi, nombre del pais: India, Poblacion ciudad: 94007
+Nombre de la ciudad: Raigarh, nombre del pais: India, Poblacion ciudad: 92767
+Nombre de la ciudad: Vejalpur, nombre del pais: India, Poblacion ciudad: 92650
+Nombre de la ciudad: Teheran, nombre del pais: Iran, Poblacion ciudad: 7031901
+Nombre de la ciudad: Mashhad, nombre del pais: Iran, Poblacion ciudad: 1963656
+Nombre de la ciudad: Esfahan, nombre del pais: Iran, Poblacion ciudad: 1317220
+Nombre de la ciudad: Tabriz, nombre del pais: Iran, Poblacion ciudad: 1239160
+Nombre de la ciudad: Shiraz, nombre del pais: Iran, Poblacion ciudad: 1095566
+Nombre de la ciudad: Karaj, nombre del pais: Iran, Poblacion ciudad: 978982
+Nombre de la ciudad: Ahvaz, nombre del pais: Iran, Poblacion ciudad: 837500
+Nombre de la ciudad: Qom, nombre del pais: Iran, Poblacion ciudad: 809094
+Nombre de la ciudad: Kermanshah, nombre del pais: Iran, Poblacion ciudad: 720981
+Nombre de la ciudad: Urmia, nombre del pais: Iran, Poblacion ciudad: 452782
+Nombre de la ciudad: Zahedan, nombre del pais: Iran, Poblacion ciudad: 436466
+Nombre de la ciudad: Rasht, nombre del pais: Iran, Poblacion ciudad: 434624
+Nombre de la ciudad: Hamadan, nombre del pais: Iran, Poblacion ciudad: 417492
+Nombre de la ciudad: Kerman, nombre del pais: Iran, Poblacion ciudad: 400543
+Nombre de la ciudad: Arak, nombre del pais: Iran, Poblacion ciudad: 396137
+Nombre de la ciudad: Ardebil, nombre del pais: Iran, Poblacion ciudad: 354136
+Nombre de la ciudad: Yazd, nombre del pais: Iran, Poblacion ciudad: 339977
+Nombre de la ciudad: Qazvin, nombre del pais: Iran, Poblacion ciudad: 302877
+Nombre de la ciudad: Zanjan, nombre del pais: Iran, Poblacion ciudad: 297860
+Nombre de la ciudad: Sanandaj, nombre del pais: Iran, Poblacion ciudad: 289031
+Nombre de la ciudad: Bandar-e-Abbas, nombre del pais: Iran, Poblacion ciudad: 284629
+Nombre de la ciudad: Khorramabad, nombre del pais: Iran, Poblacion ciudad: 283836
+Nombre de la ciudad: Eslamshahr, nombre del pais: Iran, Poblacion ciudad: 276174
+Nombre de la ciudad: Borujerd, nombre del pais: Iran, Poblacion ciudad: 226603
+Nombre de la ciudad: Abadan, nombre del pais: Iran, Poblacion ciudad: 214397
+Nombre de la ciudad: Dezful, nombre del pais: Iran, Poblacion ciudad: 210824
+Nombre de la ciudad: Kashan, nombre del pais: Iran, Poblacion ciudad: 209506
+Nombre de la ciudad: Sari, nombre del pais: Iran, Poblacion ciudad: 203794
+Nombre de la ciudad: Gorgan, nombre del pais: Iran, Poblacion ciudad: 196333
+Nombre de la ciudad: Najafabad, nombre del pais: Iran, Poblacion ciudad: 185708
+Nombre de la ciudad: Sabzevar, nombre del pais: Iran, Poblacion ciudad: 177635
+Nombre de la ciudad: Khomeynishahr, nombre del pais: Iran, Poblacion ciudad: 172589
+Nombre de la ciudad: Amol, nombre del pais: Iran, Poblacion ciudad: 165518
+Nombre de la ciudad: Neyshabur, nombre del pais: Iran, Poblacion ciudad: 165263
+Nombre de la ciudad: Babol, nombre del pais: Iran, Poblacion ciudad: 164742
+Nombre de la ciudad: Khoy, nombre del pais: Iran, Poblacion ciudad: 154960
+Nombre de la ciudad: Malayer, nombre del pais: Iran, Poblacion ciudad: 150205
+Nombre de la ciudad: Bushehr, nombre del pais: Iran, Poblacion ciudad: 149443
+Nombre de la ciudad: Qaemshahr, nombre del pais: Iran, Poblacion ciudad: 149074
+Nombre de la ciudad: Qarchak, nombre del pais: Iran, Poblacion ciudad: 148453
+Nombre de la ciudad: Qods, nombre del pais: Iran, Poblacion ciudad: 143863
+Nombre de la ciudad: Sirjan, nombre del pais: Iran, Poblacion ciudad: 140478
+Nombre de la ciudad: Bojnurd, nombre del pais: Iran, Poblacion ciudad: 140281
+Nombre de la ciudad: Maragheh, nombre del pais: Iran, Poblacion ciudad: 137663
+Nombre de la ciudad: Birjand, nombre del pais: Iran, Poblacion ciudad: 132763
+Nombre de la ciudad: Ilam, nombre del pais: Iran, Poblacion ciudad: 131449
+Nombre de la ciudad: Bukan, nombre del pais: Iran, Poblacion ciudad: 124868
+Nombre de la ciudad: Masjed-e-Soleyman, nombre del pais: Iran, Poblacion ciudad: 121604
+Nombre de la ciudad: Saqqez, nombre del pais: Iran, Poblacion ciudad: 120055
+Nombre de la ciudad: Gonbad-e Qabus, nombre del pais: Iran, Poblacion ciudad: 115747
+Nombre de la ciudad: Saveh, nombre del pais: Iran, Poblacion ciudad: 115738
+Nombre de la ciudad: Mahabad, nombre del pais: Iran, Poblacion ciudad: 112153
+Nombre de la ciudad: Varamin, nombre del pais: Iran, Poblacion ciudad: 111564
+Nombre de la ciudad: Andimeshk, nombre del pais: Iran, Poblacion ciudad: 111242
+Nombre de la ciudad: Khorramshahr, nombre del pais: Iran, Poblacion ciudad: 109902
+Nombre de la ciudad: Shahrud, nombre del pais: Iran, Poblacion ciudad: 108997
+Nombre de la ciudad: Marv Dasht, nombre del pais: Iran, Poblacion ciudad: 107763
+Nombre de la ciudad: Zabol, nombre del pais: Iran, Poblacion ciudad: 104962
+Nombre de la ciudad: Shahr-e Kord, nombre del pais: Iran, Poblacion ciudad: 104535
+Nombre de la ciudad: Bandar-e Anzali, nombre del pais: Iran, Poblacion ciudad: 102479
+Nombre de la ciudad: Rafsanjan, nombre del pais: Iran, Poblacion ciudad: 102271
+Nombre de la ciudad: Marand, nombre del pais: Iran, Poblacion ciudad: 100294
+Nombre de la ciudad: Torbat-e Heydariyeh, nombre del pais: Iran, Poblacion ciudad: 98421
+Nombre de la ciudad: Jahrom, nombre del pais: Iran, Poblacion ciudad: 98005
+Nombre de la ciudad: Semnan, nombre del pais: Iran, Poblacion ciudad: 94722
+Nombre de la ciudad: Miandoab, nombre del pais: Iran, Poblacion ciudad: 93740
+Nombre de la ciudad: Qomsheh, nombre del pais: Iran, Poblacion ciudad: 93427
+Nombre de la ciudad: Baghdad, nombre del pais: Iraq, Poblacion ciudad: 4511174
+Nombre de la ciudad: Mosul, nombre del pais: Iraq, Poblacion ciudad: 914511
+Nombre de la ciudad: Irbil, nombre del pais: Iraq, Poblacion ciudad: 505600
+Nombre de la ciudad: Kirkuk, nombre del pais: Iraq, Poblacion ciudad: 435535
+Nombre de la ciudad: Basra, nombre del pais: Iraq, Poblacion ciudad: 422709
+Nombre de la ciudad: al-Sulaymaniya, nombre del pais: Iraq, Poblacion ciudad: 378804
+Nombre de la ciudad: al-Najaf, nombre del pais: Iraq, Poblacion ciudad: 321493
+Nombre de la ciudad: Karbala, nombre del pais: Iraq, Poblacion ciudad: 308691
+Nombre de la ciudad: al-Hilla, nombre del pais: Iraq, Poblacion ciudad: 279694
+Nombre de la ciudad: al-Nasiriya, nombre del pais: Iraq, Poblacion ciudad: 276680
+Nombre de la ciudad: al-Amara, nombre del pais: Iraq, Poblacion ciudad: 217231
+Nombre de la ciudad: al-Diwaniya, nombre del pais: Iraq, Poblacion ciudad: 204457
+Nombre de la ciudad: al-Ramadi, nombre del pais: Iraq, Poblacion ciudad: 200335
+Nombre de la ciudad: al-Kut, nombre del pais: Iraq, Poblacion ciudad: 190582
+Nombre de la ciudad: Baquba, nombre del pais: Iraq, Poblacion ciudad: 119142
+Nombre de la ciudad: Jerusalem, nombre del pais: Israel, Poblacion ciudad: 659301
+Nombre de la ciudad: Tel Aviv-Jaffa, nombre del pais: Israel, Poblacion ciudad: 362163
+Nombre de la ciudad: Haifa, nombre del pais: Israel, Poblacion ciudad: 276434
+Nombre de la ciudad: Rishon Le Ziyyon, nombre del pais: Israel, Poblacion ciudad: 195803
+Nombre de la ciudad: Beerseba, nombre del pais: Israel, Poblacion ciudad: 170313
+Nombre de la ciudad: Holon, nombre del pais: Israel, Poblacion ciudad: 169689
+Nombre de la ciudad: Petah Tiqwa, nombre del pais: Israel, Poblacion ciudad: 165839
+Nombre de la ciudad: Ashdod, nombre del pais: Israel, Poblacion ciudad: 162094
+Nombre de la ciudad: Netanya, nombre del pais: Israel, Poblacion ciudad: 161157
+Nombre de la ciudad: Bat Yam, nombre del pais: Israel, Poblacion ciudad: 142534
+Nombre de la ciudad: Bene Beraq, nombre del pais: Israel, Poblacion ciudad: 139309
+Nombre de la ciudad: Ramat Gan, nombre del pais: Israel, Poblacion ciudad: 132026
+Nombre de la ciudad: Ashqelon, nombre del pais: Israel, Poblacion ciudad: 96028
+Nombre de la ciudad: Rehovot, nombre del pais: Israel, Poblacion ciudad: 93948
+Nombre de la ciudad: Amman, nombre del pais: Jordan, Poblacion ciudad: 1040400
+Nombre de la ciudad: al-Zarqa, nombre del pais: Jordan, Poblacion ciudad: 405563
+Nombre de la ciudad: Irbid, nombre del pais: Jordan, Poblacion ciudad: 240863
+Nombre de la ciudad: al-Rusayfa, nombre del pais: Jordan, Poblacion ciudad: 142790
+Nombre de la ciudad: Wadi al-Sir, nombre del pais: Jordan, Poblacion ciudad: 92703
+Nombre de la ciudad: Tokyo, nombre del pais: Japan, Poblacion ciudad: 8302630
+Nombre de la ciudad: Jokohama [Yokohama], nombre del pais: Japan, Poblacion ciudad: 3474512
+Nombre de la ciudad: Osaka, nombre del pais: Japan, Poblacion ciudad: 2700538
+Nombre de la ciudad: Nagoya, nombre del pais: Japan, Poblacion ciudad: 2241412
+Nombre de la ciudad: Sapporo, nombre del pais: Japan, Poblacion ciudad: 1863237
+Nombre de la ciudad: Kioto, nombre del pais: Japan, Poblacion ciudad: 1521037
+Nombre de la ciudad: Kobe, nombre del pais: Japan, Poblacion ciudad: 1482713
+Nombre de la ciudad: Fukuoka, nombre del pais: Japan, Poblacion ciudad: 1361236
+Nombre de la ciudad: Kawasaki, nombre del pais: Japan, Poblacion ciudad: 1266540
+Nombre de la ciudad: Hiroshima, nombre del pais: Japan, Poblacion ciudad: 1164328
+Nombre de la ciudad: Kitakyushu, nombre del pais: Japan, Poblacion ciudad: 1057320
+Nombre de la ciudad: Sendai, nombre del pais: Japan, Poblacion ciudad: 1029969
+Nombre de la ciudad: Chiba, nombre del pais: Japan, Poblacion ciudad: 898832
+Nombre de la ciudad: Sakai, nombre del pais: Japan, Poblacion ciudad: 829962
+Nombre de la ciudad: Kumamoto, nombre del pais: Japan, Poblacion ciudad: 683265
+Nombre de la ciudad: Okayama, nombre del pais: Japan, Poblacion ciudad: 649489
+Nombre de la ciudad: Sagamihara, nombre del pais: Japan, Poblacion ciudad: 609986
+Nombre de la ciudad: Hamamatsu, nombre del pais: Japan, Poblacion ciudad: 591774
+Nombre de la ciudad: Kagoshima, nombre del pais: Japan, Poblacion ciudad: 572195
+Nombre de la ciudad: Funabashi, nombre del pais: Japan, Poblacion ciudad: 567328
+Nombre de la ciudad: Higashiosaka, nombre del pais: Japan, Poblacion ciudad: 538702
+Nombre de la ciudad: Hachioji, nombre del pais: Japan, Poblacion ciudad: 534194
+Nombre de la ciudad: Niigata, nombre del pais: Japan, Poblacion ciudad: 517561
+Nombre de la ciudad: Amagasaki, nombre del pais: Japan, Poblacion ciudad: 500883
+Nombre de la ciudad: Himeji, nombre del pais: Japan, Poblacion ciudad: 494363
+Nombre de la ciudad: Shizuoka, nombre del pais: Japan, Poblacion ciudad: 492997
+Nombre de la ciudad: Urawa, nombre del pais: Japan, Poblacion ciudad: 488649
+Nombre de la ciudad: Matsuyama, nombre del pais: Japan, Poblacion ciudad: 484964
+Nombre de la ciudad: Matsudo, nombre del pais: Japan, Poblacion ciudad: 479754
+Nombre de la ciudad: Kanazawa, nombre del pais: Japan, Poblacion ciudad: 473782
+Nombre de la ciudad: Kawaguchi, nombre del pais: Japan, Poblacion ciudad: 470421
+Nombre de la ciudad: Ichikawa, nombre del pais: Japan, Poblacion ciudad: 459744
+Nombre de la ciudad: Omiya, nombre del pais: Japan, Poblacion ciudad: 459490
+Nombre de la ciudad: Utsunomiya, nombre del pais: Japan, Poblacion ciudad: 458143
+Nombre de la ciudad: Oita, nombre del pais: Japan, Poblacion ciudad: 450910
+Nombre de la ciudad: Nagasaki, nombre del pais: Japan, Poblacion ciudad: 450242
+Nombre de la ciudad: Yokosuka, nombre del pais: Japan, Poblacion ciudad: 447580
+Nombre de la ciudad: Kurashiki, nombre del pais: Japan, Poblacion ciudad: 442277
+Nombre de la ciudad: Gifu, nombre del pais: Japan, Poblacion ciudad: 424490
+Nombre de la ciudad: Hirakata, nombre del pais: Japan, Poblacion ciudad: 419438
+Nombre de la ciudad: Nishinomiya, nombre del pais: Japan, Poblacion ciudad: 413681
+Nombre de la ciudad: Toyonaka, nombre del pais: Japan, Poblacion ciudad: 412714
+Nombre de la ciudad: Wakayama, nombre del pais: Japan, Poblacion ciudad: 407038
+Nombre de la ciudad: Fukuyama, nombre del pais: Japan, Poblacion ciudad: 392148
+Nombre de la ciudad: Fujisawa, nombre del pais: Japan, Poblacion ciudad: 387901
+Nombre de la ciudad: Asahikawa, nombre del pais: Japan, Poblacion ciudad: 379551
+Nombre de la ciudad: Machida, nombre del pais: Japan, Poblacion ciudad: 378909
+Nombre de la ciudad: Nara, nombre del pais: Japan, Poblacion ciudad: 377469
+Nombre de la ciudad: Takatsuki, nombre del pais: Japan, Poblacion ciudad: 376360
+Nombre de la ciudad: Iwaki, nombre del pais: Japan, Poblacion ciudad: 376350
+Nombre de la ciudad: Nagano, nombre del pais: Japan, Poblacion ciudad: 375990
+Nombre de la ciudad: Toyohashi, nombre del pais: Japan, Poblacion ciudad: 374612
+Nombre de la ciudad: Toyota, nombre del pais: Japan, Poblacion ciudad: 360071
+Nombre de la ciudad: Suita, nombre del pais: Japan, Poblacion ciudad: 359718
+Nombre de la ciudad: Takamatsu, nombre del pais: Japan, Poblacion ciudad: 345902
+Nombre de la ciudad: Koriyama, nombre del pais: Japan, Poblacion ciudad: 343679
+Nombre de la ciudad: Okazaki, nombre del pais: Japan, Poblacion ciudad: 341990
+Nombre de la ciudad: Kawagoe, nombre del pais: Japan, Poblacion ciudad: 340430
+Nombre de la ciudad: Tokorozawa, nombre del pais: Japan, Poblacion ciudad: 338971
+Nombre de la ciudad: Toyama, nombre del pais: Japan, Poblacion ciudad: 338951
+Nombre de la ciudad: Kochi, nombre del pais: Japan, Poblacion ciudad: 337828
+Nombre de la ciudad: Kashiwa, nombre del pais: Japan, Poblacion ciudad: 333235
+Nombre de la ciudad: Akita, nombre del pais: Japan, Poblacion ciudad: 327142
+Nombre de la ciudad: Miyazaki, nombre del pais: Japan, Poblacion ciudad: 316056
+Nombre de la ciudad: Koshigaya, nombre del pais: Japan, Poblacion ciudad: 313623
+Nombre de la ciudad: Naha, nombre del pais: Japan, Poblacion ciudad: 311964
+Nombre de la ciudad: Aomori, nombre del pais: Japan, Poblacion ciudad: 307925
+Nombre de la ciudad: Hakodate, nombre del pais: Japan, Poblacion ciudad: 306696
+Nombre de la ciudad: Akashi, nombre del pais: Japan, Poblacion ciudad: 304059
+Nombre de la ciudad: Yokkaichi, nombre del pais: Japan, Poblacion ciudad: 299814
+Nombre de la ciudad: Fukushima, nombre del pais: Japan, Poblacion ciudad: 299140
+Nombre de la ciudad: Morioka, nombre del pais: Japan, Poblacion ciudad: 298962
+Nombre de la ciudad: Maebashi, nombre del pais: Japan, Poblacion ciudad: 295965
+Nombre de la ciudad: Kasugai, nombre del pais: Japan, Poblacion ciudad: 293753
+Nombre de la ciudad: Otsu, nombre del pais: Japan, Poblacion ciudad: 293465
+Nombre de la ciudad: Ichihara, nombre del pais: Japan, Poblacion ciudad: 290562
+Nombre de la ciudad: Yao, nombre del pais: Japan, Poblacion ciudad: 287587
+Nombre de la ciudad: Ichinomiya, nombre del pais: Japan, Poblacion ciudad: 281768
+Nombre de la ciudad: Tokushima, nombre del pais: Japan, Poblacion ciudad: 280541
+Nombre de la ciudad: Kakogawa, nombre del pais: Japan, Poblacion ciudad: 277038
+Nombre de la ciudad: Ibaraki, nombre del pais: Japan, Poblacion ciudad: 271564
+Nombre de la ciudad: Neyagawa, nombre del pais: Japan, Poblacion ciudad: 267710
+Nombre de la ciudad: Shimonoseki, nombre del pais: Japan, Poblacion ciudad: 267656
+Nombre de la ciudad: Yamagata, nombre del pais: Japan, Poblacion ciudad: 265943
+Nombre de la ciudad: Fukui, nombre del pais: Japan, Poblacion ciudad: 265112
+Nombre de la ciudad: Hiratsuka, nombre del pais: Japan, Poblacion ciudad: 264476
+Nombre de la ciudad: Mito, nombre del pais: Japan, Poblacion ciudad: 256519
+Nombre de la ciudad: Sasebo, nombre del pais: Japan, Poblacion ciudad: 254106
+Nombre de la ciudad: Hachinohe, nombre del pais: Japan, Poblacion ciudad: 252794
+Nombre de la ciudad: Takasaki, nombre del pais: Japan, Poblacion ciudad: 248784
+Nombre de la ciudad: Shimizu, nombre del pais: Japan, Poblacion ciudad: 248783
+Nombre de la ciudad: Kurume, nombre del pais: Japan, Poblacion ciudad: 245129
+Nombre de la ciudad: Fuji, nombre del pais: Japan, Poblacion ciudad: 240880
+Nombre de la ciudad: Soka, nombre del pais: Japan, Poblacion ciudad: 231767
+Nombre de la ciudad: Fuchu, nombre del pais: Japan, Poblacion ciudad: 229486
+Nombre de la ciudad: Chigasaki, nombre del pais: Japan, Poblacion ciudad: 224741
+Nombre de la ciudad: Atsugi, nombre del pais: Japan, Poblacion ciudad: 220988
+Nombre de la ciudad: Numazu, nombre del pais: Japan, Poblacion ciudad: 219921
+Nombre de la ciudad: Ageo, nombre del pais: Japan, Poblacion ciudad: 217902
+Nombre de la ciudad: Yamato, nombre del pais: Japan, Poblacion ciudad: 216645
+Nombre de la ciudad: Matsumoto, nombre del pais: Japan, Poblacion ciudad: 215155
+Nombre de la ciudad: Kure, nombre del pais: Japan, Poblacion ciudad: 214846
+Nombre de la ciudad: Takarazuka, nombre del pais: Japan, Poblacion ciudad: 214314
+Nombre de la ciudad: Kasukabe, nombre del pais: Japan, Poblacion ciudad: 209991
+Nombre de la ciudad: Chofu, nombre del pais: Japan, Poblacion ciudad: 209728
+Nombre de la ciudad: Odawara, nombre del pais: Japan, Poblacion ciudad: 208257
+Nombre de la ciudad: Kofu, nombre del pais: Japan, Poblacion ciudad: 207822
+Nombre de la ciudad: Kushiro, nombre del pais: Japan, Poblacion ciudad: 205591
+Nombre de la ciudad: Kishiwada, nombre del pais: Japan, Poblacion ciudad: 205245
+Nombre de la ciudad: Hitachi, nombre del pais: Japan, Poblacion ciudad: 204565
+Nombre de la ciudad: Nagaoka, nombre del pais: Japan, Poblacion ciudad: 200180
+Nombre de la ciudad: Itami, nombre del pais: Japan, Poblacion ciudad: 198597
+Nombre de la ciudad: Uji, nombre del pais: Japan, Poblacion ciudad: 196359
+Nombre de la ciudad: Suzuka, nombre del pais: Japan, Poblacion ciudad: 191496
+Nombre de la ciudad: Hirosaki, nombre del pais: Japan, Poblacion ciudad: 184693
+Nombre de la ciudad: Ube, nombre del pais: Japan, Poblacion ciudad: 182284
+Nombre de la ciudad: Kodaira, nombre del pais: Japan, Poblacion ciudad: 182052
+Nombre de la ciudad: Takaoka, nombre del pais: Japan, Poblacion ciudad: 181424
+Nombre de la ciudad: Obihiro, nombre del pais: Japan, Poblacion ciudad: 180701
+Nombre de la ciudad: Tomakomai, nombre del pais: Japan, Poblacion ciudad: 178904
+Nombre de la ciudad: Saga, nombre del pais: Japan, Poblacion ciudad: 176902
+Nombre de la ciudad: Sakura, nombre del pais: Japan, Poblacion ciudad: 174861
+Nombre de la ciudad: Kamakura, nombre del pais: Japan, Poblacion ciudad: 174434
+Nombre de la ciudad: Mitaka, nombre del pais: Japan, Poblacion ciudad: 174025
+Nombre de la ciudad: Izumi, nombre del pais: Japan, Poblacion ciudad: 173724
+Nombre de la ciudad: Hino, nombre del pais: Japan, Poblacion ciudad: 173507
+Nombre de la ciudad: Hadano, nombre del pais: Japan, Poblacion ciudad: 173238
+Nombre de la ciudad: Ashikaga, nombre del pais: Japan, Poblacion ciudad: 171917
+Nombre de la ciudad: Tsu, nombre del pais: Japan, Poblacion ciudad: 171189
+Nombre de la ciudad: Sayama, nombre del pais: Japan, Poblacion ciudad: 169035
+Nombre de la ciudad: Yachiyo, nombre del pais: Japan, Poblacion ciudad: 167734
+Nombre de la ciudad: Tsukuba, nombre del pais: Japan, Poblacion ciudad: 167262
+Nombre de la ciudad: Tachikawa, nombre del pais: Japan, Poblacion ciudad: 165870
+Nombre de la ciudad: Kumagaya, nombre del pais: Japan, Poblacion ciudad: 163520
+Nombre de la ciudad: Moriguchi, nombre del pais: Japan, Poblacion ciudad: 162240
+Nombre de la ciudad: Otaru, nombre del pais: Japan, Poblacion ciudad: 162076
+Nombre de la ciudad: Anjo, nombre del pais: Japan, Poblacion ciudad: 160036
+Nombre de la ciudad: Narashino, nombre del pais: Japan, Poblacion ciudad: 159023
+Nombre de la ciudad: Oyama, nombre del pais: Japan, Poblacion ciudad: 158993
+Nombre de la ciudad: Ogaki, nombre del pais: Japan, Poblacion ciudad: 157888
+Nombre de la ciudad: Matsue, nombre del pais: Japan, Poblacion ciudad: 155873
+Nombre de la ciudad: Kawanishi, nombre del pais: Japan, Poblacion ciudad: 155844
+Nombre de la ciudad: Hitachinaka, nombre del pais: Japan, Poblacion ciudad: 153985
+Nombre de la ciudad: Niiza, nombre del pais: Japan, Poblacion ciudad: 153711
+Nombre de la ciudad: Nagareyama, nombre del pais: Japan, Poblacion ciudad: 153705
+Nombre de la ciudad: Tottori, nombre del pais: Japan, Poblacion ciudad: 153482
+Nombre de la ciudad: Tama, nombre del pais: Japan, Poblacion ciudad: 152638
+Nombre de la ciudad: Iruma, nombre del pais: Japan, Poblacion ciudad: 151816
+Nombre de la ciudad: Ota, nombre del pais: Japan, Poblacion ciudad: 151187
+Nombre de la ciudad: Omuta, nombre del pais: Japan, Poblacion ciudad: 148660
+Nombre de la ciudad: Komaki, nombre del pais: Japan, Poblacion ciudad: 145475
+Nombre de la ciudad: Ome, nombre del pais: Japan, Poblacion ciudad: 144840
+Nombre de la ciudad: Kadoma, nombre del pais: Japan, Poblacion ciudad: 144566
+Nombre de la ciudad: Yamaguchi, nombre del pais: Japan, Poblacion ciudad: 143793
+Nombre de la ciudad: Higashimurayama, nombre del pais: Japan, Poblacion ciudad: 142503
+Nombre de la ciudad: Yonago, nombre del pais: Japan, Poblacion ciudad: 141973
+Nombre de la ciudad: Matsubara, nombre del pais: Japan, Poblacion ciudad: 140464
+Nombre de la ciudad: Musashino, nombre del pais: Japan, Poblacion ciudad: 139856
+Nombre de la ciudad: Tsuchiura, nombre del pais: Japan, Poblacion ciudad: 139488
+Nombre de la ciudad: Joetsu, nombre del pais: Japan, Poblacion ciudad: 138898
+Nombre de la ciudad: Miyakonojo, nombre del pais: Japan, Poblacion ciudad: 138562
+Nombre de la ciudad: Misato, nombre del pais: Japan, Poblacion ciudad: 138328
+Nombre de la ciudad: Kakamigahara, nombre del pais: Japan, Poblacion ciudad: 137156
+Nombre de la ciudad: Daito, nombre del pais: Japan, Poblacion ciudad: 135869
+Nombre de la ciudad: Seto, nombre del pais: Japan, Poblacion ciudad: 135740
+Nombre de la ciudad: Kariya, nombre del pais: Japan, Poblacion ciudad: 133138
+Nombre de la ciudad: Urayasu, nombre del pais: Japan, Poblacion ciudad: 132703
+Nombre de la ciudad: Beppu, nombre del pais: Japan, Poblacion ciudad: 132635
+Nombre de la ciudad: Niihama, nombre del pais: Japan, Poblacion ciudad: 132346
+Nombre de la ciudad: Minoo, nombre del pais: Japan, Poblacion ciudad: 132157
+Nombre de la ciudad: Fujieda, nombre del pais: Japan, Poblacion ciudad: 132022
+Nombre de la ciudad: Abiko, nombre del pais: Japan, Poblacion ciudad: 131787
+Nombre de la ciudad: Nobeoka, nombre del pais: Japan, Poblacion ciudad: 130618
+Nombre de la ciudad: Tondabayashi, nombre del pais: Japan, Poblacion ciudad: 130146
+Nombre de la ciudad: Ueda, nombre del pais: Japan, Poblacion ciudad: 129235
+Nombre de la ciudad: Kashihara, nombre del pais: Japan, Poblacion ciudad: 129022
+Nombre de la ciudad: Matsusaka, nombre del pais: Japan, Poblacion ciudad: 128574
+Nombre de la ciudad: Isesaki, nombre del pais: Japan, Poblacion ciudad: 128265
+Nombre de la ciudad: Zama, nombre del pais: Japan, Poblacion ciudad: 126975
+Nombre de la ciudad: Kisarazu, nombre del pais: Japan, Poblacion ciudad: 126894
+Nombre de la ciudad: Noda, nombre del pais: Japan, Poblacion ciudad: 125919
+Nombre de la ciudad: Ishinomaki, nombre del pais: Japan, Poblacion ciudad: 125849
+Nombre de la ciudad: Fujinomiya, nombre del pais: Japan, Poblacion ciudad: 124550
+Nombre de la ciudad: Kawachinagano, nombre del pais: Japan, Poblacion ciudad: 124500
+Nombre de la ciudad: Imabari, nombre del pais: Japan, Poblacion ciudad: 124178
+Nombre de la ciudad: Aizuwakamatsu, nombre del pais: Japan, Poblacion ciudad: 124105
+Nombre de la ciudad: Higashihiroshima, nombre del pais: Japan, Poblacion ciudad: 123979
+Nombre de la ciudad: Habikino, nombre del pais: Japan, Poblacion ciudad: 123773
+Nombre de la ciudad: Ebetsu, nombre del pais: Japan, Poblacion ciudad: 123604
+Nombre de la ciudad: Hofu, nombre del pais: Japan, Poblacion ciudad: 123548
+Nombre de la ciudad: Kiryu, nombre del pais: Japan, Poblacion ciudad: 123105
+Nombre de la ciudad: Okinawa, nombre del pais: Japan, Poblacion ciudad: 122504
+Nombre de la ciudad: Yaizu, nombre del pais: Japan, Poblacion ciudad: 121995
+Nombre de la ciudad: Toyokawa, nombre del pais: Japan, Poblacion ciudad: 120457
+Nombre de la ciudad: Ebina, nombre del pais: Japan, Poblacion ciudad: 120239
+Nombre de la ciudad: Asaka, nombre del pais: Japan, Poblacion ciudad: 119453
+Nombre de la ciudad: Higashikurume, nombre del pais: Japan, Poblacion ciudad: 116176
+Nombre de la ciudad: Ikoma, nombre del pais: Japan, Poblacion ciudad: 116154
+Nombre de la ciudad: Kitami, nombre del pais: Japan, Poblacion ciudad: 115790
+Nombre de la ciudad: Koganei, nombre del pais: Japan, Poblacion ciudad: 115451
+Nombre de la ciudad: Iwatsuki, nombre del pais: Japan, Poblacion ciudad: 114478
+Nombre de la ciudad: Mishima, nombre del pais: Japan, Poblacion ciudad: 114129
+Nombre de la ciudad: Handa, nombre del pais: Japan, Poblacion ciudad: 112987
+Nombre de la ciudad: Muroran, nombre del pais: Japan, Poblacion ciudad: 112648
+Nombre de la ciudad: Komatsu, nombre del pais: Japan, Poblacion ciudad: 112296
+Nombre de la ciudad: Yatsushiro, nombre del pais: Japan, Poblacion ciudad: 112010
+Nombre de la ciudad: Iida, nombre del pais: Japan, Poblacion ciudad: 111928
+Nombre de la ciudad: Tokuyama, nombre del pais: Japan, Poblacion ciudad: 111403
+Nombre de la ciudad: Kokubunji, nombre del pais: Japan, Poblacion ciudad: 111317
+Nombre de la ciudad: Akishima, nombre del pais: Japan, Poblacion ciudad: 111233
+Nombre de la ciudad: Iwakuni, nombre del pais: Japan, Poblacion ciudad: 110954
+Nombre de la ciudad: Kusatsu, nombre del pais: Japan, Poblacion ciudad: 110523
+Nombre de la ciudad: Kuwana, nombre del pais: Japan, Poblacion ciudad: 110407
+Nombre de la ciudad: Sanda, nombre del pais: Japan, Poblacion ciudad: 109910
+Nombre de la ciudad: Hikone, nombre del pais: Japan, Poblacion ciudad: 109770
+Nombre de la ciudad: Toda, nombre del pais: Japan, Poblacion ciudad: 108168
+Nombre de la ciudad: Tajimi, nombre del pais: Japan, Poblacion ciudad: 107338
+Nombre de la ciudad: Ikeda, nombre del pais: Japan, Poblacion ciudad: 106859
+Nombre de la ciudad: Fukaya, nombre del pais: Japan, Poblacion ciudad: 106282
+Nombre de la ciudad: Ise, nombre del pais: Japan, Poblacion ciudad: 105841
+Nombre de la ciudad: Sakata, nombre del pais: Japan, Poblacion ciudad: 105757
+Nombre de la ciudad: Kasuga, nombre del pais: Japan, Poblacion ciudad: 105437
+Nombre de la ciudad: Kamagaya, nombre del pais: Japan, Poblacion ciudad: 104893
+Nombre de la ciudad: Tsuruoka, nombre del pais: Japan, Poblacion ciudad: 104781
+Nombre de la ciudad: Hoya, nombre del pais: Japan, Poblacion ciudad: 104365
+Nombre de la ciudad: Nishio, nombre del pais: Japan, Poblacion ciudad: 104072
+Nombre de la ciudad: Tokai, nombre del pais: Japan, Poblacion ciudad: 103766
+Nombre de la ciudad: Inazawa, nombre del pais: Japan, Poblacion ciudad: 102734
+Nombre de la ciudad: Sakado, nombre del pais: Japan, Poblacion ciudad: 102188
+Nombre de la ciudad: Isehara, nombre del pais: Japan, Poblacion ciudad: 102086
+Nombre de la ciudad: Takasago, nombre del pais: Japan, Poblacion ciudad: 101575
+Nombre de la ciudad: Fujimi, nombre del pais: Japan, Poblacion ciudad: 100889
+Nombre de la ciudad: Urasoe, nombre del pais: Japan, Poblacion ciudad: 99880
+Nombre de la ciudad: Yonezawa, nombre del pais: Japan, Poblacion ciudad: 99453
+Nombre de la ciudad: Konan, nombre del pais: Japan, Poblacion ciudad: 99379
+Nombre de la ciudad: Yamatokoriyama, nombre del pais: Japan, Poblacion ciudad: 99009
+Nombre de la ciudad: Maizuru, nombre del pais: Japan, Poblacion ciudad: 98612
+Nombre de la ciudad: Onomichi, nombre del pais: Japan, Poblacion ciudad: 97543
+Nombre de la ciudad: Higashimatsuyama, nombre del pais: Japan, Poblacion ciudad: 97112
+Nombre de la ciudad: Kimitsu, nombre del pais: Japan, Poblacion ciudad: 96981
+Nombre de la ciudad: Isahaya, nombre del pais: Japan, Poblacion ciudad: 96817
+Nombre de la ciudad: Kanuma, nombre del pais: Japan, Poblacion ciudad: 96812
+Nombre de la ciudad: Izumisano, nombre del pais: Japan, Poblacion ciudad: 96322
+Nombre de la ciudad: Kameoka, nombre del pais: Japan, Poblacion ciudad: 96129
+Nombre de la ciudad: Mobara, nombre del pais: Japan, Poblacion ciudad: 95366
+Nombre de la ciudad: Narita, nombre del pais: Japan, Poblacion ciudad: 95164
+Nombre de la ciudad: Kashiwazaki, nombre del pais: Japan, Poblacion ciudad: 94914
+Nombre de la ciudad: Tsuyama, nombre del pais: Japan, Poblacion ciudad: 94852
+Nombre de la ciudad: Almaty, nombre del pais: Kazakstan, Poblacion ciudad: 1175027
+Nombre de la ciudad: Qaraghandy, nombre del pais: Kazakstan, Poblacion ciudad: 454550
+Nombre de la ciudad: Shymkent, nombre del pais: Kazakstan, Poblacion ciudad: 374648
+Nombre de la ciudad: Taraz, nombre del pais: Kazakstan, Poblacion ciudad: 343436
+Nombre de la ciudad: Astana, nombre del pais: Kazakstan, Poblacion ciudad: 323772
+Nombre de la ciudad: Öskemen, nombre del pais: Kazakstan, Poblacion ciudad: 323564
+Nombre de la ciudad: Pavlodar, nombre del pais: Kazakstan, Poblacion ciudad: 312640
+Nombre de la ciudad: Semey, nombre del pais: Kazakstan, Poblacion ciudad: 280491
+Nombre de la ciudad: Aqtöbe, nombre del pais: Kazakstan, Poblacion ciudad: 263325
+Nombre de la ciudad: Qostanay, nombre del pais: Kazakstan, Poblacion ciudad: 230344
+Nombre de la ciudad: Petropavl, nombre del pais: Kazakstan, Poblacion ciudad: 211721
+Nombre de la ciudad: Oral, nombre del pais: Kazakstan, Poblacion ciudad: 203398
+Nombre de la ciudad: Temirtau, nombre del pais: Kazakstan, Poblacion ciudad: 177388
+Nombre de la ciudad: Qyzylorda, nombre del pais: Kazakstan, Poblacion ciudad: 163758
+Nombre de la ciudad: Aqtau, nombre del pais: Kazakstan, Poblacion ciudad: 149193
+Nombre de la ciudad: Atyrau, nombre del pais: Kazakstan, Poblacion ciudad: 148257
+Nombre de la ciudad: Ekibastuz, nombre del pais: Kazakstan, Poblacion ciudad: 132338
+Nombre de la ciudad: Kökshetau, nombre del pais: Kazakstan, Poblacion ciudad: 128385
+Nombre de la ciudad: Rudnyy, nombre del pais: Kazakstan, Poblacion ciudad: 113923
+Nombre de la ciudad: Taldyqorghan, nombre del pais: Kazakstan, Poblacion ciudad: 101959
+Nombre de la ciudad: Zhezqazghan, nombre del pais: Kazakstan, Poblacion ciudad: 93636
+Nombre de la ciudad: Bishkek, nombre del pais: Kyrgyzstan, Poblacion ciudad: 613211
+Nombre de la ciudad: Osh, nombre del pais: Kyrgyzstan, Poblacion ciudad: 231697
+Nombre de la ciudad: Phnom Penh, nombre del pais: Cambodia, Poblacion ciudad: 593189
+Nombre de la ciudad: Battambang, nombre del pais: Cambodia, Poblacion ciudad: 135043
+Nombre de la ciudad: Siem Reap, nombre del pais: Cambodia, Poblacion ciudad: 109346
+Nombre de la ciudad: Seoul, nombre del pais: South Korea, Poblacion ciudad: 10384876
+Nombre de la ciudad: Pusan, nombre del pais: South Korea, Poblacion ciudad: 3958224
+Nombre de la ciudad: Inchon, nombre del pais: South Korea, Poblacion ciudad: 2662824
+Nombre de la ciudad: Taegu, nombre del pais: South Korea, Poblacion ciudad: 2651529
+Nombre de la ciudad: Taejon, nombre del pais: South Korea, Poblacion ciudad: 1483438
+Nombre de la ciudad: Kwangju, nombre del pais: South Korea, Poblacion ciudad: 1423621
+Nombre de la ciudad: Ulsan, nombre del pais: South Korea, Poblacion ciudad: 1128719
+Nombre de la ciudad: Songnam, nombre del pais: South Korea, Poblacion ciudad: 904204
+Nombre de la ciudad: Puchon, nombre del pais: South Korea, Poblacion ciudad: 810900
+Nombre de la ciudad: Suwon, nombre del pais: South Korea, Poblacion ciudad: 786074
+Nombre de la ciudad: Anyang, nombre del pais: South Korea, Poblacion ciudad: 614986
+Nombre de la ciudad: Chonju, nombre del pais: South Korea, Poblacion ciudad: 585904
+Nombre de la ciudad: Chongju, nombre del pais: South Korea, Poblacion ciudad: 552843
+Nombre de la ciudad: Koyang, nombre del pais: South Korea, Poblacion ciudad: 539219
+Nombre de la ciudad: Ansan, nombre del pais: South Korea, Poblacion ciudad: 530930
+Nombre de la ciudad: Pohang, nombre del pais: South Korea, Poblacion ciudad: 529457
+Nombre de la ciudad: Chang-won, nombre del pais: South Korea, Poblacion ciudad: 501153
+Nombre de la ciudad: Masan, nombre del pais: South Korea, Poblacion ciudad: 459067
+Nombre de la ciudad: Kwangmyong, nombre del pais: South Korea, Poblacion ciudad: 365090
+Nombre de la ciudad: Chonan, nombre del pais: South Korea, Poblacion ciudad: 343601
+Nombre de la ciudad: Chinju, nombre del pais: South Korea, Poblacion ciudad: 343212
+Nombre de la ciudad: Iksan, nombre del pais: South Korea, Poblacion ciudad: 335720
+Nombre de la ciudad: Pyongtaek, nombre del pais: South Korea, Poblacion ciudad: 325568
+Nombre de la ciudad: Kumi, nombre del pais: South Korea, Poblacion ciudad: 324012
+Nombre de la ciudad: Uijongbu, nombre del pais: South Korea, Poblacion ciudad: 287265
+Nombre de la ciudad: Kyongju, nombre del pais: South Korea, Poblacion ciudad: 283995
+Nombre de la ciudad: Kunsan, nombre del pais: South Korea, Poblacion ciudad: 277338
+Nombre de la ciudad: Cheju, nombre del pais: South Korea, Poblacion ciudad: 268954
+Nombre de la ciudad: Kimhae, nombre del pais: South Korea, Poblacion ciudad: 266726
+Nombre de la ciudad: Sunchon, nombre del pais: South Korea, Poblacion ciudad: 259332
+Nombre de la ciudad: Mokpo, nombre del pais: South Korea, Poblacion ciudad: 257449
+Nombre de la ciudad: Yong-in, nombre del pais: South Korea, Poblacion ciudad: 252444
+Nombre de la ciudad: Wonju, nombre del pais: South Korea, Poblacion ciudad: 247053
+Nombre de la ciudad: Kunpo, nombre del pais: South Korea, Poblacion ciudad: 244735
+Nombre de la ciudad: Chunchon, nombre del pais: South Korea, Poblacion ciudad: 244002
+Nombre de la ciudad: Namyangju, nombre del pais: South Korea, Poblacion ciudad: 238313
+Nombre de la ciudad: Kangnung, nombre del pais: South Korea, Poblacion ciudad: 229307
+Nombre de la ciudad: Chungju, nombre del pais: South Korea, Poblacion ciudad: 213496
+Nombre de la ciudad: Andong, nombre del pais: South Korea, Poblacion ciudad: 196055
+Nombre de la ciudad: Yosu, nombre del pais: South Korea, Poblacion ciudad: 191012
+Nombre de la ciudad: Kyongsan, nombre del pais: South Korea, Poblacion ciudad: 180764
+Nombre de la ciudad: Paju, nombre del pais: South Korea, Poblacion ciudad: 169978
+Nombre de la ciudad: Yangsan, nombre del pais: South Korea, Poblacion ciudad: 169950
+Nombre de la ciudad: Ichon, nombre del pais: South Korea, Poblacion ciudad: 161606
+Nombre de la ciudad: Asan, nombre del pais: South Korea, Poblacion ciudad: 160911
+Nombre de la ciudad: Koje, nombre del pais: South Korea, Poblacion ciudad: 153523
+Nombre de la ciudad: Kimchon, nombre del pais: South Korea, Poblacion ciudad: 152966
+Nombre de la ciudad: Nonsan, nombre del pais: South Korea, Poblacion ciudad: 152542
+Nombre de la ciudad: Kuri, nombre del pais: South Korea, Poblacion ciudad: 147916
+Nombre de la ciudad: Chong-up, nombre del pais: South Korea, Poblacion ciudad: 144730
+Nombre de la ciudad: Chechon, nombre del pais: South Korea, Poblacion ciudad: 142607
+Nombre de la ciudad: Sosan, nombre del pais: South Korea, Poblacion ciudad: 140188
+Nombre de la ciudad: Shihung, nombre del pais: South Korea, Poblacion ciudad: 138833
+Nombre de la ciudad: Tong-yong, nombre del pais: South Korea, Poblacion ciudad: 137038
+Nombre de la ciudad: Kongju, nombre del pais: South Korea, Poblacion ciudad: 136530
+Nombre de la ciudad: Yongju, nombre del pais: South Korea, Poblacion ciudad: 136392
+Nombre de la ciudad: Chinhae, nombre del pais: South Korea, Poblacion ciudad: 131086
+Nombre de la ciudad: Sangju, nombre del pais: South Korea, Poblacion ciudad: 129129
+Nombre de la ciudad: Poryong, nombre del pais: South Korea, Poblacion ciudad: 127557
+Nombre de la ciudad: Kwang-yang, nombre del pais: South Korea, Poblacion ciudad: 126982
+Nombre de la ciudad: Miryang, nombre del pais: South Korea, Poblacion ciudad: 126409
+Nombre de la ciudad: Hanam, nombre del pais: South Korea, Poblacion ciudad: 120490
+Nombre de la ciudad: Kimje, nombre del pais: South Korea, Poblacion ciudad: 120089
+Nombre de la ciudad: Yongchon, nombre del pais: South Korea, Poblacion ciudad: 118096
+Nombre de la ciudad: Sachon, nombre del pais: South Korea, Poblacion ciudad: 118078
+Nombre de la ciudad: Uiwang, nombre del pais: South Korea, Poblacion ciudad: 113182
+Nombre de la ciudad: Naju, nombre del pais: South Korea, Poblacion ciudad: 112186
+Nombre de la ciudad: Namwon, nombre del pais: South Korea, Poblacion ciudad: 107726
+Nombre de la ciudad: Tonghae, nombre del pais: South Korea, Poblacion ciudad: 99328
+Nombre de la ciudad: Mun-gyong, nombre del pais: South Korea, Poblacion ciudad: 95964
+Nombre de la ciudad: al-Salimiya, nombre del pais: Kuwait, Poblacion ciudad: 135475
+Nombre de la ciudad: Jalib al-Shuyukh, nombre del pais: Kuwait, Poblacion ciudad: 106305
+Nombre de la ciudad: Kuwait, nombre del pais: Kuwait, Poblacion ciudad: 30024
+Nombre de la ciudad: Vientiane, nombre del pais: Laos, Poblacion ciudad: 553284
+Nombre de la ciudad: Savannakhet, nombre del pais: Laos, Poblacion ciudad: 100556
+Nombre de la ciudad: Beirut, nombre del pais: Lebanon, Poblacion ciudad: 1144440
+Nombre de la ciudad: Tripoli, nombre del pais: Lebanon, Poblacion ciudad: 249696
+Nombre de la ciudad: Colombo, nombre del pais: Sri Lanka, Poblacion ciudad: 671058
+Nombre de la ciudad: Dehiwala, nombre del pais: Sri Lanka, Poblacion ciudad: 211201
+Nombre de la ciudad: Moratuwa, nombre del pais: Sri Lanka, Poblacion ciudad: 197676
+Nombre de la ciudad: Jaffna, nombre del pais: Sri Lanka, Poblacion ciudad: 155019
+Nombre de la ciudad: Kandy, nombre del pais: Sri Lanka, Poblacion ciudad: 145656
+Nombre de la ciudad: Sri Jayawardenepura Kotte, nombre del pais: Sri Lanka, Poblacion ciudad: 122767
+Nombre de la ciudad: Negombo, nombre del pais: Sri Lanka, Poblacion ciudad: 104040
+Nombre de la ciudad: Macao, nombre del pais: Macao, Poblacion ciudad: 455175
+Nombre de la ciudad: Male, nombre del pais: Maldives, Poblacion ciudad: 73868
+Nombre de la ciudad: Rangoon (Yangon), nombre del pais: Myanmar, Poblacion ciudad: 3497512
+Nombre de la ciudad: Mandalay, nombre del pais: Myanmar, Poblacion ciudad: 921066
+Nombre de la ciudad: Moulmein (Mawlamyine), nombre del pais: Myanmar, Poblacion ciudad: 320339
+Nombre de la ciudad: Pegu (Bago), nombre del pais: Myanmar, Poblacion ciudad: 198612
+Nombre de la ciudad: Bassein (Pathein), nombre del pais: Myanmar, Poblacion ciudad: 191329
+Nombre de la ciudad: Monywa, nombre del pais: Myanmar, Poblacion ciudad: 144199
+Nombre de la ciudad: Sittwe (Akyab), nombre del pais: Myanmar, Poblacion ciudad: 143159
+Nombre de la ciudad: Taunggyi (Taunggye), nombre del pais: Myanmar, Poblacion ciudad: 136812
+Nombre de la ciudad: Meikhtila, nombre del pais: Myanmar, Poblacion ciudad: 134939
+Nombre de la ciudad: Mergui (Myeik), nombre del pais: Myanmar, Poblacion ciudad: 127657
+Nombre de la ciudad: Lashio (Lasho), nombre del pais: Myanmar, Poblacion ciudad: 111947
+Nombre de la ciudad: Prome (Pyay), nombre del pais: Myanmar, Poblacion ciudad: 109970
+Nombre de la ciudad: Henzada (Hinthada), nombre del pais: Myanmar, Poblacion ciudad: 108929
+Nombre de la ciudad: Myingyan, nombre del pais: Myanmar, Poblacion ciudad: 107785
+Nombre de la ciudad: Tavoy (Dawei), nombre del pais: Myanmar, Poblacion ciudad: 100710
+Nombre de la ciudad: Pagakku (Pakokku), nombre del pais: Myanmar, Poblacion ciudad: 98629
+Nombre de la ciudad: Ulan Bator, nombre del pais: Mongolia, Poblacion ciudad: 804957
+Nombre de la ciudad: Kuala Lumpur, nombre del pais: Malaysia, Poblacion ciudad: 1349945
+Nombre de la ciudad: Ipoh, nombre del pais: Malaysia, Poblacion ciudad: 398320
+Nombre de la ciudad: Johor Baharu, nombre del pais: Malaysia, Poblacion ciudad: 341704
+Nombre de la ciudad: Petaling Jaya, nombre del pais: Malaysia, Poblacion ciudad: 264625
+Nombre de la ciudad: Kelang, nombre del pais: Malaysia, Poblacion ciudad: 253186
+Nombre de la ciudad: Kuala Terengganu, nombre del pais: Malaysia, Poblacion ciudad: 237334
+Nombre de la ciudad: Pinang, nombre del pais: Malaysia, Poblacion ciudad: 228474
+Nombre de la ciudad: Kota Bharu, nombre del pais: Malaysia, Poblacion ciudad: 228452
+Nombre de la ciudad: Kuantan, nombre del pais: Malaysia, Poblacion ciudad: 207542
+Nombre de la ciudad: Taiping, nombre del pais: Malaysia, Poblacion ciudad: 190664
+Nombre de la ciudad: Seremban, nombre del pais: Malaysia, Poblacion ciudad: 190256
+Nombre de la ciudad: Kuching, nombre del pais: Malaysia, Poblacion ciudad: 154040
+Nombre de la ciudad: Sibu, nombre del pais: Malaysia, Poblacion ciudad: 131486
+Nombre de la ciudad: Sandakan, nombre del pais: Malaysia, Poblacion ciudad: 130924
+Nombre de la ciudad: Alor Setar, nombre del pais: Malaysia, Poblacion ciudad: 129438
+Nombre de la ciudad: Selayang Baru, nombre del pais: Malaysia, Poblacion ciudad: 129246
+Nombre de la ciudad: Sungai Petani, nombre del pais: Malaysia, Poblacion ciudad: 119399
+Nombre de la ciudad: Shah Alam, nombre del pais: Malaysia, Poblacion ciudad: 106140
+Nombre de la ciudad: Kathmandu, nombre del pais: Nepal, Poblacion ciudad: 615744
+Nombre de la ciudad: Biratnagar, nombre del pais: Nepal, Poblacion ciudad: 164137
+Nombre de la ciudad: Pokhara, nombre del pais: Nepal, Poblacion ciudad: 152228
+Nombre de la ciudad: Lalitapur, nombre del pais: Nepal, Poblacion ciudad: 151738
+Nombre de la ciudad: Birgunj, nombre del pais: Nepal, Poblacion ciudad: 94300
+Nombre de la ciudad: al-Sib, nombre del pais: Oman, Poblacion ciudad: 161262
+Nombre de la ciudad: Salala, nombre del pais: Oman, Poblacion ciudad: 137137
+Nombre de la ciudad: Bawshar, nombre del pais: Oman, Poblacion ciudad: 111843
+Nombre de la ciudad: Suhar, nombre del pais: Oman, Poblacion ciudad: 94482
+Nombre de la ciudad: Masqat, nombre del pais: Oman, Poblacion ciudad: 54068
+Nombre de la ciudad: Karachi, nombre del pais: Pakistan, Poblacion ciudad: 9643743
+Nombre de la ciudad: Lahore, nombre del pais: Pakistan, Poblacion ciudad: 5268063
+Nombre de la ciudad: Faisalabad, nombre del pais: Pakistan, Poblacion ciudad: 2057125
+Nombre de la ciudad: Rawalpindi, nombre del pais: Pakistan, Poblacion ciudad: 1463024
+Nombre de la ciudad: Multan, nombre del pais: Pakistan, Poblacion ciudad: 1230210
+Nombre de la ciudad: Hyderabad, nombre del pais: Pakistan, Poblacion ciudad: 1197784
+Nombre de la ciudad: Gujranwala, nombre del pais: Pakistan, Poblacion ciudad: 1170187
+Nombre de la ciudad: Peshawar, nombre del pais: Pakistan, Poblacion ciudad: 1027920
+Nombre de la ciudad: Quetta, nombre del pais: Pakistan, Poblacion ciudad: 582943
+Nombre de la ciudad: Islamabad, nombre del pais: Pakistan, Poblacion ciudad: 545689
+Nombre de la ciudad: Sargodha, nombre del pais: Pakistan, Poblacion ciudad: 473756
+Nombre de la ciudad: Sialkot, nombre del pais: Pakistan, Poblacion ciudad: 434466
+Nombre de la ciudad: Bahawalpur, nombre del pais: Pakistan, Poblacion ciudad: 419705
+Nombre de la ciudad: Sukkur, nombre del pais: Pakistan, Poblacion ciudad: 342474
+Nombre de la ciudad: Jhang, nombre del pais: Pakistan, Poblacion ciudad: 304019
+Nombre de la ciudad: Sheikhupura, nombre del pais: Pakistan, Poblacion ciudad: 282858
+Nombre de la ciudad: Larkana, nombre del pais: Pakistan, Poblacion ciudad: 281288
+Nombre de la ciudad: Gujrat, nombre del pais: Pakistan, Poblacion ciudad: 260225
+Nombre de la ciudad: Mardan, nombre del pais: Pakistan, Poblacion ciudad: 254389
+Nombre de la ciudad: Kasur, nombre del pais: Pakistan, Poblacion ciudad: 251410
+Nombre de la ciudad: Rahim Yar Khan, nombre del pais: Pakistan, Poblacion ciudad: 237708
+Nombre de la ciudad: Sahiwal, nombre del pais: Pakistan, Poblacion ciudad: 215765
+Nombre de la ciudad: Okara, nombre del pais: Pakistan, Poblacion ciudad: 209017
+Nombre de la ciudad: Wah, nombre del pais: Pakistan, Poblacion ciudad: 206415
+Nombre de la ciudad: Dera Ghazi Khan, nombre del pais: Pakistan, Poblacion ciudad: 195699
+Nombre de la ciudad: Mirpur Khas, nombre del pais: Pakistan, Poblacion ciudad: 191953
+Nombre de la ciudad: Nawabshah, nombre del pais: Pakistan, Poblacion ciudad: 190497
+Nombre de la ciudad: Mingora, nombre del pais: Pakistan, Poblacion ciudad: 181549
+Nombre de la ciudad: Chiniot, nombre del pais: Pakistan, Poblacion ciudad: 176139
+Nombre de la ciudad: Kamoke, nombre del pais: Pakistan, Poblacion ciudad: 157100
+Nombre de la ciudad: Mandi Burewala, nombre del pais: Pakistan, Poblacion ciudad: 155955
+Nombre de la ciudad: Jhelum, nombre del pais: Pakistan, Poblacion ciudad: 151690
+Nombre de la ciudad: Sadiqabad, nombre del pais: Pakistan, Poblacion ciudad: 147216
+Nombre de la ciudad: Jacobabad, nombre del pais: Pakistan, Poblacion ciudad: 143263
+Nombre de la ciudad: Shikarpur, nombre del pais: Pakistan, Poblacion ciudad: 138685
+Nombre de la ciudad: Khanewal, nombre del pais: Pakistan, Poblacion ciudad: 138373
+Nombre de la ciudad: Hafizabad, nombre del pais: Pakistan, Poblacion ciudad: 135460
+Nombre de la ciudad: Kohat, nombre del pais: Pakistan, Poblacion ciudad: 130362
+Nombre de la ciudad: Muzaffargarh, nombre del pais: Pakistan, Poblacion ciudad: 126512
+Nombre de la ciudad: Khanpur, nombre del pais: Pakistan, Poblacion ciudad: 122559
+Nombre de la ciudad: Gojra, nombre del pais: Pakistan, Poblacion ciudad: 119646
+Nombre de la ciudad: Bahawalnagar, nombre del pais: Pakistan, Poblacion ciudad: 114027
+Nombre de la ciudad: Muridke, nombre del pais: Pakistan, Poblacion ciudad: 112987
+Nombre de la ciudad: Pak Pattan, nombre del pais: Pakistan, Poblacion ciudad: 112155
+Nombre de la ciudad: Abottabad, nombre del pais: Pakistan, Poblacion ciudad: 110282
+Nombre de la ciudad: Tando Adam, nombre del pais: Pakistan, Poblacion ciudad: 107577
+Nombre de la ciudad: Jaranwala, nombre del pais: Pakistan, Poblacion ciudad: 107473
+Nombre de la ciudad: Khairpur, nombre del pais: Pakistan, Poblacion ciudad: 106328
+Nombre de la ciudad: Chishtian Mandi, nombre del pais: Pakistan, Poblacion ciudad: 105808
+Nombre de la ciudad: Daska, nombre del pais: Pakistan, Poblacion ciudad: 105600
+Nombre de la ciudad: Dadu, nombre del pais: Pakistan, Poblacion ciudad: 102583
+Nombre de la ciudad: Mandi Bahauddin, nombre del pais: Pakistan, Poblacion ciudad: 101230
+Nombre de la ciudad: Ahmadpur East, nombre del pais: Pakistan, Poblacion ciudad: 99878
+Nombre de la ciudad: Kamalia, nombre del pais: Pakistan, Poblacion ciudad: 99150
+Nombre de la ciudad: Khuzdar, nombre del pais: Pakistan, Poblacion ciudad: 96861
+Nombre de la ciudad: Vihari, nombre del pais: Pakistan, Poblacion ciudad: 96028
+Nombre de la ciudad: Dera Ismail Khan, nombre del pais: Pakistan, Poblacion ciudad: 94052
+Nombre de la ciudad: Wazirabad, nombre del pais: Pakistan, Poblacion ciudad: 93323
+Nombre de la ciudad: Nowshera, nombre del pais: Pakistan, Poblacion ciudad: 93011
+Nombre de la ciudad: Quezon, nombre del pais: Philippines, Poblacion ciudad: 2261653
+Nombre de la ciudad: Manila, nombre del pais: Philippines, Poblacion ciudad: 1644957
+Nombre de la ciudad: Kalookan, nombre del pais: Philippines, Poblacion ciudad: 1225179
+Nombre de la ciudad: Davao, nombre del pais: Philippines, Poblacion ciudad: 1193459
+Nombre de la ciudad: Cebu, nombre del pais: Philippines, Poblacion ciudad: 747860
+Nombre de la ciudad: Zamboanga, nombre del pais: Philippines, Poblacion ciudad: 626105
+Nombre de la ciudad: Pasig, nombre del pais: Philippines, Poblacion ciudad: 525462
+Nombre de la ciudad: Valenzuela, nombre del pais: Philippines, Poblacion ciudad: 505043
+Nombre de la ciudad: Las Piñas, nombre del pais: Philippines, Poblacion ciudad: 491879
+Nombre de la ciudad: Antipolo, nombre del pais: Philippines, Poblacion ciudad: 489888
+Nombre de la ciudad: Taguig, nombre del pais: Philippines, Poblacion ciudad: 486256
+Nombre de la ciudad: Cagayan de Oro, nombre del pais: Philippines, Poblacion ciudad: 480536
+Nombre de la ciudad: Parañaque, nombre del pais: Philippines, Poblacion ciudad: 467983
+Nombre de la ciudad: Makati, nombre del pais: Philippines, Poblacion ciudad: 462839
+Nombre de la ciudad: Bacolod, nombre del pais: Philippines, Poblacion ciudad: 446410
+Nombre de la ciudad: General Santos, nombre del pais: Philippines, Poblacion ciudad: 428459
+Nombre de la ciudad: Marikina, nombre del pais: Philippines, Poblacion ciudad: 406972
+Nombre de la ciudad: Dasmariñas, nombre del pais: Philippines, Poblacion ciudad: 394852
+Nombre de la ciudad: Muntinlupa, nombre del pais: Philippines, Poblacion ciudad: 394633
+Nombre de la ciudad: Iloilo, nombre del pais: Philippines, Poblacion ciudad: 380598
+Nombre de la ciudad: Pasay, nombre del pais: Philippines, Poblacion ciudad: 369246
+Nombre de la ciudad: Malabon, nombre del pais: Philippines, Poblacion ciudad: 352544
+Nombre de la ciudad: San José del Monte, nombre del pais: Philippines, Poblacion ciudad: 328565
+Nombre de la ciudad: Bacoor, nombre del pais: Philippines, Poblacion ciudad: 318048
+Nombre de la ciudad: Iligan, nombre del pais: Philippines, Poblacion ciudad: 296577
+Nombre de la ciudad: Calamba, nombre del pais: Philippines, Poblacion ciudad: 292503
+Nombre de la ciudad: Mandaluyong, nombre del pais: Philippines, Poblacion ciudad: 289723
+Nombre de la ciudad: Butuan, nombre del pais: Philippines, Poblacion ciudad: 278076
+Nombre de la ciudad: Angeles, nombre del pais: Philippines, Poblacion ciudad: 274635
+Nombre de la ciudad: Tarlac, nombre del pais: Philippines, Poblacion ciudad: 273084
+Nombre de la ciudad: Mandaue, nombre del pais: Philippines, Poblacion ciudad: 270220
+Nombre de la ciudad: Baguio, nombre del pais: Philippines, Poblacion ciudad: 262581
+Nombre de la ciudad: Batangas, nombre del pais: Philippines, Poblacion ciudad: 257589
+Nombre de la ciudad: Cainta, nombre del pais: Philippines, Poblacion ciudad: 252308
+Nombre de la ciudad: San Pedro, nombre del pais: Philippines, Poblacion ciudad: 240751
+Nombre de la ciudad: Navotas, nombre del pais: Philippines, Poblacion ciudad: 239711
+Nombre de la ciudad: Cabanatuan, nombre del pais: Philippines, Poblacion ciudad: 231862
+Nombre de la ciudad: San Fernando, nombre del pais: Philippines, Poblacion ciudad: 230819
+Nombre de la ciudad: Lipa, nombre del pais: Philippines, Poblacion ciudad: 227271
+Nombre de la ciudad: Lapu-Lapu, nombre del pais: Philippines, Poblacion ciudad: 225786
+Nombre de la ciudad: San Pablo, nombre del pais: Philippines, Poblacion ciudad: 216326
+Nombre de la ciudad: Biñan, nombre del pais: Philippines, Poblacion ciudad: 209313
+Nombre de la ciudad: Taytay, nombre del pais: Philippines, Poblacion ciudad: 206188
+Nombre de la ciudad: Lucena, nombre del pais: Philippines, Poblacion ciudad: 203995
+Nombre de la ciudad: Imus, nombre del pais: Philippines, Poblacion ciudad: 203378
+Nombre de la ciudad: Olongapo, nombre del pais: Philippines, Poblacion ciudad: 202107
+Nombre de la ciudad: Binangonan, nombre del pais: Philippines, Poblacion ciudad: 195272
+Nombre de la ciudad: Santa Rosa, nombre del pais: Philippines, Poblacion ciudad: 193131
+Nombre de la ciudad: Tagum, nombre del pais: Philippines, Poblacion ciudad: 186783
+Nombre de la ciudad: Tacloban, nombre del pais: Philippines, Poblacion ciudad: 185855
+Nombre de la ciudad: Malolos, nombre del pais: Philippines, Poblacion ciudad: 182371
+Nombre de la ciudad: Mabalacat, nombre del pais: Philippines, Poblacion ciudad: 177954
+Nombre de la ciudad: Cotabato, nombre del pais: Philippines, Poblacion ciudad: 170467
+Nombre de la ciudad: Meycauayan, nombre del pais: Philippines, Poblacion ciudad: 169622
+Nombre de la ciudad: Puerto Princesa, nombre del pais: Philippines, Poblacion ciudad: 168453
+Nombre de la ciudad: Legazpi, nombre del pais: Philippines, Poblacion ciudad: 163353
+Nombre de la ciudad: Silang, nombre del pais: Philippines, Poblacion ciudad: 162444
+Nombre de la ciudad: Ormoc, nombre del pais: Philippines, Poblacion ciudad: 160529
+Nombre de la ciudad: San Carlos, nombre del pais: Philippines, Poblacion ciudad: 160495
+Nombre de la ciudad: Kabankalan, nombre del pais: Philippines, Poblacion ciudad: 155819
+Nombre de la ciudad: Talisay, nombre del pais: Philippines, Poblacion ciudad: 154093
+Nombre de la ciudad: Valencia, nombre del pais: Philippines, Poblacion ciudad: 153899
+Nombre de la ciudad: Calbayog, nombre del pais: Philippines, Poblacion ciudad: 153132
+Nombre de la ciudad: Santa Maria, nombre del pais: Philippines, Poblacion ciudad: 150110
+Nombre de la ciudad: Pagadian, nombre del pais: Philippines, Poblacion ciudad: 148272
+Nombre de la ciudad: Cadiz, nombre del pais: Philippines, Poblacion ciudad: 147688
+Nombre de la ciudad: Bago, nombre del pais: Philippines, Poblacion ciudad: 147446
+Nombre de la ciudad: Toledo, nombre del pais: Philippines, Poblacion ciudad: 146876
+Nombre de la ciudad: Naga, nombre del pais: Philippines, Poblacion ciudad: 143377
+Nombre de la ciudad: San Mateo, nombre del pais: Philippines, Poblacion ciudad: 141081
+Nombre de la ciudad: Panabo, nombre del pais: Philippines, Poblacion ciudad: 139361
+Nombre de la ciudad: Koronadal, nombre del pais: Philippines, Poblacion ciudad: 139190
+Nombre de la ciudad: Marawi, nombre del pais: Philippines, Poblacion ciudad: 136385
+Nombre de la ciudad: Dagupan, nombre del pais: Philippines, Poblacion ciudad: 135592
+Nombre de la ciudad: Sagay, nombre del pais: Philippines, Poblacion ciudad: 135007
+Nombre de la ciudad: Roxas, nombre del pais: Philippines, Poblacion ciudad: 131456
+Nombre de la ciudad: Lubao, nombre del pais: Philippines, Poblacion ciudad: 130776
+Nombre de la ciudad: Digos, nombre del pais: Philippines, Poblacion ciudad: 130227
+Nombre de la ciudad: San Miguel, nombre del pais: Philippines, Poblacion ciudad: 128826
+Nombre de la ciudad: Malaybalay, nombre del pais: Philippines, Poblacion ciudad: 128667
+Nombre de la ciudad: Tuguegarao, nombre del pais: Philippines, Poblacion ciudad: 125518
+Nombre de la ciudad: Ilagan, nombre del pais: Philippines, Poblacion ciudad: 124836
+Nombre de la ciudad: Baliuag, nombre del pais: Philippines, Poblacion ciudad: 124509
+Nombre de la ciudad: Surigao, nombre del pais: Philippines, Poblacion ciudad: 123322
+Nombre de la ciudad: San Carlos, nombre del pais: Philippines, Poblacion ciudad: 123036
+Nombre de la ciudad: San Juan del Monte, nombre del pais: Philippines, Poblacion ciudad: 122433
+Nombre de la ciudad: Tanauan, nombre del pais: Philippines, Poblacion ciudad: 122286
+Nombre de la ciudad: Concepcion, nombre del pais: Philippines, Poblacion ciudad: 119823
+Nombre de la ciudad: Rodriguez (Montalban), nombre del pais: Philippines, Poblacion ciudad: 119819
+Nombre de la ciudad: Sariaya, nombre del pais: Philippines, Poblacion ciudad: 119196
+Nombre de la ciudad: Malasiqui, nombre del pais: Philippines, Poblacion ciudad: 117762
+Nombre de la ciudad: General Mariano Alvarez, nombre del pais: Philippines, Poblacion ciudad: 116987
+Nombre de la ciudad: Urdaneta, nombre del pais: Philippines, Poblacion ciudad: 116089
+Nombre de la ciudad: Hagonoy, nombre del pais: Philippines, Poblacion ciudad: 115926
+Nombre de la ciudad: San Jose, nombre del pais: Philippines, Poblacion ciudad: 115493
+Nombre de la ciudad: Polomolok, nombre del pais: Philippines, Poblacion ciudad: 115181
+Nombre de la ciudad: Santiago, nombre del pais: Philippines, Poblacion ciudad: 114995
+Nombre de la ciudad: Tanza, nombre del pais: Philippines, Poblacion ciudad: 114981
+Nombre de la ciudad: Ozamis, nombre del pais: Philippines, Poblacion ciudad: 114880
+Nombre de la ciudad: Mexico, nombre del pais: Philippines, Poblacion ciudad: 113903
+Nombre de la ciudad: San Jose, nombre del pais: Philippines, Poblacion ciudad: 112627
+Nombre de la ciudad: Silay, nombre del pais: Philippines, Poblacion ciudad: 112073
+Nombre de la ciudad: General Trias, nombre del pais: Philippines, Poblacion ciudad: 112040
+Nombre de la ciudad: Tabaco, nombre del pais: Philippines, Poblacion ciudad: 111495
+Nombre de la ciudad: Cabuyao, nombre del pais: Philippines, Poblacion ciudad: 110937
+Nombre de la ciudad: Calapan, nombre del pais: Philippines, Poblacion ciudad: 110188
+Nombre de la ciudad: Mati, nombre del pais: Philippines, Poblacion ciudad: 110186
+Nombre de la ciudad: Midsayap, nombre del pais: Philippines, Poblacion ciudad: 110032
+Nombre de la ciudad: Cauayan, nombre del pais: Philippines, Poblacion ciudad: 108151
+Nombre de la ciudad: Gingoog, nombre del pais: Philippines, Poblacion ciudad: 106514
+Nombre de la ciudad: Dumaguete, nombre del pais: Philippines, Poblacion ciudad: 106396
+Nombre de la ciudad: San Fernando, nombre del pais: Philippines, Poblacion ciudad: 106205
+Nombre de la ciudad: Arayat, nombre del pais: Philippines, Poblacion ciudad: 105903
+Nombre de la ciudad: Bayawan (Tulong), nombre del pais: Philippines, Poblacion ciudad: 105486
+Nombre de la ciudad: Kidapawan, nombre del pais: Philippines, Poblacion ciudad: 105293
+Nombre de la ciudad: Daraga (Locsin), nombre del pais: Philippines, Poblacion ciudad: 105112
+Nombre de la ciudad: Marilao, nombre del pais: Philippines, Poblacion ciudad: 105097
+Nombre de la ciudad: Malita, nombre del pais: Philippines, Poblacion ciudad: 104040
+Nombre de la ciudad: Dipolog, nombre del pais: Philippines, Poblacion ciudad: 103896
+Nombre de la ciudad: Cavite, nombre del pais: Philippines, Poblacion ciudad: 103381
+Nombre de la ciudad: Danao, nombre del pais: Philippines, Poblacion ciudad: 102771
+Nombre de la ciudad: Bislig, nombre del pais: Philippines, Poblacion ciudad: 101813
+Nombre de la ciudad: Talavera, nombre del pais: Philippines, Poblacion ciudad: 101260
+Nombre de la ciudad: Guagua, nombre del pais: Philippines, Poblacion ciudad: 100770
+Nombre de la ciudad: Bayambang, nombre del pais: Philippines, Poblacion ciudad: 100511
+Nombre de la ciudad: Nasugbu, nombre del pais: Philippines, Poblacion ciudad: 99995
+Nombre de la ciudad: Baybay, nombre del pais: Philippines, Poblacion ciudad: 99492
+Nombre de la ciudad: Capas, nombre del pais: Philippines, Poblacion ciudad: 99065
+Nombre de la ciudad: Sultan Kudarat, nombre del pais: Philippines, Poblacion ciudad: 98693
+Nombre de la ciudad: Laoag, nombre del pais: Philippines, Poblacion ciudad: 98282
+Nombre de la ciudad: Bayugan, nombre del pais: Philippines, Poblacion ciudad: 97404
+Nombre de la ciudad: Malungon, nombre del pais: Philippines, Poblacion ciudad: 96997
+Nombre de la ciudad: Santa Cruz, nombre del pais: Philippines, Poblacion ciudad: 96437
+Nombre de la ciudad: Sorsogon, nombre del pais: Philippines, Poblacion ciudad: 96249
+Nombre de la ciudad: Candelaria, nombre del pais: Philippines, Poblacion ciudad: 96162
+Nombre de la ciudad: Ligao, nombre del pais: Philippines, Poblacion ciudad: 94263
+Nombre de la ciudad: Pyongyang, nombre del pais: North Korea, Poblacion ciudad: 2584353
+Nombre de la ciudad: Hamhung, nombre del pais: North Korea, Poblacion ciudad: 738402
+Nombre de la ciudad: Chongjin, nombre del pais: North Korea, Poblacion ciudad: 606011
+Nombre de la ciudad: Nampo, nombre del pais: North Korea, Poblacion ciudad: 589074
+Nombre de la ciudad: Sinuiju, nombre del pais: North Korea, Poblacion ciudad: 339181
+Nombre de la ciudad: Wonsan, nombre del pais: North Korea, Poblacion ciudad: 312273
+Nombre de la ciudad: Phyongsong, nombre del pais: North Korea, Poblacion ciudad: 283959
+Nombre de la ciudad: Sariwon, nombre del pais: North Korea, Poblacion ciudad: 264412
+Nombre de la ciudad: Haeju, nombre del pais: North Korea, Poblacion ciudad: 238430
+Nombre de la ciudad: Kanggye, nombre del pais: North Korea, Poblacion ciudad: 232435
+Nombre de la ciudad: Kimchaek, nombre del pais: North Korea, Poblacion ciudad: 186231
+Nombre de la ciudad: Hyesan, nombre del pais: North Korea, Poblacion ciudad: 185211
+Nombre de la ciudad: Kaesong, nombre del pais: North Korea, Poblacion ciudad: 178428
+Nombre de la ciudad: Gaza, nombre del pais: Palestine, Poblacion ciudad: 367918
+Nombre de la ciudad: Khan Yunis, nombre del pais: Palestine, Poblacion ciudad: 128150
+Nombre de la ciudad: Hebron, nombre del pais: Palestine, Poblacion ciudad: 124224
+Nombre de la ciudad: Jabaliya, nombre del pais: Palestine, Poblacion ciudad: 118502
+Nombre de la ciudad: Nablus, nombre del pais: Palestine, Poblacion ciudad: 104279
+Nombre de la ciudad: Rafah, nombre del pais: Palestine, Poblacion ciudad: 95737
+Nombre de la ciudad: Doha, nombre del pais: Qatar, Poblacion ciudad: 369342
+Nombre de la ciudad: Riyadh, nombre del pais: Saudi Arabia, Poblacion ciudad: 3458289
+Nombre de la ciudad: Jedda, nombre del pais: Saudi Arabia, Poblacion ciudad: 2128970
+Nombre de la ciudad: Mekka, nombre del pais: Saudi Arabia, Poblacion ciudad: 1004714
+Nombre de la ciudad: Medina, nombre del pais: Saudi Arabia, Poblacion ciudad: 632875
+Nombre de la ciudad: al-Dammam, nombre del pais: Saudi Arabia, Poblacion ciudad: 501784
+Nombre de la ciudad: al-Taif, nombre del pais: Saudi Arabia, Poblacion ciudad: 432910
+Nombre de la ciudad: Tabuk, nombre del pais: Saudi Arabia, Poblacion ciudad: 304421
+Nombre de la ciudad: Burayda, nombre del pais: Saudi Arabia, Poblacion ciudad: 258643
+Nombre de la ciudad: al-Hufuf, nombre del pais: Saudi Arabia, Poblacion ciudad: 234922
+Nombre de la ciudad: al-Mubarraz, nombre del pais: Saudi Arabia, Poblacion ciudad: 227951
+Nombre de la ciudad: Khamis Mushayt, nombre del pais: Saudi Arabia, Poblacion ciudad: 226703
+Nombre de la ciudad: Hail, nombre del pais: Saudi Arabia, Poblacion ciudad: 183942
+Nombre de la ciudad: al-Kharj, nombre del pais: Saudi Arabia, Poblacion ciudad: 158244
+Nombre de la ciudad: al-Khubar, nombre del pais: Saudi Arabia, Poblacion ciudad: 147424
+Nombre de la ciudad: Jubayl, nombre del pais: Saudi Arabia, Poblacion ciudad: 146488
+Nombre de la ciudad: Hafar al-Batin, nombre del pais: Saudi Arabia, Poblacion ciudad: 143367
+Nombre de la ciudad: al-Tuqba, nombre del pais: Saudi Arabia, Poblacion ciudad: 130778
+Nombre de la ciudad: Yanbu, nombre del pais: Saudi Arabia, Poblacion ciudad: 124639
+Nombre de la ciudad: Abha, nombre del pais: Saudi Arabia, Poblacion ciudad: 116836
+Nombre de la ciudad: Ara´ar, nombre del pais: Saudi Arabia, Poblacion ciudad: 112467
+Nombre de la ciudad: al-Qatif, nombre del pais: Saudi Arabia, Poblacion ciudad: 102895
+Nombre de la ciudad: al-Hawiya, nombre del pais: Saudi Arabia, Poblacion ciudad: 97693
+Nombre de la ciudad: Unayza, nombre del pais: Saudi Arabia, Poblacion ciudad: 94780
+Nombre de la ciudad: Najran, nombre del pais: Saudi Arabia, Poblacion ciudad: 94676
+Nombre de la ciudad: Singapore, nombre del pais: Singapore, Poblacion ciudad: 4180048
+Nombre de la ciudad: Damascus, nombre del pais: Syria, Poblacion ciudad: 1401418
+Nombre de la ciudad: Aleppo, nombre del pais: Syria, Poblacion ciudad: 1312966
+Nombre de la ciudad: Hims, nombre del pais: Syria, Poblacion ciudad: 527903
+Nombre de la ciudad: Hama, nombre del pais: Syria, Poblacion ciudad: 357232
+Nombre de la ciudad: Latakia, nombre del pais: Syria, Poblacion ciudad: 275251
+Nombre de la ciudad: al-Qamishliya, nombre del pais: Syria, Poblacion ciudad: 150114
+Nombre de la ciudad: Dayr al-Zawr, nombre del pais: Syria, Poblacion ciudad: 146133
+Nombre de la ciudad: Jaramana, nombre del pais: Syria, Poblacion ciudad: 144062
+Nombre de la ciudad: Duma, nombre del pais: Syria, Poblacion ciudad: 136456
+Nombre de la ciudad: al-Raqqa, nombre del pais: Syria, Poblacion ciudad: 112383
+Nombre de la ciudad: Idlib, nombre del pais: Syria, Poblacion ciudad: 94760
+Nombre de la ciudad: Bangkok, nombre del pais: Thailand, Poblacion ciudad: 6575508
+Nombre de la ciudad: Nonthaburi, nombre del pais: Thailand, Poblacion ciudad: 303900
+Nombre de la ciudad: Nakhon Ratchasima, nombre del pais: Thailand, Poblacion ciudad: 188728
+Nombre de la ciudad: Chiang Mai, nombre del pais: Thailand, Poblacion ciudad: 178012
+Nombre de la ciudad: Udon Thani, nombre del pais: Thailand, Poblacion ciudad: 164487
+Nombre de la ciudad: Hat Yai, nombre del pais: Thailand, Poblacion ciudad: 154636
+Nombre de la ciudad: Khon Kaen, nombre del pais: Thailand, Poblacion ciudad: 131610
+Nombre de la ciudad: Pak Kret, nombre del pais: Thailand, Poblacion ciudad: 131147
+Nombre de la ciudad: Nakhon Sawan, nombre del pais: Thailand, Poblacion ciudad: 128801
+Nombre de la ciudad: Ubon Ratchathani, nombre del pais: Thailand, Poblacion ciudad: 120998
+Nombre de la ciudad: Songkhla, nombre del pais: Thailand, Poblacion ciudad: 98733
+Nombre de la ciudad: Nakhon Pathom, nombre del pais: Thailand, Poblacion ciudad: 97901
+Nombre de la ciudad: Dushanbe, nombre del pais: Tajikistan, Poblacion ciudad: 545169
+Nombre de la ciudad: Khujand, nombre del pais: Tajikistan, Poblacion ciudad: 168024
+Nombre de la ciudad: Ashgabat, nombre del pais: Turkmenistan, Poblacion ciudad: 562440
+Nombre de la ciudad: Chärjew, nombre del pais: Turkmenistan, Poblacion ciudad: 196843
+Nombre de la ciudad: Dashhowuz, nombre del pais: Turkmenistan, Poblacion ciudad: 147528
+Nombre de la ciudad: Mary, nombre del pais: Turkmenistan, Poblacion ciudad: 105080
+Nombre de la ciudad: Dili, nombre del pais: East Timor, Poblacion ciudad: 49835
+Nombre de la ciudad: Istanbul, nombre del pais: Turkey, Poblacion ciudad: 9142991
+Nombre de la ciudad: Ankara, nombre del pais: Turkey, Poblacion ciudad: 3160900
+Nombre de la ciudad: Izmir, nombre del pais: Turkey, Poblacion ciudad: 2216425
+Nombre de la ciudad: Adana, nombre del pais: Turkey, Poblacion ciudad: 1176897
+Nombre de la ciudad: Bursa, nombre del pais: Turkey, Poblacion ciudad: 1140113
+Nombre de la ciudad: Gaziantep, nombre del pais: Turkey, Poblacion ciudad: 820933
+Nombre de la ciudad: Konya, nombre del pais: Turkey, Poblacion ciudad: 653749
+Nombre de la ciudad: Mersin (Içel), nombre del pais: Turkey, Poblacion ciudad: 610935
+Nombre de la ciudad: Antalya, nombre del pais: Turkey, Poblacion ciudad: 587736
+Nombre de la ciudad: Diyarbakir, nombre del pais: Turkey, Poblacion ciudad: 499270
+Nombre de la ciudad: Kayseri, nombre del pais: Turkey, Poblacion ciudad: 494873
+Nombre de la ciudad: Eskisehir, nombre del pais: Turkey, Poblacion ciudad: 489799
+Nombre de la ciudad: Sanliurfa, nombre del pais: Turkey, Poblacion ciudad: 422303
+Nombre de la ciudad: Samsun, nombre del pais: Turkey, Poblacion ciudad: 353601
+Nombre de la ciudad: Malatya, nombre del pais: Turkey, Poblacion ciudad: 343656
+Nombre de la ciudad: Gebze, nombre del pais: Turkey, Poblacion ciudad: 274842
+Nombre de la ciudad: Denizli, nombre del pais: Turkey, Poblacion ciudad: 264102
+Nombre de la ciudad: Sivas, nombre del pais: Turkey, Poblacion ciudad: 256605
+Nombre de la ciudad: Erzurum, nombre del pais: Turkey, Poblacion ciudad: 256494
+Nombre de la ciudad: Tarsus, nombre del pais: Turkey, Poblacion ciudad: 256152
+Nombre de la ciudad: Kahramanmaras, nombre del pais: Turkey, Poblacion ciudad: 255700
+Nombre de la ciudad: Elâzig, nombre del pais: Turkey, Poblacion ciudad: 238058
+Nombre de la ciudad: Van, nombre del pais: Turkey, Poblacion ciudad: 228179
+Nombre de la ciudad: Sultanbeyli, nombre del pais: Turkey, Poblacion ciudad: 219594
+Nombre de la ciudad: Izmit (Kocaeli), nombre del pais: Turkey, Poblacion ciudad: 218554
+Nombre de la ciudad: Manisa, nombre del pais: Turkey, Poblacion ciudad: 215515
+Nombre de la ciudad: Batman, nombre del pais: Turkey, Poblacion ciudad: 212025
+Nombre de la ciudad: Balikesir, nombre del pais: Turkey, Poblacion ciudad: 204315
+Nombre de la ciudad: Sakarya (Adapazari), nombre del pais: Turkey, Poblacion ciudad: 198342
+Nombre de la ciudad: Iskenderun, nombre del pais: Turkey, Poblacion ciudad: 159203
+Nombre de la ciudad: Osmaniye, nombre del pais: Turkey, Poblacion ciudad: 151901
+Nombre de la ciudad: Çorum, nombre del pais: Turkey, Poblacion ciudad: 151372
+Nombre de la ciudad: Kütahya, nombre del pais: Turkey, Poblacion ciudad: 150609
+Nombre de la ciudad: Hatay (Antakya), nombre del pais: Turkey, Poblacion ciudad: 149798
+Nombre de la ciudad: Kirikkale, nombre del pais: Turkey, Poblacion ciudad: 147781
+Nombre de la ciudad: Adiyaman, nombre del pais: Turkey, Poblacion ciudad: 147246
+Nombre de la ciudad: Trabzon, nombre del pais: Turkey, Poblacion ciudad: 143817
+Nombre de la ciudad: Ordu, nombre del pais: Turkey, Poblacion ciudad: 139040
+Nombre de la ciudad: Aydin, nombre del pais: Turkey, Poblacion ciudad: 133848
+Nombre de la ciudad: Usak, nombre del pais: Turkey, Poblacion ciudad: 133339
+Nombre de la ciudad: Edirne, nombre del pais: Turkey, Poblacion ciudad: 128367
+Nombre de la ciudad: Çorlu, nombre del pais: Turkey, Poblacion ciudad: 128281
+Nombre de la ciudad: Isparta, nombre del pais: Turkey, Poblacion ciudad: 126835
+Nombre de la ciudad: Karabük, nombre del pais: Turkey, Poblacion ciudad: 123063
+Nombre de la ciudad: Kilis, nombre del pais: Turkey, Poblacion ciudad: 123021
+Nombre de la ciudad: Alanya, nombre del pais: Turkey, Poblacion ciudad: 122038
+Nombre de la ciudad: Kiziltepe, nombre del pais: Turkey, Poblacion ciudad: 116524
+Nombre de la ciudad: Zonguldak, nombre del pais: Turkey, Poblacion ciudad: 116047
+Nombre de la ciudad: Siirt, nombre del pais: Turkey, Poblacion ciudad: 111426
+Nombre de la ciudad: Viransehir, nombre del pais: Turkey, Poblacion ciudad: 110698
+Nombre de la ciudad: Tekirdag, nombre del pais: Turkey, Poblacion ciudad: 110361
+Nombre de la ciudad: Karaman, nombre del pais: Turkey, Poblacion ciudad: 108409
+Nombre de la ciudad: Afyon, nombre del pais: Turkey, Poblacion ciudad: 108184
+Nombre de la ciudad: Aksaray, nombre del pais: Turkey, Poblacion ciudad: 106828
+Nombre de la ciudad: Ceyhan, nombre del pais: Turkey, Poblacion ciudad: 106549
+Nombre de la ciudad: Erzincan, nombre del pais: Turkey, Poblacion ciudad: 106437
+Nombre de la ciudad: Bismil, nombre del pais: Turkey, Poblacion ciudad: 105496
+Nombre de la ciudad: Nazilli, nombre del pais: Turkey, Poblacion ciudad: 103935
+Nombre de la ciudad: Tokat, nombre del pais: Turkey, Poblacion ciudad: 103519
+Nombre de la ciudad: Kars, nombre del pais: Turkey, Poblacion ciudad: 96757
+Nombre de la ciudad: Inegöl, nombre del pais: Turkey, Poblacion ciudad: 94156
+Nombre de la ciudad: Bandirma, nombre del pais: Turkey, Poblacion ciudad: 93844
+Nombre de la ciudad: Taipei, nombre del pais: Taiwan, Poblacion ciudad: 2748020
+Nombre de la ciudad: Kaohsiung, nombre del pais: Taiwan, Poblacion ciudad: 1535115
+Nombre de la ciudad: Taichung, nombre del pais: Taiwan, Poblacion ciudad: 978588
+Nombre de la ciudad: Tainan, nombre del pais: Taiwan, Poblacion ciudad: 757473
+Nombre de la ciudad: Panchiao, nombre del pais: Taiwan, Poblacion ciudad: 545013
+Nombre de la ciudad: Chungho, nombre del pais: Taiwan, Poblacion ciudad: 408019
+Nombre de la ciudad: Keelung (Chilung), nombre del pais: Taiwan, Poblacion ciudad: 400763
+Nombre de la ciudad: Sanchung, nombre del pais: Taiwan, Poblacion ciudad: 395438
+Nombre de la ciudad: Hsinchuang, nombre del pais: Taiwan, Poblacion ciudad: 379794
+Nombre de la ciudad: Hsinchu, nombre del pais: Taiwan, Poblacion ciudad: 376580
+Nombre de la ciudad: Chungli, nombre del pais: Taiwan, Poblacion ciudad: 331521
+Nombre de la ciudad: Fengshan, nombre del pais: Taiwan, Poblacion ciudad: 331431
+Nombre de la ciudad: Taoyuan, nombre del pais: Taiwan, Poblacion ciudad: 329221
+Nombre de la ciudad: Chiayi, nombre del pais: Taiwan, Poblacion ciudad: 275819
+Nombre de la ciudad: Hsintien, nombre del pais: Taiwan, Poblacion ciudad: 274252
+Nombre de la ciudad: Changhwa, nombre del pais: Taiwan, Poblacion ciudad: 236914
+Nombre de la ciudad: Yungho, nombre del pais: Taiwan, Poblacion ciudad: 236899
+Nombre de la ciudad: Tucheng, nombre del pais: Taiwan, Poblacion ciudad: 233981
+Nombre de la ciudad: Pingtung, nombre del pais: Taiwan, Poblacion ciudad: 223401
+Nombre de la ciudad: Yungkang, nombre del pais: Taiwan, Poblacion ciudad: 200802
+Nombre de la ciudad: Pingchen, nombre del pais: Taiwan, Poblacion ciudad: 195952
+Nombre de la ciudad: Tali, nombre del pais: Taiwan, Poblacion ciudad: 178885
+Nombre de la ciudad: Taiping, nombre del pais: Taiwan, Poblacion ciudad: 172210
+Nombre de la ciudad: Pate, nombre del pais: Taiwan, Poblacion ciudad: 168232
+Nombre de la ciudad: Fengyuan, nombre del pais: Taiwan, Poblacion ciudad: 167537
+Nombre de la ciudad: Luchou, nombre del pais: Taiwan, Poblacion ciudad: 167000
+Nombre de la ciudad: Hsichuh, nombre del pais: Taiwan, Poblacion ciudad: 161236
+Nombre de la ciudad: Shulin, nombre del pais: Taiwan, Poblacion ciudad: 157370
+Nombre de la ciudad: Yuanlin, nombre del pais: Taiwan, Poblacion ciudad: 131508
+Nombre de la ciudad: Yangmei, nombre del pais: Taiwan, Poblacion ciudad: 131425
+Nombre de la ciudad: Taliao, nombre del pais: Taiwan, Poblacion ciudad: 120578
+Nombre de la ciudad: Kueishan, nombre del pais: Taiwan, Poblacion ciudad: 116726
+Nombre de la ciudad: Tanshui, nombre del pais: Taiwan, Poblacion ciudad: 116401
+Nombre de la ciudad: Taitung, nombre del pais: Taiwan, Poblacion ciudad: 115524
+Nombre de la ciudad: Hualien, nombre del pais: Taiwan, Poblacion ciudad: 112786
+Nombre de la ciudad: Nantou, nombre del pais: Taiwan, Poblacion ciudad: 108953
+Nombre de la ciudad: Lungtan, nombre del pais: Taiwan, Poblacion ciudad: 107251
+Nombre de la ciudad: Touliu, nombre del pais: Taiwan, Poblacion ciudad: 102895
+Nombre de la ciudad: Tsaotun, nombre del pais: Taiwan, Poblacion ciudad: 100710
+Nombre de la ciudad: Kangshan, nombre del pais: Taiwan, Poblacion ciudad: 95924
+Nombre de la ciudad: Ilan, nombre del pais: Taiwan, Poblacion ciudad: 95716
+Nombre de la ciudad: Miaoli, nombre del pais: Taiwan, Poblacion ciudad: 93636
+Nombre de la ciudad: Toskent, nombre del pais: Uzbekistan, Poblacion ciudad: 2203047
+Nombre de la ciudad: Namangan, nombre del pais: Uzbekistan, Poblacion ciudad: 385468
+Nombre de la ciudad: Samarkand, nombre del pais: Uzbekistan, Poblacion ciudad: 376416
+Nombre de la ciudad: Andijon, nombre del pais: Uzbekistan, Poblacion ciudad: 331471
+Nombre de la ciudad: Buhoro, nombre del pais: Uzbekistan, Poblacion ciudad: 246678
+Nombre de la ciudad: Karsi, nombre del pais: Uzbekistan, Poblacion ciudad: 201941
+Nombre de la ciudad: Nukus, nombre del pais: Uzbekistan, Poblacion ciudad: 201941
+Nombre de la ciudad: Kükon, nombre del pais: Uzbekistan, Poblacion ciudad: 197780
+Nombre de la ciudad: Fargona, nombre del pais: Uzbekistan, Poblacion ciudad: 187792
+Nombre de la ciudad: Circik, nombre del pais: Uzbekistan, Poblacion ciudad: 152314
+Nombre de la ciudad: Margilon, nombre del pais: Uzbekistan, Poblacion ciudad: 146488
+Nombre de la ciudad: Ürgenc, nombre del pais: Uzbekistan, Poblacion ciudad: 144511
+Nombre de la ciudad: Angren, nombre del pais: Uzbekistan, Poblacion ciudad: 133171
+Nombre de la ciudad: Cizah, nombre del pais: Uzbekistan, Poblacion ciudad: 129841
+Nombre de la ciudad: Navoi, nombre del pais: Uzbekistan, Poblacion ciudad: 120998
+Nombre de la ciudad: Olmalik, nombre del pais: Uzbekistan, Poblacion ciudad: 119541
+Nombre de la ciudad: Termiz, nombre del pais: Uzbekistan, Poblacion ciudad: 113923
+Nombre de la ciudad: Ho Chi Minh City, nombre del pais: Vietnam, Poblacion ciudad: 4140792
+Nombre de la ciudad: Hanoi, nombre del pais: Vietnam, Poblacion ciudad: 1466964
+Nombre de la ciudad: Haiphong, nombre del pais: Vietnam, Poblacion ciudad: 814770
+Nombre de la ciudad: Da Nang, nombre del pais: Vietnam, Poblacion ciudad: 398133
+Nombre de la ciudad: Biên Hoa, nombre del pais: Vietnam, Poblacion ciudad: 293490
+Nombre de la ciudad: Nha Trang, nombre del pais: Vietnam, Poblacion ciudad: 230272
+Nombre de la ciudad: Hue, nombre del pais: Vietnam, Poblacion ciudad: 228001
+Nombre de la ciudad: Can Tho, nombre del pais: Vietnam, Poblacion ciudad: 224295
+Nombre de la ciudad: Cam Pha, nombre del pais: Vietnam, Poblacion ciudad: 217532
+Nombre de la ciudad: Nam Dinh, nombre del pais: Vietnam, Poblacion ciudad: 178634
+Nombre de la ciudad: Quy Nhon, nombre del pais: Vietnam, Poblacion ciudad: 169985
+Nombre de la ciudad: Vung Tau, nombre del pais: Vietnam, Poblacion ciudad: 151007
+Nombre de la ciudad: Rach Gia, nombre del pais: Vietnam, Poblacion ciudad: 146833
+Nombre de la ciudad: Long Xuyen, nombre del pais: Vietnam, Poblacion ciudad: 138040
+Nombre de la ciudad: Thai Nguyen, nombre del pais: Vietnam, Poblacion ciudad: 132798
+Nombre de la ciudad: Hong Gai, nombre del pais: Vietnam, Poblacion ciudad: 132633
+Nombre de la ciudad: Phan Thiêt, nombre del pais: Vietnam, Poblacion ciudad: 118850
+Nombre de la ciudad: Cam Ranh, nombre del pais: Vietnam, Poblacion ciudad: 118647
+Nombre de la ciudad: Vinh, nombre del pais: Vietnam, Poblacion ciudad: 116998
+Nombre de la ciudad: My Tho, nombre del pais: Vietnam, Poblacion ciudad: 112783
+Nombre de la ciudad: Da Lat, nombre del pais: Vietnam, Poblacion ciudad: 110707
+Nombre de la ciudad: Buon Ma Thuot, nombre del pais: Vietnam, Poblacion ciudad: 100963
+Nombre de la ciudad: Sanaa, nombre del pais: Yemen, Poblacion ciudad: 523945
+Nombre de la ciudad: Aden, nombre del pais: Yemen, Poblacion ciudad: 414391
+Nombre de la ciudad: Taizz, nombre del pais: Yemen, Poblacion ciudad: 330431
+Nombre de la ciudad: Hodeida, nombre del pais: Yemen, Poblacion ciudad: 310559
+Nombre de la ciudad: al-Mukalla, nombre del pais: Yemen, Poblacion ciudad: 127344
+Nombre de la ciudad: Ibb, nombre del pais: Yemen, Poblacion ciudad: 107473

@@ -22,7 +22,7 @@ public class DBConnection {
 	private String db_user;
 	private String db_pass;
 	
-	private static final String RUTA = "Ficheros/config.txt";
+	private static final String RUTA = "Ficheros/";
 	private static final String DELIMITER = "@";
 
 	public static synchronized DBConnection getInstance() throws ConfigException {
