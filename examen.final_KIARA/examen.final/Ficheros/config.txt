@@ -1,6 +1,0 @@
-url@jdbc:mysql://
-ip@1272.0.0.1
-port@8889
-dbName@world
-user@root
-pass@
