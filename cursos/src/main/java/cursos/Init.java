@@ -67,7 +67,9 @@ public class Init {
 					break;
 				case 6:
 					//as2.addAlumno(81, "Lara", "Lopez", "677736372",  LocalDate.of(2016, 8, 19));
-					as.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
+					//as.addAlumno(82, "Alonso", "Lopez", "677736372",  null);
+					Alumnos al = new Alumnos(345, "Prueba", "prueba", "768857564", null);
+					as.addAlumoObj(al);
 					break;
 				case 7:
 					as.modifyNombreAlumno("Laia", "Armando");

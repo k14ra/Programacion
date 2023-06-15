@@ -27,6 +27,10 @@ public class AlumnosRepository {
 		return dao.getAll();
 	}
 	
+	public void addAlumoObj(Alumnos alumno) {
+		dao.addAlumoObj(alumno);
+	}
+	
 	public void addAlumno(int id, String nombre, String apellidos, String tlfn, Date fechaNac) {
 		dao.addAlumno(id, nombre, apellidos, tlfn, fechaNac);
 	}

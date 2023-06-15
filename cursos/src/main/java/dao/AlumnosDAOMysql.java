@@ -37,6 +37,23 @@ public class AlumnosDAOMysql implements AlumnosDAO {
 		return listaAlumnos;
 	}
 
+	public void addAlumoObj(Alumnos alumno) {
+		
+		try(PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(INSERT_STUDENT);){
+			stmt.setInt(1, alumno.getIdAlumno());
+			stmt.setString(2, alumno.getNombre());
+			stmt.setString(3, alumno.getApellidos());
+			stmt.setString(4, alumno.getTlf());
+			stmt.setDate(5, alumno.getFechaNac());
+
+			stmt.executeUpdate();
+			System.out.println("Alumno añadido correctamente.");
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	@Override
 	public void addAlumno(int id, String nombre, String apellidos, String tlfn, Date fechaNac) {
 		try (PreparedStatement stmt = DBConnection.getInstance().getConnection().prepareStatement(INSERT_STUDENT);){

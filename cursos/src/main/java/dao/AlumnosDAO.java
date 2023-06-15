@@ -16,6 +16,11 @@ public interface AlumnosDAO {
 	/**
 	 * insert student
 	 */
+	public void addAlumoObj(Alumnos alumno);
+
+	/**
+	 * insert student
+	 */
 	public void addAlumno(int id, String nombre, String apellidos, String tlfn, Date fechaNac);
 	
 	/**

@@ -18,7 +18,10 @@ public class AlumnosService {
 		return AlumnosRepository.getInstance().getAll();
 	}
 	
-	
+	public void addAlumoObj(Alumnos alumno) {
+		AlumnosRepository.getInstance().addAlumoObj(alumno);
+	}
+
 	public void addAlumno(int id, String nombre, String apellidos, String tlfn, Date fechaNac) {
 		AlumnosRepository.getInstance().addAlumno(id, nombre, apellidos, tlfn, fechaNac);
 	}
